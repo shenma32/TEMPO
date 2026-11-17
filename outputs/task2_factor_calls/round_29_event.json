@@ -1,0 +1,82 @@
+{
+  "request_sha256": "d9c9f5468445d93a54be06ba11649a96c90ee38592065a75ec161dbf61272a2d",
+  "response_id": "f53b8e04-f707-4dde-9f0a-fa6514b9bec5",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "AI需求强劲，但亚马逊闲置英伟达芯片及估值争论导致方向不明"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "长期投资价值观点，短期无明确催化剂"
+      },
+      {
+        "ticker": "META",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "巨额隐私罚款与股价上涨并存，方向抵消"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "投资者在10月28日公告前审慎观望，无明确方向"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "无新闻检索到，无公司特定催化剂"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "AI芯片闲置与招聘、退款等消息混杂，方向不明"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "无新闻检索到，无公司特定催化剂"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_up",
+        "speed": "fast",
+        "reason": "Susquehanna上调目标价，财报前情绪积极"
+      },
+      {
+        "ticker": "WMT",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "新会员优惠或小幅提振，但影响有限"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_up",
+        "speed": "fast",
+        "reason": "强劲财报及科技股上涨带动"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 305,
+    "prompt_tokens": 704,
+    "total_tokens": 1009,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 704
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "request_sha256": "d92943410d7f710553628c780102334f2ef4138afdce4a10a4e4842bc44dcdfd",
+  "response_id": "706e9a86-405f-4ce6-a022-e51cb94fb1e9",
+  "response_model": "deepseek-flash",
+  "thinking": "disabled",
+  "reasoning_effort": null,
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "feedback": [
+      {
+        "ticker": "GOOG",
+        "add": true,
+        "strength": "medium",
+        "reason": "实际收益较原预测高出约1.8个百分点，误差显著；当前摘要提及分析师对Alphabet费用管理能力的质疑，存在持续不确定性，但幅度尚不足以判定为高强度。"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 62,
+    "prompt_tokens": 806,
+    "total_tokens": 868,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 806
+  }
+}

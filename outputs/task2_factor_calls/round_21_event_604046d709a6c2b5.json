@@ -1,0 +1,138 @@
+{
+  "request_sha256": "604046d709a6c2b557aa4c3fdaef8d32b8c69f707f81fc5c14bccd65e6efc26b",
+  "response_id": "af4e54e5-8d02-4cc9-804b-230ccdba6bae",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "fast",
+        "source_ids": [
+          "NVDA:4",
+          "NVDA:10",
+          "NVDA:19"
+        ],
+        "reason": "AI投资加码、中国科技巨头350亿美元合规芯片订单及芯片股情绪修复构成正向催化"
+      },
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "NVDA:7",
+          "NVDA:15"
+        ],
+        "reason": "Anthropic与Nscale潜在第二笔巨额合作利好AI算力需求"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "GOOG:1"
+        ],
+        "reason": "美银称云业务增长与TPU销售可能推动Q3超预期"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_down",
+        "speed": "slow",
+        "source_ids": [
+          "GOOG:4"
+        ],
+        "reason": "与微软禁止代币化股票在OKX-ICE平台交易，面临反对增加"
+      },
+      {
+        "ticker": "META",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "无直接针对Meta的明确方向性事件，摘要为行业性AI芯片与大盘信息"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_down",
+        "speed": "slow",
+        "source_ids": [
+          "MSFT:9"
+        ],
+        "reason": "微软与Alphabet禁止其代币化股票在OKX-ICE交易，反对意见增至16条"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "MSFT:6"
+        ],
+        "reason": "Splashtop自动化工具支持Microsoft Intune应用打包，生态扩展"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "无对应来源标题，无法识别明确事件"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "AMZN:2",
+          "AMZN:5",
+          "AMZN:4"
+        ],
+        "reason": "Q3趋势向好、假期招聘扩大及数据中心交易扩展支撑反弹"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "仅有买入时机讨论及人事相关轶闻，无明确方向性催化"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_up",
+        "speed": "fast",
+        "source_ids": [
+          "AMD:1",
+          "AMD:2"
+        ],
+        "reason": "AI担忧消退芯片股反弹，分析师称AI芯片机会或超华尔街预期"
+      },
+      {
+        "ticker": "WMT",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "WMT:1",
+          "WMT:3"
+        ],
+        "reason": "推出120美元会员捆绑及与Sam's Club联合折扣会员，假期前强化会员业务"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "马斯克薪酬估值与合并猜测属非方向性话题，无明确价格催化"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 611,
+    "prompt_tokens": 2819,
+    "total_tokens": 3430,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 2819
+  }
+}

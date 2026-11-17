@@ -1,0 +1,112 @@
+{
+  "request_sha256": "b0c5d1fc291d5b65373bedb51f639222105e414ae2de4d562792231a65f04ceb",
+  "response_id": "117a7d2a-5ab1-4aa5-973c-7d66bd9b6378",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "medium",
+        "source_ids": [
+          "NVDA:19",
+          "NVDA:18",
+          "NVDA:3"
+        ],
+        "reason": "竞争威胁：DeepSeek与华为结盟、Tenstorrent估值扩张、亚马逊简化AI芯片使用，均指向替代性竞争压力。"
+      },
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "NVDA:7"
+        ],
+        "reason": "在木星超算上完成创纪录量子计算模拟，强化技术领先叙事。"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "Anthropic IPO价值与Reddit估值讨论均无明确短期方向性事件。"
+      },
+      {
+        "ticker": "META",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "Q2财报对比及市场AI板块反弹属背景信息，无独立方向性事件。"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "MSFT:2"
+        ],
+        "reason": "退出AI数据中心交易，短期项目收缩信号偏负面。"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "slow",
+        "source_ids": [],
+        "reason": "研究排名维持领先，属声誉性信息，无价格方向。"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "AMZN:2",
+          "AMZN:1"
+        ],
+        "reason": "AI芯片易用性提升增强云AI竞争力，且分析师维持买入观点。"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "仅涉及高股息股跑赢及指数配置讨论，无公司特定方向事件。"
+      },
+      {
+        "ticker": "AMD",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "与Nvidia、TSMC的研发与现金流对比属长期竞争讨论，无明确短期方向。"
+      },
+      {
+        "ticker": "WMT",
+        "level": "small_down",
+        "speed": "slow",
+        "source_ids": [
+          "WMT:2"
+        ],
+        "reason": "拟发行至少60亿美元债券，增加杠杆与供给压力，信号略偏负面。"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "仅因大盘AI交易反弹被提及，无公司特定方向性事件。"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 499,
+    "prompt_tokens": 2286,
+    "total_tokens": 2785,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 2286
+  }
+}

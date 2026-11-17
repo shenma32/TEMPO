@@ -1,0 +1,54 @@
+{
+  "request_sha256": "3d970a1bda6c4da5bd562a89cc27c823d66b3c93b3bf888251ede833e0aee69c",
+  "response_id": "21907653-0483-436d-8e05-72205dec35ee",
+  "response_model": "deepseek-flash",
+  "thinking": "disabled",
+  "reasoning_effort": null,
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "feedback": [
+      {
+        "ticker": "META",
+        "add": true,
+        "strength": "medium",
+        "reason": "相对市场误差约-2.78%，且有显著个股负面消息（25亿美元罚款、首次现金消耗），可能持续压制相对表现"
+      },
+      {
+        "ticker": "MSFT",
+        "add": false,
+        "strength": "low",
+        "reason": "相对误差约-1.02%，无个股特定重大负面消息，更接近普通波动"
+      },
+      {
+        "ticker": "JPM",
+        "add": false,
+        "strength": "low",
+        "reason": "相对误差约+1.39%，但摘要仅涉及并购监管评论，缺乏持续正向个股驱动"
+      },
+      {
+        "ticker": "AMZN",
+        "add": false,
+        "strength": "low",
+        "reason": "相对误差约-1.67%，摘要主要为ETF持仓背景，未见持续个股特异性影响"
+      },
+      {
+        "ticker": "TSLA",
+        "add": true,
+        "strength": "medium",
+        "reason": "相对市场误差约+4.22%，尽管有AI交易担忧，但盈利超预期和上调目标价提供持续正向相对动力"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 215,
+    "prompt_tokens": 994,
+    "total_tokens": 1209,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 994
+  }
+}

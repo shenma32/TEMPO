@@ -1,0 +1,28 @@
+{
+  "request_sha256": "b9dcf7cdaee9179a02eab59ab925c13acedb416179c529ea73b3878c959f568d",
+  "response_id": "9d7ee4a8-2d06-4c57-9a04-068bdb871eda",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "feedback": [
+      {
+        "ticker": "GOOG",
+        "add": true,
+        "strength": "medium",
+        "reason": "实际收益明显高于预测，误差约1.8个百分点；但当前摘要仅提及费用管理与AI竞争，缺乏明确持续催化剂，故定为中等强度、倾向衰减。"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 59,
+    "prompt_tokens": 778,
+    "total_tokens": 837,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 778
+  }
+}

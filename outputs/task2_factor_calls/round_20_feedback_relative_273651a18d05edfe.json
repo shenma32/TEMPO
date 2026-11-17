@@ -1,0 +1,40 @@
+{
+  "request_sha256": "273651a18d05edfe57fd96dfd872d523ff039ac481b054fe1b673579bdecf907",
+  "response_id": "4cb756ca-fa81-446a-952f-69a4e77504b3",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "feedback": [
+      {
+        "ticker": "MSFT",
+        "add": false,
+        "strength": "low",
+        "reason": "相对误差约-1.1%，无明确持续个股事件，可能为噪声。"
+      },
+      {
+        "ticker": "AMD",
+        "add": true,
+        "strength": "medium",
+        "reason": "相对误差约+2.5%，叠加英伟达进军CPU竞争，存在持续行业相对影响。"
+      },
+      {
+        "ticker": "WMT",
+        "add": true,
+        "strength": "medium",
+        "reason": "相对误差约-1.9%，供应商资金审查带来持续个股压力。"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 656,
+    "total_tokens": 770,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 656
+  }
+}

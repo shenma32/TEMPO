@@ -1,0 +1,82 @@
+{
+  "request_sha256": "0c5c1f3e1f081d4f58feb4c46fb613af6a06ee151b9cedb7b62ba15f1958f4f8",
+  "response_id": "a34d3ac2-f0d7-4e3c-9405-7562fbeff138",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "分析师担忧AI数据中心产能缺口及工厂停机"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "云收入增长82%且即将发布财报"
+      },
+      {
+        "ticker": "META",
+        "level": "small_down",
+        "speed": "slow",
+        "reason": "发行无投票权股份融资AI扩张及成本上升"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "Azure增长强劲但云利润率受关注，方向不明"
+      },
+      {
+        "ticker": "JPM",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "摘要提及美国运通裁员计划拖累相关金融股情绪"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "分析师警告AI数据中心产能或不及预期"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "新折叠iPhone发布但华尔街信号混杂"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "科技股大幅抛售拖累半导体板块"
+      },
+      {
+        "ticker": "WMT",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "推出AI购物工具以提升交易量"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "Cybertruck退出澳新市场"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 287,
+    "prompt_tokens": 731,
+    "total_tokens": 1018,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 731
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "request_sha256": "06c04a91307274b3be80e2bc4c8409806346c900a4170f95ef8f7630b1b11201",
+  "response_id": "78b27661-0d1b-45f4-9c81-53085f9305b2",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "feedback": [
+      {
+        "ticker": "NVDA",
+        "add": false,
+        "strength": "low",
+        "reason": "小幅负偏差，幅度接近噪声，无持续误差信号"
+      },
+      {
+        "ticker": "META",
+        "add": true,
+        "strength": "medium",
+        "reason": "实际显著低于预测，且财报后AI支出担忧与股价下跌形成持续压力"
+      },
+      {
+        "ticker": "AMZN",
+        "add": false,
+        "strength": "low",
+        "reason": "偏差较小，摘要偏正面，不足以视为持续误差"
+      },
+      {
+        "ticker": "AMD",
+        "add": true,
+        "strength": "high",
+        "reason": "最大负偏差，且摘要显示板块动能偏向NVDA，误差可能持续"
+      },
+      {
+        "ticker": "WMT",
+        "add": false,
+        "strength": "low",
+        "reason": "正向小偏差，零售摘要中性，无持续影响证据"
+      },
+      {
+        "ticker": "TSLA",
+        "add": true,
+        "strength": "high",
+        "reason": "利润大幅下滑且预测明显偏离，负面基本面支持持续误差因子"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 200,
+    "prompt_tokens": 1039,
+    "total_tokens": 1239,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 1039
+  }
+}

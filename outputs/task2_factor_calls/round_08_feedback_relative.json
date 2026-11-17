@@ -1,0 +1,28 @@
+{
+  "request_sha256": "6de7ba76fa8fffac54b814b2435483815faa8d406b0c09ce4116ed0409f3a23a",
+  "response_id": "21ddb429-0ac7-4355-8ae5-5ba581512fdf",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "feedback": [
+      {
+        "ticker": "GOOG",
+        "add": true,
+        "strength": "medium",
+        "reason": "相对市场误差约+1.65%，且当前摘要提到分析师质疑Alphabet费用管理能力，说明存在公司特定持续影响，并非仅随机波动。"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 56,
+    "prompt_tokens": 858,
+    "total_tokens": 914,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 858
+  }
+}

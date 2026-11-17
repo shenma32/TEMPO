@@ -1,0 +1,52 @@
+{
+  "request_sha256": "db539ed6f2052167a709e7bed9cde81f4ed14608f43b8b639d154cea151cb34f",
+  "response_id": "8cacaded-0309-4dd1-af4f-bdb0cb788a71",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "feedback": [
+      {
+        "ticker": "NVDA",
+        "add": true,
+        "strength": "medium",
+        "reason": "实际跌幅超预测两个百分点以上，摘要显示半导体板块抛售，误差可能持续。"
+      },
+      {
+        "ticker": "GOOG",
+        "add": true,
+        "strength": "low",
+        "reason": "小幅负向误差，摘要多空交织，持续影响证据不足。"
+      },
+      {
+        "ticker": "META",
+        "add": true,
+        "strength": "low",
+        "reason": "轻微负向误差，AI竞争背景但缺乏强持续信号。"
+      },
+      {
+        "ticker": "AMD",
+        "add": true,
+        "strength": "high",
+        "reason": "实际跌幅远超预测，摘要确认AI抛售拖累芯片股，误差显著且可能持续。"
+      },
+      {
+        "ticker": "WMT",
+        "add": true,
+        "strength": "medium",
+        "reason": "实际涨幅远超预测，德银上调评级催化，方向性误差值得记录。"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 997,
+    "total_tokens": 1177,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 997
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "request_sha256": "94d9ee60482edb9e138c0d13ec8e6bdf5b61bcccc37db653eb7baa4a5a346b4b",
+  "response_id": "0921a6f3-8dbe-40cf-9017-f12241120cd5",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "feedback": [
+      {
+        "ticker": "AAPL",
+        "add": true,
+        "strength": "low",
+        "reason": "实际收益高于预测约1.3个百分点，但幅度接近普通波动；摘要仅涉及供应链扩展，未见持续驱动，故仅记为低强度。"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 55,
+    "prompt_tokens": 791,
+    "total_tokens": 846,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 791
+  }
+}

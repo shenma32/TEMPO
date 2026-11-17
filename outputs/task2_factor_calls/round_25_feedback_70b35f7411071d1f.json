@@ -1,0 +1,34 @@
+{
+  "request_sha256": "70b35f7411071d1fac04eaebf32c1312470c6578ff8ff55eb9a6c2aedec52938",
+  "response_id": "5090650c-2beb-45c7-8fee-85f09b42722b",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "feedback": [
+      {
+        "ticker": "NVDA",
+        "add": true,
+        "strength": "medium",
+        "reason": "Actual return exceeded negative prediction by ~2.7个百分点，且AI基建与合作伙伴扩张新闻持续，误差可能非纯噪声。"
+      },
+      {
+        "ticker": "TSLA",
+        "add": true,
+        "strength": "medium",
+        "reason": "实际收益高于预测约2.6个百分点，叠加与SpaceX合并探索及AI乐观情绪，误差具持续修正可能。"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 95,
+    "prompt_tokens": 834,
+    "total_tokens": 929,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 834
+  }
+}

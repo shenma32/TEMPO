@@ -1,0 +1,82 @@
+{
+  "request_sha256": "1174c46ea77259f4a98e2bfe639a2e987f798e2da4870e74776421799247b718",
+  "response_id": "0013fc22-4457-4fd8-953f-7d2abcb00fb0",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "New AI initiative may disrupt video industry; chip reshoring tailwind, though CoreWeave weakness tempers"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "Mixed headlines: Berkshire interest, Reddit user pressure, Trade Desk evaluation; no clear direction for GOOG"
+      },
+      {
+        "ticker": "META",
+        "level": "small_up",
+        "speed": "fast",
+        "reason": "2-for-1 stock split announcement typically positive near-term catalyst despite sector volatility"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "Durable growth reinforced but no specific new catalyst; broad AI investment backdrop"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "Asset management teams moving independent; strategic shift, limited near-term price impact"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "Long-horizon 2030 upside speculation only; no immediate directional event"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "Foldable iPhone launch with supply constraints may limit near-term sales enthusiasm"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "Moved amid broader market decline and tech sell-off pressure"
+      },
+      {
+        "ticker": "WMT",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "No news retrieved; no company-specific catalyst inferable"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "Focus amid sharp tech sell-off and rising Rivian competition pressure"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 340,
+    "prompt_tokens": 702,
+    "total_tokens": 1042,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 702
+  }
+}

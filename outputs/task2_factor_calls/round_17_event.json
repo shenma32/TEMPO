@@ -1,0 +1,82 @@
+{
+  "request_sha256": "1e578d4dd302e1155da752e904c68ac6bd955c0027185ceb21af7c1bdda8b70a",
+  "response_id": "b8d42a4a-b709-4b83-855b-79e56f438249",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "混合信号：增长被低估，但面临来自亚马逊和新云厂商的竞争压力。"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "科技巨头上涨支撑市场回升，AI芯片竞争格局分化。"
+      },
+      {
+        "ticker": "META",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "强化其第二大AI领导者的地位，电子商务和光纤合作带来温和利好。"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "Azure和M365需求强劲，部分被AI芯片落后的看法所抵消。"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "可持续发展和JPM Coin相关新闻，缺少即时的价格驱动因素。"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "large_up",
+        "speed": "fast",
+        "reason": "摩根士丹利上调AWS增长预期，且股价已大涨。"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "新品发布会及强劲预订带来温和正面影响，但中国需求表现不一。"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_up",
+        "speed": "fast",
+        "reason": "AI芯片股在板块反弹中大幅回升。"
+      },
+      {
+        "ticker": "WMT",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "债券发行和可能进行的加拿大发售，方向性影响不明确。"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "受佛罗里达州支持和飞行Roadster带来的乐观情绪提振，但季度预期偏弱。"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 336,
+    "prompt_tokens": 711,
+    "total_tokens": 1047,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 711
+  }
+}

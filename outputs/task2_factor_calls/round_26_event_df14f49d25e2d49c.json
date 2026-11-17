@@ -1,0 +1,82 @@
+{
+  "request_sha256": "df14f49d25e2d49cadc93129d9a4951905b134496f07553fb69371030402174c",
+  "response_id": "33f6bb42-45ef-4c90-a10e-0932dd06a487",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "与Procore、Hitachi Solutions、Microsoft扩大AI合作"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "估值审视与Waymo潜在价值讨论，无明确方向性催化"
+      },
+      {
+        "ticker": "META",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "财报前预期存在显著上行空间"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "与NVIDIA、Merck KGaA合作推进AI患者支持模型"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "未检索到公司特定新闻，无明确催化"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "估值讨论及机器人出租车融资疑问，方向不明"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "未检索到公司特定新闻，无明确催化"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "137%上涨后高估值面临财报前审视"
+      },
+      {
+        "ticker": "WMT",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "广告聚焦育儿社会议题，非财务或零售事件"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "large_up",
+        "speed": "fast",
+        "reason": "Musk确认合并谈判，Tesla与SpaceX股价大涨"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 306,
+    "prompt_tokens": 750,
+    "total_tokens": 1056,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 750
+  }
+}

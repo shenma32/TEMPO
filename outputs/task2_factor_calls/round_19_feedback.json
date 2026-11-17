@@ -1,0 +1,46 @@
+{
+  "request_sha256": "5c25023ef1be45efac25a3e068894b2af40ff1abc2e9bc4d1a5faa6aa434abcf",
+  "response_id": "489e2dc3-8986-4f1f-a65b-1502dcf1ecab",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "feedback": [
+      {
+        "ticker": "META",
+        "add": true,
+        "strength": "low",
+        "reason": "预测小幅正收益但实际下跌约1.6%，误差为负且幅度有限，公开摘要显示AI投资引发的分析师谨慎可能延续轻微偏差，但不足以判定强持续影响。"
+      },
+      {
+        "ticker": "AAPL",
+        "add": true,
+        "strength": "low",
+        "reason": "预测接近持平但实际下跌约1%，误差为负；摘要提及分析师下调评级和iPhone出货放缓，存在轻微持续性依据，但幅度较小。"
+      },
+      {
+        "ticker": "AMD",
+        "add": true,
+        "strength": "medium",
+        "reason": "预测小幅正收益而实际下跌约2%，误差约-2.4%，为四只中最大；摘要显示芯片股近期波动和AI交易反弹不稳，存在中等持续误差反馈依据。"
+      },
+      {
+        "ticker": "WMT",
+        "add": false,
+        "strength": "low",
+        "reason": "预测接近零而实际上涨约1.4%，误差为正但属于普通波动；摘要为通胀和AI购物等一般性信息，无明显持续系统性偏差，故不加入。"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 227,
+    "prompt_tokens": 922,
+    "total_tokens": 1149,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 922
+  }
+}

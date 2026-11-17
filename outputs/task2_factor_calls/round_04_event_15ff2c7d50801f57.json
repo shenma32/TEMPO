@@ -1,0 +1,142 @@
+{
+  "request_sha256": "15ff2c7d50801f57772bdbd956974a0dc0642fa7f3a3efcdf37ca0d5986a2d29",
+  "response_id": "1e2dac94-47dd-4886-a664-a4034ab52021",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "NVDA:4",
+          "NVDA:5"
+        ],
+        "reason": "英伟达推进 AI 芯片设计与制造合作，属正面业务进展"
+      },
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "NVDA:7"
+        ],
+        "reason": "AI 带动内存芯片定价权增强，利好半导体链"
+      },
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "NVDA:6"
+        ],
+        "reason": "OpenAI 计算负责人离职，或引发 AI 需求预期波动"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "摘要无明确直接影响谷歌的方向性事件"
+      },
+      {
+        "ticker": "META",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "META:2"
+        ],
+        "reason": "AI 支出担忧暂缓，情绪面略偏正面"
+      },
+      {
+        "ticker": "META",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "META:1"
+        ],
+        "reason": "WhatsApp 功能扩展，属温和产品利好"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_down",
+        "speed": "slow",
+        "source_ids": [
+          "MSFT:2"
+        ],
+        "reason": "分析师相对看淡微软、偏好其他云厂商"
+      },
+      {
+        "ticker": "JPM",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "JPM:1"
+        ],
+        "reason": "华尔街投行交易管道强劲"
+      },
+      {
+        "ticker": "JPM",
+        "level": "small_down",
+        "speed": "slow",
+        "source_ids": [
+          "JPM:2"
+        ],
+        "reason": "监管报告称大型银行拒绝服务客户，存声誉与监管风险"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "摘要无明确直接指向亚马逊的方向性事件"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_up",
+        "speed": "fast",
+        "source_ids": [
+          "AAPL:1",
+          "AAPL:2"
+        ],
+        "reason": "苹果市值重回 5 万亿美元，里程碑消息偏正面"
+      },
+      {
+        "ticker": "AMD",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "摘要仅泛谈数据中心，无 AMD 明确事件"
+      },
+      {
+        "ticker": "WMT",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "无相关新闻来源"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "TSLA:1"
+        ],
+        "reason": "特斯拉电池向加州电网创纪录供电，能源业务正面"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 550,
+    "prompt_tokens": 1767,
+    "total_tokens": 2317,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 1767
+  }
+}

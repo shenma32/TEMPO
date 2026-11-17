@@ -1,0 +1,40 @@
+{
+  "request_sha256": "c9e5da32597af01e727df112cfaac922944299661e705f4452d290840ba36f62",
+  "response_id": "bfa9a974-cf7d-4fc4-bc09-720db1976c58",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "feedback": [
+      {
+        "ticker": "GOOG",
+        "add": true,
+        "strength": "medium",
+        "reason": "相对市场误差-1.35%，方向明确且摘要显示估值争议持续，可能非纯随机波动"
+      },
+      {
+        "ticker": "META",
+        "add": true,
+        "strength": "medium",
+        "reason": "相对市场误差+1.70%，财报前预期显著，摘要支持持续正向偏离但需防事件驱动"
+      },
+      {
+        "ticker": "MSFT",
+        "add": false,
+        "strength": "low",
+        "reason": "误差+0.89%幅度较小，摘要多为常规合作新闻，不足以判定持续影响"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 667,
+    "total_tokens": 793,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 667
+  }
+}

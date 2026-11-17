@@ -1,0 +1,119 @@
+{
+  "request_sha256": "3f4daacb5f8738a91e527573e9d84d4f10a7e017d148b1cd3f17fe8f0c8c529c",
+  "response_id": "b04c30d6-d30e-4253-bdc8-50011572fb2c",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "NVDA:8",
+          "NVDA:6"
+        ],
+        "reason": "Baird警告后现金转换受关注，AI股遭抛售，股价下跌"
+      },
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "NVDA:11",
+          "NVDA:5"
+        ],
+        "reason": "黄仁勋称新芯片订单几乎每日都有，并扩大与沃尔沃合作"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "无对应来源标题"
+      },
+      {
+        "ticker": "META",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "青少年限制漏洞报道无明确价格方向"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_up",
+        "speed": "fast",
+        "source_ids": [
+          "MSFT:1",
+          "MSFT:3"
+        ],
+        "reason": "TD Cowen上调目标价至625美元，AI业务强化核心业务"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "无对应来源标题"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "无对应来源标题"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "无对应来源标题"
+      },
+      {
+        "ticker": "AMD",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "仅大盘背景，无公司特定方向性事件"
+      },
+      {
+        "ticker": "WMT",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "无公司特定方向性事件"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "TSLA:1"
+        ],
+        "reason": "Roadster发布面临收入现实检验，股价下跌1.7%"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [
+          "TSLA:2"
+        ],
+        "reason": "特斯拉-SpaceX合并传闻仅为分析师猜测，方向不明"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 446,
+    "prompt_tokens": 1573,
+    "total_tokens": 2019,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 1573
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "request_sha256": "89b98d48fd84d400e3691f1645248732139de922d5a4f5872d9f512931d797f6",
+  "response_id": "b17d041b-223e-4e54-8a4e-639cb30881f0",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "AI股疲软、科技股抛售及芯片板块支出担忧"
+      },
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "推出OpenShell企业AI代理产品"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "大型科技支出方受市场波动惩罚，并联合反对新交易计划"
+      },
+      {
+        "ticker": "META",
+        "level": "large_down",
+        "speed": "fast",
+        "reason": "AI支出担忧、科技股抛售及大额消费者保护罚款致股价大跌"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_down",
+        "speed": "slow",
+        "reason": "与谷歌等联合反对新交易计划，AI相关裁员上升"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "摘要仅涉及Solana与以太坊比较，无明确影响事件"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "AI相关裁员及配送保护抗议"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "首款折叠iPhone获好评"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "投资者担忧大型科技高支出"
+      },
+      {
+        "ticker": "AMD",
+        "level": "large_down",
+        "speed": "fast",
+        "reason": "AI支出担忧及Lam Research谨慎资本开支展望，股价跌超7%"
+      },
+      {
+        "ticker": "WMT",
+        "level": "small_down",
+        "speed": "slow",
+        "reason": "Target估值担忧波及零售同业比较"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "large_down",
+        "speed": "fast",
+        "reason": "利润下降43%，AI成本担忧拖累科技股"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 364,
+    "prompt_tokens": 742,
+    "total_tokens": 1106,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 742
+  }
+}

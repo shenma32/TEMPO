@@ -1,0 +1,136 @@
+{
+  "request_sha256": "d62ae25a36229f9da862a74ab5b44abb56fbd0073c0e671ffb76bde67dc93f4b",
+  "response_id": "a817969f-af69-4f3f-9d8a-4064273328ae",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "NVDA:1"
+        ],
+        "reason": "亚马逊瞄准其AI优势构成竞争威胁"
+      },
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "NVDA:5"
+        ],
+        "reason": "与德国政府达成AI协议"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "GOOG:2"
+        ],
+        "reason": "被列为被低估股票"
+      },
+      {
+        "ticker": "META",
+        "level": "small_up",
+        "speed": "fast",
+        "source_ids": [
+          "META:3"
+        ],
+        "reason": "Q3财报获投资者高度关注"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "OpenAI收购消息对微软无明确方向性影响"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "银行代理支付事件无明确方向性影响"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_up",
+        "speed": "fast",
+        "source_ids": [
+          "AMZN:2",
+          "AMZN:3",
+          "AMZN:5"
+        ],
+        "reason": "节假日招聘扩大20%且提高薪酬福利"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "AMZN:1"
+        ],
+        "reason": "以AI技术挑战英伟达优势"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "AAPL:3",
+          "AAPL:5"
+        ],
+        "reason": "iPhone需求放缓遭降级且面临利润率压力"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "AAPL:2",
+          "AAPL:4"
+        ],
+        "reason": "投资美国钛供应并新增美国供应商"
+      },
+      {
+        "ticker": "AMD",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "存储器周期报道未明确涉及AMD方向"
+      },
+      {
+        "ticker": "WMT",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "无对应来源标题"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_up",
+        "speed": "fast",
+        "source_ids": [
+          "TSLA:2",
+          "TSLA:4"
+        ],
+        "reason": "马斯克旗下公司财报受关注，SpaceX AI与Starlink进展"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 495,
+    "prompt_tokens": 1827,
+    "total_tokens": 2322,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 1827
+  }
+}

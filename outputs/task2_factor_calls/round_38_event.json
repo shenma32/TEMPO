@@ -1,0 +1,82 @@
+{
+  "request_sha256": "8d3901a472378b0526bf946e21a3e9d05ce7cd9c8848ead03e50d08a0433328d",
+  "response_id": "b1b509a3-09cc-4ce6-b5bd-c76350a64635",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "科技股普跌且被苹果超越市值，尽管探索核电数据中心，但竞争压力下短线偏弱。"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "仅有苹果夺回市值榜首的关联报道，无公司特定方向性催化剂。"
+      },
+      {
+        "ticker": "META",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "科技股急跌、对冲基金做空及财富税担忧带来压力。"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "AI营收目标与资本开支信息中性，无明确短线方向。"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "无公司相关新闻，无法推断方向。"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "摘要主要涉及苹果与芯片股，无亚马逊特定催化剂。"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "重夺市值第一且新iPhone需求强劲、供应有限，短线偏正面。"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "随科技股大幅抛售而下跌。"
+      },
+      {
+        "ticker": "WMT",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "销售创1999年以来最强月份，市值逼近万亿美元，偏正面。"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "科技股抛售拖累特斯拉股价下跌。"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 328,
+    "prompt_tokens": 710,
+    "total_tokens": 1038,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 710
+  }
+}

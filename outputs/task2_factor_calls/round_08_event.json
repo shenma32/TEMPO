@@ -1,0 +1,82 @@
+{
+  "request_sha256": "6b95d7483c29481c22379161617b36b942dddd8306b83fada441bd8302ca3701",
+  "response_id": "f11d2ef6-0688-434b-84a1-16111d322e42",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "AI financing and inflation concerns drive sell-offs despite robust demand."
+      },
+      {
+        "ticker": "GOOG",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "Analyst questions on expense management; no clear directional catalyst."
+      },
+      {
+        "ticker": "META",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "Muse agent traction and AI compute potential offset tax credit concerns."
+      },
+      {
+        "ticker": "MSFT",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "Mixed headlines on AI security bundles and policy concerns; no clear direction."
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "No company-specific news retrieved; no catalyst inferred."
+      },
+      {
+        "ticker": "AMZN",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "Cost-saving chip exploration offset by broad AI-related market concerns."
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "New AI features in China this December provide mild positive catalyst."
+      },
+      {
+        "ticker": "AMD",
+        "level": "large_up",
+        "speed": "fast",
+        "reason": "Stock surging on robust AI chip demand despite broader sell-offs."
+      },
+      {
+        "ticker": "WMT",
+        "level": "small_up",
+        "speed": "fast",
+        "reason": "Deutsche Bank upgrade and higher price target lifted shares."
+      },
+      {
+        "ticker": "TSLA",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "Roadster unveil and merger speculation mixed with stock declines; no clear net direction."
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 310,
+    "prompt_tokens": 710,
+    "total_tokens": 1020,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 710
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "request_sha256": "89c44b9f1929a41d75693dd6661d9b5431887eafbb07fdbf46ad7081b9809dd0",
+  "response_id": "6943db6b-e80b-4472-986a-5ad968899b55",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "AI芯片创新领先，但面临竞争对手分享市场份额压力"
+      },
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "Amazon等竞争对手简化AI芯片及DeepSeek、Tenstorrent争夺份额"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "对Anthropic投资在IPO后仍具价值"
+      },
+      {
+        "ticker": "META",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "Q2财报仅反映社交网络竞争地位，无明确方向性增量"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "退出AI数据中心交易，可能引发短期负面情绪"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "研究排名维持领先，无明确价格方向性影响"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "AI芯片易用性改善，可能增强其AI芯片竞争力"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "市场波动及纳斯达克阻力影响科技股"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "摘要仅泛提高收益股息股表现，无公司独立事件"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "Nvidia与TSMC在研发支出和现金流增长方面带来竞争压力"
+      },
+      {
+        "ticker": "WMT",
+        "level": "small_down",
+        "speed": "slow",
+        "reason": "拟通过债券发行筹资至少60亿美元，或带来杠杆担忧"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "AI驱动的市场反弹带动股价受益"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 378,
+    "prompt_tokens": 752,
+    "total_tokens": 1130,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 752
+  }
+}

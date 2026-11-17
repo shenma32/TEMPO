@@ -1,0 +1,124 @@
+{
+  "request_sha256": "4771d4364a273a78ffa90c99fe80a8e13c4e4e2a4c47c738323f0a6bc6db813a",
+  "response_id": "86a91598-ec12-48e3-922c-7d4ed5117dc2",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "主要AI芯片股因AI融资与通胀担忧遭抛售"
+      },
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "AI需求强劲，可能带来市场领导格局变化"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "分析师质疑Alphabet控制上升费用的能力"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "分析师将博通视为英伟达之后的潜在AI领导者"
+      },
+      {
+        "ticker": "META",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "Muse agent与AI算力进展获关注，估值折价"
+      },
+      {
+        "ticker": "META",
+        "level": "small_down",
+        "speed": "slow",
+        "reason": "66亿美元AI税收抵免引发投资者考量"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "AI驱动安全产品组合持续扩展"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_down",
+        "speed": "slow",
+        "reason": "美国绿卡政策担忧带来持续影响"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "本轮未检索到公司特定新闻，无明确方向性催化"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "探索定制AI芯片以节省成本"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "AI担忧拖累主要科技股与大盘"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "计划12月在中国推出新AI功能"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_down",
+        "speed": "slow",
+        "reason": "分析师辩论延长iPhone持有期能否维持盈利"
+      },
+      {
+        "ticker": "AMD",
+        "level": "large_up",
+        "speed": "fast",
+        "reason": "AI芯片需求强劲推动AMD股价大涨"
+      },
+      {
+        "ticker": "WMT",
+        "level": "small_up",
+        "speed": "fast",
+        "reason": "德意志银行上调评级与目标价后股价上涨"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "准备发布可能具备飞行能力的新Roadster"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "年末特斯拉与SpaceX合并猜测伴随股价下跌"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 491,
+    "prompt_tokens": 746,
+    "total_tokens": 1237,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 746
+  }
+}

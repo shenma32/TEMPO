@@ -1,0 +1,42 @@
+{
+  "request_sha256": "3067467489840839c8309a6c4e3128aab3f0cfb9f9d53b7463ca7e9bec8a2392",
+  "response_id": "2c026a44-bed8-4ca0-968c-73c5060e3035",
+  "response_model": "deepseek-flash",
+  "thinking": "disabled",
+  "reasoning_effort": null,
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "feedback": [
+      {
+        "ticker": "MSFT",
+        "add": true,
+        "strength": "medium",
+        "reason": "相对市场误差为-1.07%，绝对幅度较大，且AI业务/合作消息持续，可能对个股相对表现形成持续压制"
+      },
+      {
+        "ticker": "AMD",
+        "add": true,
+        "strength": "high",
+        "reason": "相对市场误差为+2.48%，显著正向偏离，且面临CPU竞争与芯片板块情绪，误差幅度大需记录"
+      },
+      {
+        "ticker": "WMT",
+        "add": true,
+        "strength": "medium",
+        "reason": "相对市场误差为-1.94%，负向偏离明显，供应商资金审查等消息可能带来持续相对拖累"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 142,
+    "prompt_tokens": 679,
+    "total_tokens": 821,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 679
+  }
+}

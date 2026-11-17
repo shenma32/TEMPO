@@ -1,0 +1,201 @@
+{
+  "request_sha256": "2cf5ad42dde7528f661c816146aec21bf82bdd48a62834f36c06d893c5ae2dfb",
+  "response_id": "79342d6a-3450-4fcc-93e9-da50aa9878ae",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "fast",
+        "source_ids": [
+          "NVDA:5",
+          "NVDA:87",
+          "NVDA:29"
+        ],
+        "reason": "AI芯片股反弹，英伟达领涨，收入目标预期积极"
+      },
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "slow",
+        "source_ids": [
+          "NVDA:25",
+          "NVDA:41",
+          "NVDA:44"
+        ],
+        "reason": "供应瓶颈及微软退出Nscale数据中心交易带来估值压力"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "GOOG:8",
+          "GOOG:14",
+          "GOOG:43"
+        ],
+        "reason": "Gemini Launchpads合作及云收入增长预期"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_down",
+        "speed": "slow",
+        "source_ids": [
+          "GOOG:21",
+          "GOOG:22"
+        ],
+        "reason": "ETF净卖出Alphabet股票"
+      },
+      {
+        "ticker": "META",
+        "level": "small_down",
+        "speed": "medium",
+        "source_ids": [
+          "META:14",
+          "META:47",
+          "META:3"
+        ],
+        "reason": "AI投入成本高企及青少年安全和解将影响财报，盈利前存疑"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_up",
+        "speed": "fast",
+        "source_ids": [
+          "MSFT:2",
+          "MSFT:21",
+          "MSFT:35"
+        ],
+        "reason": "伯恩斯坦上调目标价，AI收入预期提升公允价值"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_down",
+        "speed": "slow",
+        "source_ids": [
+          "MSFT:6",
+          "MSFT:24",
+          "MSFT:23"
+        ],
+        "reason": "退出Nscale英国数据中心交易及英国监管审查"
+      },
+      {
+        "ticker": "JPM",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "JPM:31",
+          "JPM:8",
+          "JPM:2"
+        ],
+        "reason": "获上调评级，Dimon称经济繁荣，投资国家安全科技"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "AMZN:21",
+          "AMZN:25",
+          "AMZN:13"
+        ],
+        "reason": "摩根士丹利上调目标价及SMR核能合作"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_down",
+        "speed": "slow",
+        "source_ids": [
+          "AMZN:30"
+        ],
+        "reason": "ETF净卖出亚马逊股票"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_up",
+        "speed": "fast",
+        "source_ids": [
+          "AAPL:41",
+          "AAPL:48",
+          "AAPL:42"
+        ],
+        "reason": "折叠iPhone售罄，需求稳健，股价创新高"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_down",
+        "speed": "slow",
+        "source_ids": [
+          "AAPL:7",
+          "AAPL:20",
+          "AAPL:25"
+        ],
+        "reason": "分析师警告需求疲软及英国支付监管压力"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_up",
+        "speed": "fast",
+        "source_ids": [
+          "AMD:1",
+          "AMD:11",
+          "AMD:16"
+        ],
+        "reason": "AI芯片股反弹，收入指引130亿美元"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_down",
+        "speed": "slow",
+        "source_ids": [
+          "AMD:13",
+          "AMD:14",
+          "AMD:31"
+        ],
+        "reason": "ETF净卖出及投资者警告信号"
+      },
+      {
+        "ticker": "WMT",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "无明确方向性事件"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "TSLA:41",
+          "TSLA:37",
+          "TSLA:50"
+        ],
+        "reason": "SpaceX与特斯拉合并 speculation 升温"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_down",
+        "speed": "slow",
+        "source_ids": [
+          "TSLA:25",
+          "TSLA:44"
+        ],
+        "reason": "Q3财报面临AI怀疑情绪，买卖建议谨慎"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 801,
+    "prompt_tokens": 17111,
+    "total_tokens": 17912,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 17111
+  }
+}

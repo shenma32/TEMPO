@@ -1,0 +1,153 @@
+{
+  "request_sha256": "285b9772266843814c45891c7bf3f4767793e78cee6e0f57bd2ecdc11423a1e7",
+  "response_id": "2cf1c686-b53e-4ee5-8d81-3afa9af2d94f",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "NVDA:5",
+          "NVDA:8",
+          "NVDA:4"
+        ],
+        "reason": "芯片股下跌，AI交易反弹乏力"
+      },
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "medium",
+        "source_ids": [
+          "NVDA:13"
+        ],
+        "reason": "对冲基金以十年来最快速度抛售科技股"
+      },
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "NVDA:1"
+        ],
+        "reason": "Nvidia进军英特尔和AMD的CPU业务，存在扩张机遇"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "GOOG:3"
+        ],
+        "reason": "Waymo自动驾驶叫车服务拓展至马德里"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "无其他明确方向性事件"
+      },
+      {
+        "ticker": "META",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "无明确方向性事件"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "MSFT:5",
+          "MSFT:3"
+        ],
+        "reason": "扩建数据中心并与波音合作AI飞机平台"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "相关标题不构成对JPM的明确方向性事件"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "AMZN:3",
+          "AMZN:4"
+        ],
+        "reason": "假日招聘超30万人，同比增长20%"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "AMZN:2"
+        ],
+        "reason": "Credera与AWS签订五年合作协议"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_down",
+        "speed": "medium",
+        "source_ids": [
+          "AAPL:2",
+          "AAPL:3"
+        ],
+        "reason": "分析师转趋谨慎并下调苹果评级"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "AMD:2",
+          "AMD:3"
+        ],
+        "reason": "芯片股下跌，拖累纳斯达克走低"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_down",
+        "speed": "medium",
+        "source_ids": [
+          "AMD:1"
+        ],
+        "reason": "Nvidia进军CPU业务，与AMD竞争加剧"
+      },
+      {
+        "ticker": "WMT",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "无明确方向性事件"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "无明确方向性事件"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 568,
+    "prompt_tokens": 2480,
+    "total_tokens": 3048,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 2480
+  }
+}

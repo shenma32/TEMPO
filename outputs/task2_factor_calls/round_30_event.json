@@ -1,0 +1,82 @@
+{
+  "request_sha256": "85d6ccae11f31677b5fd4acbe29eefc7af60c2491d1faebf67a3107099edc990",
+  "response_id": "c8d2db23-53ec-40b7-a941-d431da321695",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "AI整合与算力合同强化核心地位，但市场波动限制反应"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "Anthropic算力合同与纳斯达克上涨为行业利好，非公司直接催化剂"
+      },
+      {
+        "ticker": "META",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "巨额隐私罚款下股价仍上涨，科技反弹支撑但利空压制幅度"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "仅间接提及Anthropic算力需求与前CEO财富，无公司催化剂"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "会议与SpaceX评论属常规业务，无明确方向性影响"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "AI繁荣为行业背景，无公司特定事件"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "仅提及Ballmer财富与XRP话题，与公司无关"
+      },
+      {
+        "ticker": "AMD",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "未检索到公司新闻，无催化剂可推断"
+      },
+      {
+        "ticker": "WMT",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "未检索到公司新闻，无催化剂可推断"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "财报受关注且科技反弹与SpaceX预期带动，方向偏正面但幅度有限"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 335,
+    "prompt_tokens": 707,
+    "total_tokens": 1042,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 707
+  }
+}

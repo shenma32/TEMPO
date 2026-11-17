@@ -1,0 +1,52 @@
+{
+  "request_sha256": "36c20195a0879697dccb7cd02189e0e004e753a84cba409eec5de966358e02c1",
+  "response_id": "5700d8da-2dc5-4506-bee4-46372e3d46c6",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "feedback": [
+      {
+        "ticker": "NVDA",
+        "add": true,
+        "strength": "medium",
+        "reason": "实际收益显著低于预测，半导体抛售及AI安全言论构成持续压制，误差幅度较大且非单一随机波动。"
+      },
+      {
+        "ticker": "GOOG",
+        "add": false,
+        "strength": "low",
+        "reason": "误差幅度较小，摘要显示AI与云投资等基本面因素为主，未见明确持续负面驱动。"
+      },
+      {
+        "ticker": "META",
+        "add": true,
+        "strength": "low",
+        "reason": "实际收益低于预测且误差偏小，摘要中竞争与AI投入压力可提供轻度持续影响。"
+      },
+      {
+        "ticker": "AMD",
+        "add": true,
+        "strength": "high",
+        "reason": "预测近零而实际大幅下跌，AI抛售与通胀担忧导致显著负向误差，持续性较强。"
+      },
+      {
+        "ticker": "WMT",
+        "add": true,
+        "strength": "medium",
+        "reason": "实际收益明显高于预测，德银上调评级与定价优势支撑正向误差，具有一定持续性。"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 206,
+    "prompt_tokens": 997,
+    "total_tokens": 1203,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 997
+  }
+}

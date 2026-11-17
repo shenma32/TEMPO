@@ -1,0 +1,204 @@
+{
+  "request_sha256": "fbe6cc928a3d996f8b059ce09a04766ca7d4ff132158e133d73b2c0716afc6a6",
+  "response_id": "a51542dd-8e0c-487d-a2cb-aba3c5b83cda",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "fast",
+        "source_ids": [
+          "NVDA:6",
+          "NVDA:11",
+          "NVDA:31"
+        ],
+        "reason": "与HCLTech、Rockwell、HPE等合作的汽车软件测试套件、工业AI代理等多项协作扩展"
+      },
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "medium",
+        "source_ids": [
+          "NVDA:7"
+        ],
+        "reason": "黄仁勋称资本稀缺限制Neocloud增长，或影响AI算力需求预期"
+      },
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "NVDA:55",
+          "NVDA:70",
+          "NVDA:54"
+        ],
+        "reason": "SPY、QQQ、IVV等主要ETF披露净卖出Nvidia"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "GOOG:3",
+          "GOOG:11"
+        ],
+        "reason": "Google与Voltus扩大虚拟电厂协议至1GW，利好能源业务"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "GOOG:10",
+          "GOOG:41"
+        ],
+        "reason": "OpenAI模型进入Google Cloud引发竞争担忧，Alphabet股价下跌逾2%"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "GOOG:20",
+          "GOOG:21"
+        ],
+        "reason": "ETF于10月20日净卖出Alphabet"
+      },
+      {
+        "ticker": "META",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "META:4",
+          "META:15",
+          "META:27"
+        ],
+        "reason": "Q3业绩超预期但AI支出展望高企盖过利好，股价跌3%"
+      },
+      {
+        "ticker": "META",
+        "level": "small_down",
+        "speed": "medium",
+        "source_ids": [
+          "META:18",
+          "META:47"
+        ],
+        "reason": "AI支出计划致信用风险指标创纪录，未来支出承诺达8250亿美元"
+      },
+      {
+        "ticker": "META",
+        "level": "small_down",
+        "speed": "medium",
+        "source_ids": [
+          "META:52",
+          "META:54"
+        ],
+        "reason": "新墨西哥州数据隐私案被判赔250亿美元"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "无明确方向性事件，AI投资与ETF净卖出等消息多空交织"
+      },
+      {
+        "ticker": "JPM",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "JPM:7"
+        ],
+        "reason": "JPM Coin扩展至以太坊用于机构支付，利好区块链业务"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "AMZN:34",
+          "AMZN:35",
+          "AMZN:44"
+        ],
+        "reason": "华尔街机构列为首选，物流自动化带来长期利润率提升"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "AMZN:33"
+        ],
+        "reason": "ETF于10月20日净卖出Amazon"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "无明确方向性事件，现金流与AI对冲定位受青睐但ETF买卖混杂"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "AMD:2"
+        ],
+        "reason": "分析师认为AMD潜力被低估，维持看多"
+      },
+      {
+        "ticker": "WMT",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "无明确方向性事件，零售板块讨论未见直接影响"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "large_down",
+        "speed": "fast",
+        "source_ids": [
+          "TSLA:30",
+          "TSLA:33",
+          "TSLA:41"
+        ],
+        "reason": "Q3利润下降43%，Musk下调销售目标，股价盘前大跌"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "TSLA:7",
+          "TSLA:39"
+        ],
+        "reason": "SpaceX与Tesla合并传闻升温，Ives给出90%概率"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "TSLA:31",
+          "TSLA:32"
+        ],
+        "reason": "Cybercab 2026年交付及Robotaxi 2027年提振业绩指引"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 909,
+    "prompt_tokens": 12467,
+    "total_tokens": 13376,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 12467
+  }
+}

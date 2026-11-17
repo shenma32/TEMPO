@@ -1,0 +1,82 @@
+{
+  "request_sha256": "4ada897df4c0c17421e8d6e911d7618898127be0205fedf47c3023d76c620fac",
+  "response_id": "3149f191-70d6-4ec5-b6c3-0023a9975fa2",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "slow",
+        "reason": "AI扩张面临电力约束的担忧，构成轻微负面"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "AI投入与监管审查导致市值大幅缩水，情绪偏弱"
+      },
+      {
+        "ticker": "META",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "扎克伯格大胆AI举措及科技股因财报上涨带来正面情绪"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "摘要称微软保持稳定，无明确方向性事件"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "退出土耳其经纪业务属局部战略调整，影响有限"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "AWS增长及数据中心扩张交易带来温和正面"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "接近高位但盈利前景略具挑战，方向不明"
+      },
+      {
+        "ticker": "AMD",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "仅与英伟达竞争比较，无明确价格方向"
+      },
+      {
+        "ticker": "WMT",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "仅在对比中被提及，无自身方向性事件"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "SpaceX合并构想及robotaxi增长主题带来投机性正面"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 311,
+    "prompt_tokens": 694,
+    "total_tokens": 1005,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 694
+  }
+}

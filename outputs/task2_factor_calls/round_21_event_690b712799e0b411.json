@@ -1,0 +1,100 @@
+{
+  "request_sha256": "690b712799e0b411e847de0d77f6986a5e3f741fbfe141c7cfccb9e08ff0ab75",
+  "response_id": "b84799a0-748b-44c6-a532-fbb49c5d6a99",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "large_up",
+        "speed": "fast",
+        "reason": "Major Chinese chip orders and potential multibillion-dollar Anthropic deals boost AI investments"
+      },
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "Chip stocks recover amid fading AI jitters"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "Strong cloud growth and TPU sales may boost Q3 performance"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_down",
+        "speed": "slow",
+        "reason": "Restricting tokenized shares trading amid growing objections"
+      },
+      {
+        "ticker": "META",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "AI chip demand reshaping market optimism supports sentiment"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "Expanding automation for Intune app packaging"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_down",
+        "speed": "slow",
+        "reason": "Blocking tokenized shares on OKX-ICE amid objections"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "No company-specific catalyst in retrieved news"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "Rebound signs with expanded data center deals and upbeat Q3 trends"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "Mixed investor fortunes and no clear directional catalyst"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "AI-related concerns ease and AI chip opportunity may exceed expectations"
+      },
+      {
+        "ticker": "WMT",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "New membership bundles ahead of holiday season"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "Pay valuation and merger speculation lack clear near-term directional catalyst"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 382,
+    "prompt_tokens": 735,
+    "total_tokens": 1117,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 735
+  }
+}

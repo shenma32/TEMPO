@@ -1,0 +1,82 @@
+{
+  "request_sha256": "6ff3716ecdf98021a09c3b414d18beed6c79971a4de13166e111c0eaaf7ba286",
+  "response_id": "c8602879-93f4-4fdd-aa4c-f3602bbe6ebb",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "股价下跌，市场对中国芯片采购持怀疑态度"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "Waymo欧洲扩张，以及盈利预期乐观"
+      },
+      {
+        "ticker": "META",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "AI乐观情绪推动上月上涨25%，但短期盈利担忧仍在"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "AI合作取得进展，但监管挑战仍在"
+      },
+      {
+        "ticker": "JPM",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "尽管有安全举措，股价仍下跌"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_up",
+        "speed": "fast",
+        "reason": "分析师上调目标价，AWS推出AI芯片工具"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "科技股涨跌互现，无明确个股催化剂"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "AI服务器需求带来关键挑战"
+      },
+      {
+        "ticker": "WMT",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "新会员套餐旨在提升留存，提供更多价值"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "财报将评估AI投入，暂无明确方向"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 289,
+    "prompt_tokens": 716,
+    "total_tokens": 1005,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 716
+  }
+}

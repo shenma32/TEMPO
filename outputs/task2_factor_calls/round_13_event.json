@@ -1,0 +1,82 @@
+{
+  "request_sha256": "f2eb74af1fdf48f16134d429b29f95b07ae44c0791c8542a97440ed1d733eb43",
+  "response_id": "1b8a048c-cba0-4f05-9ea1-8d8fbd674a3f",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "fast",
+        "reason": "Leads rebounding AI chip sector, demand growing despite valuation caution"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "AI expansion offset by ETF selling and earnings uncertainty"
+      },
+      {
+        "ticker": "META",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "Rising AI costs and sector skepticism ahead of earnings"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "Price target hike on AI revenue despite UK data center exit"
+      },
+      {
+        "ticker": "JPM",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "Booming economy comments and new tech/Crypto investments, mixed earnings"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "SMR collaborations offset by mixed sentiment and ETF sales"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "Strong preorders but warnings of demand weakness and potential plunge"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_up",
+        "speed": "fast",
+        "reason": "Rebound in AI chip sector with strong revenue guidance"
+      },
+      {
+        "ticker": "WMT",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "Competitive retail landscape, no clear directional catalyst"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "AI sector pressures and caution ahead of Q3 earnings"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 301,
+    "prompt_tokens": 707,
+    "total_tokens": 1008,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 707
+  }
+}

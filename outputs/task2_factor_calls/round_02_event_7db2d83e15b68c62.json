@@ -1,0 +1,135 @@
+{
+  "request_sha256": "7db2d83e15b68c625c43d2c11064345c11d45819da21dd3b7715c28fd597f11a",
+  "response_id": "6b2e20d6-8c80-4c0b-9c76-a5c4d690c41a",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "NVDA:2",
+          "NVDA:9"
+        ],
+        "reason": "CoreWeave大跌反映AI债务与融资担忧，可能拖累AI芯片情绪"
+      },
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "NVDA:10",
+          "NVDA:11"
+        ],
+        "reason": "政治人物持仓背书及Honeywell联合推出AI平台，构成温和正面催化"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "仅有行业合作框架新闻，对GOOG无明确方向性影响"
+      },
+      {
+        "ticker": "META",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "Bumble交易评论属行业讨论，未见明确公司层面方向"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_down",
+        "speed": "slow",
+        "source_ids": [
+          "MSFT:2"
+        ],
+        "reason": "Michael Burry质疑AI支出与估值，构成温和负面情绪"
+      },
+      {
+        "ticker": "JPM",
+        "level": "small_down",
+        "speed": "slow",
+        "source_ids": [
+          "JPM:1"
+        ],
+        "reason": "debanking调查引发两党关注，存在声誉与监管压力"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "AMZN:1"
+        ],
+        "reason": "AWS积压订单4960亿美元、云利润率39%，基本面正面"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "本轮无对应来源标题，无法推断明确事件"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "AMD:2"
+        ],
+        "reason": "82亿美元引入AI领军人物，战略投入偏正面"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "AMD:1"
+        ],
+        "reason": "通胀数据推高10年期美债收益率，压制成长股估值"
+      },
+      {
+        "ticker": "WMT",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "WMT:1"
+        ],
+        "reason": "纳指因通胀数据下挫，整体市场风险偏好走弱"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "TSLA:1"
+        ],
+        "reason": "CoreWeave与债券收益率问题引发风险资产情绪走弱"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "TSLA:2"
+        ],
+        "reason": "伯克希尔开设Megacharger试点站，充电网络扩张偏正面"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 552,
+    "prompt_tokens": 1643,
+    "total_tokens": 2195,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 1643
+  }
+}

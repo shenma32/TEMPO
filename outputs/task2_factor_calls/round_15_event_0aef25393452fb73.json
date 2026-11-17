@@ -1,0 +1,167 @@
+{
+  "request_sha256": "0aef25393452fb73d6fe39c6349ebcb128a4279d934d9e21bb62a39531c75bd0",
+  "response_id": "4985cdb6-bdc4-47f3-865e-20e1356e3072",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "fast",
+        "source_ids": [
+          "NVDA:7",
+          "NVDA:14"
+        ],
+        "reason": "Nvidia wins CPU business from Modal and Siemens adopts its AI solutions, indicating growing influence."
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "GOOG:6"
+        ],
+        "reason": "Supreme Court rejected Google's challenge to patent review rule, a legal setback."
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "GOOG:5",
+          "GOOG:7"
+        ],
+        "reason": "Search resilience and cloud growth support positive outlook; catalyst could send stock to new highs."
+      },
+      {
+        "ticker": "META",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "META:4"
+        ],
+        "reason": "Accelerating ad business and distribution scale create compelling value."
+      },
+      {
+        "ticker": "META",
+        "level": "small_down",
+        "speed": "medium",
+        "source_ids": [
+          "META:3"
+        ],
+        "reason": "Warnings about off-balance-sheet financing ballooning to $600B raise concerns."
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "MSFT:1"
+        ],
+        "reason": "Microsoft drops Nscale's AI data center over interconnection delay, a potential setback."
+      },
+      {
+        "ticker": "JPM",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "JPM:1"
+        ],
+        "reason": "JPMorgan eyes $2 trillion as Europe ETF demand builds, indicating growth opportunity."
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "AMZN:1"
+        ],
+        "reason": "Prediction that Amazon's next chapter could be its most important yet, positive sentiment."
+      },
+      {
+        "ticker": "AAPL",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "No clear directional event; record high despite slowing demand concerns."
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "AMD:1"
+        ],
+        "reason": "Nvidia wins CPU business from Modal, previously exclusive to AMD and Intel, a competitive loss."
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_up",
+        "speed": "fast",
+        "source_ids": [
+          "AMD:3",
+          "AMD:4"
+        ],
+        "reason": "Chip stocks catch a break after prolonged slide; recovery in chip sector."
+      },
+      {
+        "ticker": "WMT",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "WMT:1"
+        ],
+        "reason": "Wall Street firm predicts 30% gains despite recent 5% drop."
+      },
+      {
+        "ticker": "WMT",
+        "level": "unchanged",
+        "speed": "slow",
+        "source_ids": [
+          "WMT:2"
+        ],
+        "reason": "FTC refunds news has no clear directional impact."
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "TSLA:1"
+        ],
+        "reason": "Upcoming earnings to test AI trade; positive anticipation but mixed with inflation concerns."
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "TSLA:2"
+        ],
+        "reason": "Florida support for flying Roadster may boost innovation perception."
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_down",
+        "speed": "medium",
+        "source_ids": [
+          "TSLA:4"
+        ],
+        "reason": "America's EV plans have died, signaling waning policy support for electric vehicles."
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 855,
+    "prompt_tokens": 2372,
+    "total_tokens": 3227,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 2372
+  }
+}

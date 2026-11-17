@@ -1,0 +1,82 @@
+{
+  "request_sha256": "e7d8bd093a6c98929f1ce4dc1eee9f35fe19db041b99cdc995fa07a9dddc80dc",
+  "response_id": "da2ba185-0fe5-4b48-a6d0-2f03357a8077",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "CEO confidence in AI leadership and Samsung chip move support positive sentiment"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "Quantum computing advances and expanded Cloud alliance are moderately positive"
+      },
+      {
+        "ticker": "META",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "Stock continues declining ahead of earnings on user growth concerns"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "Modest gains noted in sector comparison"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "Defense startup investment lacks clear near-term price direction"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "large_up",
+        "speed": "fast",
+        "reason": "Morgan Stanley top pick and surged on AWS growth outlook"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "iPhone sellout suggests strong demand"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "AI trade rebound keeps AMD a focal point"
+      },
+      {
+        "ticker": "WMT",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "No news retrieved; no catalyst inferable"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "SpaceX-Tesla merger consideration and Roadster news mildly positive"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 288,
+    "prompt_tokens": 709,
+    "total_tokens": 997,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 709
+  }
+}

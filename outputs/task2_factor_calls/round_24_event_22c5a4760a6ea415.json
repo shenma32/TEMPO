@@ -1,0 +1,100 @@
+{
+  "request_sha256": "22c5a4760a6ea415286ac3e6f17c07af45700a5e4cfd258ac6d4b8a78c9d1d9b",
+  "response_id": "613090b9-20ff-4afb-bbb2-29b73aab2b87",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "亚马逊在AI领域发起竞争，或压制其AI优势预期"
+      },
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "与德国达成重要AI交易，带来正面业务信号"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "被视作估值偏低的科技股，存在估值修复预期"
+      },
+      {
+        "ticker": "META",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "Q3财报临近引发关注，但摘要未给出明确方向"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "OpenAI收购Orchestra Bio拓展医疗AI能力，关联正面"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "代理支付发票事件缺乏明确盈利或估值方向"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "假日季新增30万岗位并提高薪酬，运营信号偏正面"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "通过技术进步挑战英伟达AI主导地位，竞争地位增强"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "投资1亿美元钛供应链并增加美国供应商，偏正面"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "分析师警告需求放缓和利润率压力，财报前偏负面"
+      },
+      {
+        "ticker": "AMD",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "存储周期评论未给出AMD明确方向性影响"
+      },
+      {
+        "ticker": "WMT",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "本轮未检索到公司新闻，无明确催化"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "SpaceX财报将涉及AI、Starlink和Starship，但摘要未明确特斯拉方向"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 416,
+    "prompt_tokens": 758,
+    "total_tokens": 1174,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 758
+  }
+}

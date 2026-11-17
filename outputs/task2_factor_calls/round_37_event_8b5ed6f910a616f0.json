@@ -1,0 +1,124 @@
+{
+  "request_sha256": "8b5ed6f910a616f0ddbb53f45a9a751589786cb21737fe564f23e0a87fc85eb2",
+  "response_id": "34d47301-c0bc-4093-84bd-4518e3eaf1ef",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "科技股大幅抛售及AI估值担忧"
+      },
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "推进AI基础设施投资和自动驾驶合作"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "加大云和AI芯片投入以缓解基础设施瓶颈"
+      },
+      {
+        "ticker": "META",
+        "level": "large_down",
+        "speed": "fast",
+        "reason": "科技抛售叠加AI支出与融资担忧导致股价大跌"
+      },
+      {
+        "ticker": "META",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "营收增长强劲且分析师上调目标价"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "ETF减持且电价上涨带来压力"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "万亿美元AI机遇及医疗合作"
+      },
+      {
+        "ticker": "JPM",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "ETF净卖出且投资者情绪谨慎"
+      },
+      {
+        "ticker": "JPM",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "推进区块链金融代币化举措"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "分析师担忧及竞争压力与芯片短缺"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "市值接近英伟达且扩展产品线"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "内部人减持及AI市场波动"
+      },
+      {
+        "ticker": "AMD",
+        "level": "large_down",
+        "speed": "fast",
+        "reason": "供应链担忧引发科技抛售，股价大幅下跌"
+      },
+      {
+        "ticker": "WMT",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "入选大盘ETF且股价逆市上涨"
+      },
+      {
+        "ticker": "WMT",
+        "level": "small_down",
+        "speed": "slow",
+        "reason": "Kroger降价带来竞争及估值担忧"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "Q3营收下滑、资本开支削减及Optimus延迟"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "与SpaceX合并谈判及Megapack需求强劲"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 475,
+    "prompt_tokens": 712,
+    "total_tokens": 1187,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 712
+  }
+}

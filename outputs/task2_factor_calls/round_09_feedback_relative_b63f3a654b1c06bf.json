@@ -1,0 +1,28 @@
+{
+  "request_sha256": "b63f3a654b1c06bfb201bfea7733982590d43e1c34edf4a8038537c47e100730",
+  "response_id": "cf71618b-522c-4126-a831-141b6e4f8641",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "feedback": [
+      {
+        "ticker": "WMT",
+        "add": false,
+        "strength": "low",
+        "reason": "单期相对误差约-1.36%，幅度有限，公开摘要仅显示节假日消费预期偏正面，未构成持续反向影响的证据，倾向视为随机波动。"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 58,
+    "prompt_tokens": 361,
+    "total_tokens": 419,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 128
+    },
+    "prompt_cache_hit_tokens": 128,
+    "prompt_cache_miss_tokens": 233
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "request_sha256": "197de0adb9227eaae1c01e0856a9c5da0bd4111809b9b3dcb4a2db91a10d205f",
+  "response_id": "417e1751-72de-4080-9227-666d601e2654",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "AI股疲软及芯片板块支出担忧拖累，尽管推出OpenShell"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "大型科技支出受罚及市场波动，联合反对交易计划"
+      },
+      {
+        "ticker": "META",
+        "level": "large_down",
+        "speed": "fast",
+        "reason": "科技股抛售、AI支出担忧及大额消费者保护罚款导致股价急跌"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_down",
+        "speed": "slow",
+        "reason": "市场波动及反对交易计划，AI裁员上升但影响有限"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "摘要仅涉Solana与以太坊比较，与公司无明确方向性关联"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "AI相关裁员领先及科技支出担忧"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "首款折叠iPhone获好评，但AI支出谨慎情绪部分抵消"
+      },
+      {
+        "ticker": "AMD",
+        "level": "large_down",
+        "speed": "fast",
+        "reason": "AI支出担忧及Lam Research谨慎展望致股价跌超7%"
+      },
+      {
+        "ticker": "WMT",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "摘要仅涉Target估值比较，无明确公司方向性事件"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "large_down",
+        "speed": "fast",
+        "reason": "利润下滑43%及AI成本担忧压制股价"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 329,
+    "prompt_tokens": 706,
+    "total_tokens": 1035,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 706
+  }
+}

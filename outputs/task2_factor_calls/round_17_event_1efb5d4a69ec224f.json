@@ -1,0 +1,216 @@
+{
+  "request_sha256": "1efb5d4a69ec224f8a389bee262448930b2c00da7ee5cc6bd4e3c4d57ff82c80",
+  "response_id": "1cf7d49a-c354-4b08-b081-eaa09b1955e9",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "NVDA:3",
+          "NVDA:14"
+        ],
+        "reason": "AI股与芯片板块反弹，英伟达受板块情绪带动"
+      },
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "slow",
+        "source_ids": [
+          "NVDA:7",
+          "NVDA:29"
+        ],
+        "reason": "亚马逊及DeepSeek/华为等竞争对CUDA护城河构成潜在挑战"
+      },
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "NVDA:1",
+          "NVDA:2",
+          "NVDA:21"
+        ],
+        "reason": "估值被多次表述为低估，构成正面叙事"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "GOOG:1",
+          "GOOG:3"
+        ],
+        "reason": "Mag 7与大盘走强，谷歌随市场上行"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "无明确方向性公司事件"
+      },
+      {
+        "ticker": "META",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "META:1",
+          "META:11"
+        ],
+        "reason": "AI交易反弹及大盘回升带动"
+      },
+      {
+        "ticker": "META",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "META:7"
+        ],
+        "reason": "被描述为AI第二名且无需外部融资，正面叙事"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "MSFT:5"
+        ],
+        "reason": "摩根士丹利称Azure与M365需求强劲，支撑动能"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_down",
+        "speed": "slow",
+        "source_ids": [
+          "MSFT:2"
+        ],
+        "reason": "分析师称微软AI芯片远落后于英伟达与谷歌"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "无明确方向性事件"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "large_up",
+        "speed": "fast",
+        "source_ids": [
+          "AMZN:2",
+          "AMZN:6"
+        ],
+        "reason": "摩根士丹利看多AWS并列为首选，股价大涨"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "AMZN:1"
+        ],
+        "reason": "挑战英伟达CUDA护城河，强化AI布局叙事"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "AMZN:16"
+        ],
+        "reason": "投资12座小型核反应堆保障电力"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_down",
+        "speed": "medium",
+        "source_ids": [
+          "AAPL:5"
+        ],
+        "reason": "iPhone 18 Pro在中国需求疲软拖累股价"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "AAPL:3",
+          "AAPL:4"
+        ],
+        "reason": "10月28日发布会确认，预期首款触屏MacBook Pro"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "AAPL:2",
+          "AAPL:6"
+        ],
+        "reason": "定价取胜及iPhone预购健康"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_up",
+        "speed": "fast",
+        "source_ids": [
+          "AMD:6",
+          "AMD:1"
+        ],
+        "reason": "AMD周一上涨，AI芯片股反弹终结板块连跌"
+      },
+      {
+        "ticker": "WMT",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "仅债售与消费者板块混合，无明确方向"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_down",
+        "speed": "slow",
+        "source_ids": [
+          "TSLA:7"
+        ],
+        "reason": "华尔街预期本季财报下滑"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_up",
+        "speed": "fast",
+        "source_ids": [
+          "TSLA:9"
+        ],
+        "reason": "佛罗里达支持飞行Roadster，股价涨4%"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "TSLA:10",
+          "TSLA:11"
+        ],
+        "reason": "SpaceX更新及潜在合并预期升温"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 879,
+    "prompt_tokens": 4262,
+    "total_tokens": 5141,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 4262
+  }
+}

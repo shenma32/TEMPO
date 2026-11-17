@@ -1,0 +1,152 @@
+{
+  "request_sha256": "f91219dd4c54020277e60d3e0f617b8798673f84ca46e009b431591d571d3ddd",
+  "response_id": "de87f138-d1e7-40e2-96e4-b2a7dd9950ba",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "medium",
+        "source_ids": [
+          "NVDA:4"
+        ],
+        "reason": "报道称亚马逊的英伟达芯片闲置在仓库中未通电，暗示AI基础设施部署延迟"
+      },
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "NVDA:18",
+          "NVDA:31"
+        ],
+        "reason": "超微上调营收预期、SpaceX财报提振AI交易，带动AI板块情绪"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "GOOG:3",
+          "GOOG:6"
+        ],
+        "reason": "科技股上涨，且分析认为华尔街持续低估Alphabet"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_down",
+        "speed": "medium",
+        "source_ids": [
+          "GOOG:4"
+        ],
+        "reason": "参议员就谷歌推动AI进校园寻求信息，带来监管关注"
+      },
+      {
+        "ticker": "META",
+        "level": "large_down",
+        "speed": "fast",
+        "source_ids": [
+          "META:2",
+          "META:3",
+          "META:5"
+        ],
+        "reason": "陪审团裁定Meta因隐私误导需向新墨西哥州支付250亿美元罚款"
+      },
+      {
+        "ticker": "META",
+        "level": "small_up",
+        "speed": "fast",
+        "source_ids": [
+          "META:1",
+          "META:8"
+        ],
+        "reason": "科技股反弹、纳指上涨，Meta财报前市场情绪偏多"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_down",
+        "speed": "medium",
+        "source_ids": [
+          "MSFT:2"
+        ],
+        "reason": "报道称微软10月28日必须给出关键表态，否则股价恐大跌，事件前不确定性偏高"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "无对应来源标题"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_down",
+        "speed": "medium",
+        "source_ids": [
+          "AMZN:1"
+        ],
+        "reason": "报道称亚马逊的英伟达AI芯片闲置在仓库，反映AI资本开支效率受质疑"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "AMZN:4",
+          "AMZN:7"
+        ],
+        "reason": "财报临近波动预期，且计划招聘30万假日员工显示业务扩张"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "无对应来源标题"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_up",
+        "speed": "fast",
+        "source_ids": [
+          "AMD:3"
+        ],
+        "reason": "Susquehanna在财报前上调AMD目标价，股价走高"
+      },
+      {
+        "ticker": "WMT",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "WMT:2"
+        ],
+        "reason": "沃尔玛推出新会员优惠，提供近100美元节省"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "TSLA:3",
+          "TSLA:5",
+          "TSLA:6"
+        ],
+        "reason": "SpaceX财报提振AI交易，科技股与纳指上涨，特斯拉财报临近受关注"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 642,
+    "prompt_tokens": 3006,
+    "total_tokens": 3648,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 3006
+  }
+}

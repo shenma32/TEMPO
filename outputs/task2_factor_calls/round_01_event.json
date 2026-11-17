@@ -1,0 +1,82 @@
+{
+  "request_sha256": "332b583157d01d095014c569c28de4fb8f1ce096d5a3f8fffe940aae0532b49f",
+  "response_id": "771cf796-4fcf-4f7c-8060-f02b82b6b9c1",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "买回扩大与AI安全投资承诺偏多，但市场谨慎和利率上升形成对冲。"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "Gemini与云及能源项目扩张偏多，评级稳定，缺乏即时催化剂。"
+      },
+      {
+        "ticker": "META",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "AI进展与广告调整被竞争加剧和市场波动抵消，方向不明。"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "创新高与AI采用稳健，但估值集中和通胀担忧限制幅度。"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "利润不及预期与利差压力被净利息收入指引上调部分抵消。"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "分析师上调目标价偏多，但竞争与宏观波动限制反应速度。"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "智能家居与Siri订阅潜力偏多，但市值波动显示分歧。"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "芯片板块承压与科技需求降温，信贷支持消息不足以扭转。"
+      },
+      {
+        "ticker": "WMT",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "估值质疑与多项运营消息混杂，缺乏明确方向。"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "高支出和利润率担忧主导，robotaxi扩张等利好被谨慎情绪盖过。"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 346,
+    "prompt_tokens": 706,
+    "total_tokens": 1052,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 706
+  }
+}

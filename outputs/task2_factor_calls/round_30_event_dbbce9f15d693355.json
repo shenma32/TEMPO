@@ -1,0 +1,112 @@
+{
+  "request_sha256": "dbbce9f15d6933551aff7703da55696c778464807b7b04545db48cb3e14a8905",
+  "response_id": "ecab9ff4-b58a-4c2c-91ca-2657f185688c",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "AI整合与基础设施投资及重大算力合同凸显其核心地位"
+      },
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "fast",
+        "reason": "行业乐观预期与市场波动中保持关键角色"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "Anthropic超6000亿美元算力合同反映AI需求激增"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "纳斯达克在Meta财报带动下领涨"
+      },
+      {
+        "ticker": "META",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "新墨西哥州法官就数据隐私违规判罚250亿美元"
+      },
+      {
+        "ticker": "META",
+        "level": "small_up",
+        "speed": "fast",
+        "reason": "科技股反弹带动股价上扬"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "Anthropic算力合同反映强劲AI需求"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "鲍尔默净资产消息无明确方向性影响"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "主办投资者会议属常规活动，无明确方向性"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "AI热潮带动超6000亿美元算力合同"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "鲍尔默净资产及XRP讨论与公司无直接方向性关联"
+      },
+      {
+        "ticker": "AMD",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "本轮无公司相关新闻"
+      },
+      {
+        "ticker": "WMT",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "本轮无公司相关新闻"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_up",
+        "speed": "fast",
+        "reason": "财报受关注，AI乐观情绪推动科技股反弹"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "SpaceX增长潜力及JPMorgan看好其万亿美元机会"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 446,
+    "prompt_tokens": 743,
+    "total_tokens": 1189,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 743
+  }
+}

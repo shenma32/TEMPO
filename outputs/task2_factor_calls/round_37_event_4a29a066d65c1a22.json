@@ -1,0 +1,258 @@
+{
+  "request_sha256": "4a29a066d65c1a2238af8d460a4bdd12d648157133eb30882d056472b54e4c7a",
+  "response_id": "2c0c29b6-4d6f-4501-aea7-7c11ff09dacc",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "NVDA:5",
+          "NVDA:68",
+          "NVDA:70"
+        ],
+        "reason": "Tech sell-off and chip supply concerns pressure shares"
+      },
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "medium",
+        "source_ids": [
+          "NVDA:47"
+        ],
+        "reason": "China market effectively vanished"
+      },
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "NVDA:11"
+        ],
+        "reason": "CEO makes $10B Kazakhstan AI power play"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "GOOG:32"
+        ],
+        "reason": "AI chip business could reach $75B"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "GOOG:16",
+          "GOOG:17"
+        ],
+        "reason": "ETFs net sellers of Alphabet"
+      },
+      {
+        "ticker": "META",
+        "level": "large_down",
+        "speed": "fast",
+        "source_ids": [
+          "META:21",
+          "META:24",
+          "META:62"
+        ],
+        "reason": "Meta leads tech sell-off on AI spending concerns"
+      },
+      {
+        "ticker": "META",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "META:40"
+        ],
+        "reason": "Stock drops 7% despite Q3 earnings beat"
+      },
+      {
+        "ticker": "META",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "META:56"
+        ],
+        "reason": "Analyst raises price target to $816"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "MSFT:31",
+          "MSFT:43"
+        ],
+        "reason": "ETFs sell MSFT; stock falls more than market"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "MSFT:17"
+        ],
+        "reason": "$1 trillion AI opportunity highlighted"
+      },
+      {
+        "ticker": "JPM",
+        "level": "small_down",
+        "speed": "medium",
+        "source_ids": [
+          "JPM:5"
+        ],
+        "reason": "ETFs net sellers of JPMorgan"
+      },
+      {
+        "ticker": "JPM",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "JPM:6",
+          "JPM:9"
+        ],
+        "reason": "Blockchain initiatives with Solana and Ethereum"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "AMZN:41"
+        ],
+        "reason": "Amazon suffers larger drop than market"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_down",
+        "speed": "medium",
+        "source_ids": [
+          "AMZN:19"
+        ],
+        "reason": "Analyst raises concerns about Amazon stock"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "AMZN:29"
+        ],
+        "reason": "Pre-earnings buy consideration"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "AAPL:1",
+          "AAPL:18"
+        ],
+        "reason": "Apple nearing Nvidia as most valuable company"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "AAPL:23"
+        ],
+        "reason": "ETFs net sellers of Apple"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "AAPL:26"
+        ],
+        "reason": "Insider sold shares worth $814,748"
+      },
+      {
+        "ticker": "AMD",
+        "level": "large_down",
+        "speed": "fast",
+        "source_ids": [
+          "AMD:8",
+          "AMD:13",
+          "AMD:17"
+        ],
+        "reason": "AMD slides 8% amid chip sell-off and supply chain concerns"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "AMD:5"
+        ],
+        "reason": "SOXX ETF bought AMD"
+      },
+      {
+        "ticker": "WMT",
+        "level": "small_up",
+        "speed": "fast",
+        "source_ids": [
+          "WMT:8"
+        ],
+        "reason": "Walmart advances while market declines"
+      },
+      {
+        "ticker": "WMT",
+        "level": "small_down",
+        "speed": "medium",
+        "source_ids": [
+          "WMT:10"
+        ],
+        "reason": "Kroger's $5B price cuts target Walmart"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "TSLA:30"
+        ],
+        "reason": "Tesla fell 3% as Musk trims capex and delays Optimus ramp"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "TSLA:39"
+        ],
+        "reason": "Megapack production ramping with 2027 capacity nearly sold out"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "TSLA:43",
+          "TSLA:46"
+        ],
+        "reason": "Merger talks with SpaceX progress"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 1202,
+    "prompt_tokens": 13701,
+    "total_tokens": 14903,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 13701
+  }
+}

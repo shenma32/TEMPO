@@ -1,0 +1,30 @@
+{
+  "request_sha256": "b82e71998b649a52dc2d5fe056c5f192ae6c4f10cd3d62f77cb92e48541f5feb",
+  "response_id": "f646b283-c54a-4a8e-95a9-802615ace1b9",
+  "response_model": "deepseek-flash",
+  "thinking": "disabled",
+  "reasoning_effort": null,
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "feedback": [
+      {
+        "ticker": "WMT",
+        "add": false,
+        "strength": "low",
+        "reason": "实际收益小幅低于预测，误差约-1%，属普通随机波动，公开摘要未显示持续负面催化。"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 47,
+    "prompt_tokens": 797,
+    "total_tokens": 844,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 797
+  }
+}

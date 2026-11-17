@@ -1,0 +1,34 @@
+{
+  "request_sha256": "6f00b09cda4e7a1d55f9b5da2da4c0bb9de9d8b20a619626c637dbbc34f4ae8d",
+  "response_id": "193b8351-b59e-4704-9283-93d534b886ab",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "feedback": [
+      {
+        "ticker": "META",
+        "add": true,
+        "strength": "low",
+        "reason": "Actual return slightly below prediction (error -1.8pp), aligned with analyst caution noted in summary; small magnitude justifies low strength."
+      },
+      {
+        "ticker": "WMT",
+        "add": false,
+        "strength": "low",
+        "reason": "Positive error of 1.3pp but summary lacks persistent directional driver; likely normal volatility, not sustained."
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 90,
+    "prompt_tokens": 804,
+    "total_tokens": 894,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 804
+  }
+}

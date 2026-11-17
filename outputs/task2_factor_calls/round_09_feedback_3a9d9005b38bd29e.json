@@ -1,0 +1,28 @@
+{
+  "request_sha256": "3a9d9005b38bd29eb279ff739037101992f046a460043dcf97fdaa01a078ab82",
+  "response_id": "815fd05c-8236-4326-9836-cfbf9d128ea4",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "feedback": [
+      {
+        "ticker": "WMT",
+        "add": true,
+        "strength": "low",
+        "reason": "预测小幅正收益而实际小幅负收益，误差约1.1个百分点，幅度较小且摘要仅提消费支出预期，缺乏持续恶化证据，记为低强度衰减因子。"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 61,
+    "prompt_tokens": 770,
+    "total_tokens": 831,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 770
+  }
+}

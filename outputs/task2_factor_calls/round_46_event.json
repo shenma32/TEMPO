@@ -1,0 +1,108 @@
+{
+  "request_sha256": "3bb22f6c0e854380911fa16cd23ec2f8642f1b83cb673e21625e8390ad509077",
+  "response_id": "0b2704ea-01d8-4b3f-99f4-afb91153dbb2",
+  "response_model": "deepseek-flash",
+  "thinking": "disabled",
+  "reasoning_effort": null,
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "科技板块变动中英伟达小幅走高"
+      },
+      {
+        "ticker": "NVDA",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "代币化股票反对事项无明确价格方向"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "large_down",
+        "speed": "fast",
+        "reason": "Q4资本支出高企及5000亿美元市值损失带来显著压力"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "分析师视为潜在买入机会"
+      },
+      {
+        "ticker": "META",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "AI投资上升和游说活动引发更多审视"
+      },
+      {
+        "ticker": "META",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "200亿美元跨境债券发行本身无明确方向"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "稳健估值和战略举措增强投资者信心"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "无公司特定新闻或催化剂"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "AWS强劲增长获330美元目标价上调"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_down",
+        "speed": "slow",
+        "reason": "20亿美元数据中心面临AI基础设施选举措施潜在挑战"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_down",
+        "speed": "slow",
+        "reason": "芯片成本上升和竞争压力引发担忧"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "PC市场持续担忧导致股价下跌3%"
+      },
+      {
+        "ticker": "WMT",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "加大仓储机器人投资以提升效率"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "精英内部人士青睐的成长股反映持续信心"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 394,
+    "prompt_tokens": 745,
+    "total_tokens": 1139,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 512
+    },
+    "prompt_cache_hit_tokens": 512,
+    "prompt_cache_miss_tokens": 233
+  }
+}

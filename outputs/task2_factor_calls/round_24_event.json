@@ -1,0 +1,82 @@
+{
+  "request_sha256": "0036f7f0c993bb44fe37507a78e970dfb8420bebc90359b776de0c8b167a16bd",
+  "response_id": "4c9d7a55-e2f3-4594-b3f0-44e2044799b9",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "Amazon AI竞争加剧，部分抵消德国AI协议利好"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "估值偏低讨论与行业竞争消息交织，方向不明"
+      },
+      {
+        "ticker": "META",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "Q3财报受关注但摘要未给出明确预期方向"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "OpenAI收购医疗资产，AI生态扩展属温和利好"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "支付流程准入变化为泛行业讨论，无明确个股催化"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "假日招聘扩张及AI挑战英伟达构成正面叙事"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "100亿美元投资消息伴随需求放缓与利润率压力警告"
+      },
+      {
+        "ticker": "AMD",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "存储周期讨论为主，无直接AMD方向性事件"
+      },
+      {
+        "ticker": "WMT",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "无新闻检索到，无公司特定催化"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "SpaceX财报将披露AI与星链进展，但非特斯拉直接事件"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 312,
+    "prompt_tokens": 722,
+    "total_tokens": 1034,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 722
+  }
+}

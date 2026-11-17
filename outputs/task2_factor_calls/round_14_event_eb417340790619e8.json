@@ -1,0 +1,176 @@
+{
+  "request_sha256": "eb417340790619e8b088582befa00eb5e79bf5f7c7b3ca3797a70ee0d7a401c6",
+  "response_id": "df5bdc88-aa18-4df3-a761-791768bd9147",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "fast",
+        "source_ids": [
+          "NVDA:2",
+          "NVDA:3",
+          "NVDA:7"
+        ],
+        "reason": "AI交易反弹带动半导体股上涨，英伟达上涨"
+      },
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "NVDA:8",
+          "NVDA:9"
+        ],
+        "reason": "英特尔领涨芯片股，英伟达小幅走高"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "GOOG:5"
+        ],
+        "reason": "与埃森哲合作推出面向联邦机构的Gemini AI代理计划"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_down",
+        "speed": "slow",
+        "source_ids": [
+          "GOOG:6"
+        ],
+        "reason": "下一代AI芯片运行延迟"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [
+          "GOOG:7",
+          "GOOG:8"
+        ],
+        "reason": "投资者对云和AI增长估值的争论，未明确方向"
+      },
+      {
+        "ticker": "META",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "META:8"
+        ],
+        "reason": "Q3财报即将公布，市场关注度上升，但方向未明"
+      },
+      {
+        "ticker": "META",
+        "level": "unchanged",
+        "speed": "slow",
+        "source_ids": [
+          "META:9"
+        ],
+        "reason": "博通CPO技术测试结果，中性"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "MSFT:4",
+          "MSFT:5"
+        ],
+        "reason": "微软因电力延迟退出英国Nscale数据中心项目"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [
+          "MSFT:1"
+        ],
+        "reason": "股价走向的关键问题未明，无明确方向"
+      },
+      {
+        "ticker": "JPM",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "JPM:1"
+        ],
+        "reason": "JPMorgan扩大对以太坊的看涨预测至6万美元"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_up",
+        "speed": "fast",
+        "source_ids": [
+          "AMZN:6"
+        ],
+        "reason": "摩根士丹利列出5大催化剂并上调目标价，股价上涨"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "AMZN:8"
+        ],
+        "reason": "开源发布TorchNeuron，支持PyTorch模型在Trainium芯片上运行"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [
+          "AAPL:1",
+          "AAPL:2"
+        ],
+        "reason": "市值创5万亿美元但估值担忧，方向不明"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_up",
+        "speed": "fast",
+        "source_ids": [
+          "AMD:1",
+          "AMD:3",
+          "AMD:5"
+        ],
+        "reason": "AI交易反弹，AMD张4%，半导体股上涨"
+      },
+      {
+        "ticker": "WMT",
+        "level": "unchanged",
+        "speed": "slow",
+        "source_ids": [
+          "WMT:1",
+          "WMT:2"
+        ],
+        "reason": "扩大健康产品和新增物流承运商，方向不明确"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [
+          "TSLA:2",
+          "TSLA:4"
+        ],
+        "reason": "科技股反弹但特斯拉Q3财报受关注，方向不明"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 707,
+    "prompt_tokens": 2568,
+    "total_tokens": 3275,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 2568
+  }
+}

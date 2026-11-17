@@ -1,0 +1,30 @@
+{
+  "request_sha256": "0a4f046470460aca22afd4b7f773d5552359812e7cdc27eab4421f2aad2b8def",
+  "response_id": "e110ace5-cc40-4e1f-ba35-23ff60bc6cc4",
+  "response_model": "deepseek-flash",
+  "thinking": "disabled",
+  "reasoning_effort": null,
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "feedback": [
+      {
+        "ticker": "AMD",
+        "add": true,
+        "strength": "low",
+        "reason": "预测收益接近零而实际小幅上涨约2.2%，误差虽为正但幅度温和，且摘要仅提及大盘反弹下的韧性、无公司特定催化剂，不足以判定持续影响。"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 61,
+    "prompt_tokens": 795,
+    "total_tokens": 856,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 795
+  }
+}

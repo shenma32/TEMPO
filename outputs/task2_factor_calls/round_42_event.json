@@ -1,0 +1,144 @@
+{
+  "request_sha256": "4df67bef709e2ec84e03776e79ab98b48bddf8fc13648a4b811261c9c403a0a7",
+  "response_id": "5094d4e6-7064-4fab-b672-58d383f1c253",
+  "response_model": "deepseek-flash",
+  "thinking": "disabled",
+  "reasoning_effort": null,
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "AI市场裂痕及科技股抛售令其失去市值首位，但强劲盈利与增长动能部分抵消压力"
+      },
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "与SpaceX关系及增长势头提供支撑"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "large_down",
+        "speed": "fast",
+        "reason": "严重科技与AI板块抛售，搜索流量削减及AI支出担忧重压"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "Alphabet等巨头大幅下跌拖累市场情绪"
+      },
+      {
+        "ticker": "META",
+        "level": "large_down",
+        "speed": "fast",
+        "reason": "标普因AI相关巨额支出和潜在现金流赤字下调信用展望至负面"
+      },
+      {
+        "ticker": "META",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "整体科技股抛售及AI投资担忧"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "广泛科技股抛售波及，但Azure增长与创纪录AI投资提供支撑"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "稳健Azure增长及战略合作部分抵消下行压力"
+      },
+      {
+        "ticker": "JPM",
+        "level": "small_down",
+        "speed": "slow",
+        "reason": "近期财报不及预期，地缘政治风险警告"
+      },
+      {
+        "ticker": "JPM",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "AI驱动利润周期、强劲回购与股息计划提供支撑"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "large_down",
+        "speed": "fast",
+        "reason": "第三季度利润重置，云与数据中心激进资本开支引发担忧"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "科技股广泛因AI支出担忧遭遇急跌"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "超越英伟达成为全球市值最高公司，增长势头强劲"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_down",
+        "speed": "slow",
+        "reason": "第四季度财报前情绪谨慎"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "第三季度财报前波动加剧，英特尔数据中心增长形成对比"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "分析师与大型基金对AI驱动供应风险及前景分歧"
+      },
+      {
+        "ticker": "WMT",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "60亿美元仓库自动化投资旨在提升股东价值"
+      },
+      {
+        "ticker": "WMT",
+        "level": "small_down",
+        "speed": "slow",
+        "reason": "通胀压力影响住房、食品与糖果价格，抑制消费支出"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "机器人出租车车队扩展，Cybercab在达拉斯和拉斯维加斯部署"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "中国竞争加剧及营销挑战"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 627,
+    "prompt_tokens": 764,
+    "total_tokens": 1391,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 764
+  }
+}

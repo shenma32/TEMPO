@@ -1,0 +1,157 @@
+{
+  "request_sha256": "fc3a8e184fcb229e431a573d2dbc0319a89948f09cbe3abe28f1ec259359ca38",
+  "response_id": "66209011-4b10-4dca-8bad-21e648696cdb",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "NVDA:3",
+          "NVDA:6",
+          "NVDA:22"
+        ],
+        "reason": "Chip stocks face sell-off and Nvidia falls amid AI selloff"
+      },
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "NVDA:17",
+          "NVDA:25",
+          "NVDA:16"
+        ],
+        "reason": "Adobe collaboration expansion and Volvo's increased bet on Nvidia"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "GOOG:3",
+          "GOOG:4"
+        ],
+        "reason": "J.P. Morgan sees 22% upside and Google signs AI content deal with CNN"
+      },
+      {
+        "ticker": "META",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "META:5",
+          "META:7"
+        ],
+        "reason": "Meta releases new open AI model and partners with Apple for Macs"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "MSFT:2",
+          "MSFT:7"
+        ],
+        "reason": "New efficient AI model and rising Azure/M365 growth expectations"
+      },
+      {
+        "ticker": "JPM",
+        "level": "small_down",
+        "speed": "slow",
+        "source_ids": [
+          "JPM:3"
+        ],
+        "reason": "Capital markets slowdown after strong first half"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "AMZN:4"
+        ],
+        "reason": "Tech stocks fall Thursday afternoon"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "large_up",
+        "speed": "medium",
+        "source_ids": [
+          "AAPL:4",
+          "AAPL:6"
+        ],
+        "reason": "Hits $5 trillion market cap and iPhone preorder momentum"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "AAPL:8",
+          "AAPL:9"
+        ],
+        "reason": "Meta partnership to run AI models on Macs"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_down",
+        "speed": "slow",
+        "source_ids": [
+          "AAPL:10"
+        ],
+        "reason": "OpenAI makes serious allegation involving Apple"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "AMD:1",
+          "AMD:7"
+        ],
+        "reason": "Chip stocks decline sharply"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "AMD:4"
+        ],
+        "reason": "Overlooked catalyst highlighted"
+      },
+      {
+        "ticker": "WMT",
+        "level": "small_up",
+        "speed": "fast",
+        "source_ids": [
+          "WMT:2",
+          "WMT:4"
+        ],
+        "reason": "Deutsche Bank upgrade and stock rises"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "unchanged",
+        "speed": "slow",
+        "source_ids": [],
+        "reason": "No clear directional event"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 823,
+    "prompt_tokens": 3787,
+    "total_tokens": 4610,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 3787
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "request_sha256": "09c26a21f7cd1cedb80ae3e3276a407002965a974a0b495b96a9e82b9b0f3c53",
+  "response_id": "524157cc-ea57-47bc-b1da-16d0c2dd8dfb",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "feedback": [
+      {
+        "ticker": "GOOG",
+        "add": true,
+        "strength": "low",
+        "reason": "相对误差约-1.35%，略高于普通噪声，且摘要仅显示估值审视，属温和持续偏差，故低强度记录。"
+      },
+      {
+        "ticker": "META",
+        "add": true,
+        "strength": "low",
+        "reason": "相对误差约1.70%，方向偏正但摘要仅提及盈利预期，未显示持续催化剂，故低强度记录。"
+      },
+      {
+        "ticker": "MSFT",
+        "add": false,
+        "strength": "low",
+        "reason": "相对误差约0.89%，接近普通波动范围，摘要为合作新闻，不构成持续误差信号。"
+      },
+      {
+        "ticker": "NVDA",
+        "add": false,
+        "strength": "low",
+        "reason": "候选无误差数据；摘要为业务扩展，不构成误差反馈依据。"
+      },
+      {
+        "ticker": "JPM",
+        "add": false,
+        "strength": "low",
+        "reason": "无误差数据且无新闻样本，无法判断持续误差。"
+      },
+      {
+        "ticker": "AMZN",
+        "add": false,
+        "strength": "low",
+        "reason": "无误差数据；摘要仅为估值与机器人出租车讨论，不足以记录反馈。"
+      },
+      {
+        "ticker": "AAPL",
+        "add": false,
+        "strength": "low",
+        "reason": "无误差数据且无新闻样本，无法判断持续误差。"
+      },
+      {
+        "ticker": "AMD",
+        "add": false,
+        "strength": "low",
+        "reason": "无误差数据；高估值讨论不构成误差反馈依据。"
+      },
+      {
+        "ticker": "WMT",
+        "add": false,
+        "strength": "low",
+        "reason": "无误差数据且新闻与财务无关，不记录反馈。"
+      },
+      {
+        "ticker": "TSLA",
+        "add": false,
+        "strength": "low",
+        "reason": "无误差数据；合并与收入目标消息未配套误差，无法判断持续影响。"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 366,
+    "prompt_tokens": 1053,
+    "total_tokens": 1419,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 1053
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "request_sha256": "ba04e84ec3857bc984544389569f492e3c3f485a63912f6c68f2c9cd0d51874e",
+  "response_id": "01df8640-d33b-4fff-b381-745f40597689",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "feedback": [
+      {
+        "ticker": "GOOG",
+        "add": true,
+        "strength": "low",
+        "reason": "实际收益高于预测约1.8个百分点，误差较小且摘要缺乏持续催化剂，仅记为低强度反馈。"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 47,
+    "prompt_tokens": 779,
+    "total_tokens": 826,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 779
+  }
+}

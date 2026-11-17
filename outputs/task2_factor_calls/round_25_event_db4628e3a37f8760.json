@@ -1,0 +1,200 @@
+{
+  "request_sha256": "db4628e3a37f87601f6fac26c32d0f77ff62bc602bed68ecf29044f74c26a34c",
+  "response_id": "88872fd2-64d7-4176-a3a6-01f4bdf3a5ad",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "fast",
+        "source_ids": [
+          "NVDA:38",
+          "NVDA:29",
+          "NVDA:5"
+        ],
+        "reason": "SpaceX扩大芯片采购、中国订单及欧洲合作等多项正面催化剂"
+      },
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "NVDA:5",
+          "NVDA:6",
+          "NVDA:44"
+        ],
+        "reason": "黄仁勋欧洲行强调电信网络及海外AI基础设施机会"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_up",
+        "speed": "fast",
+        "source_ids": [
+          "GOOG:2",
+          "GOOG:12",
+          "GOOG:4"
+        ],
+        "reason": "OpenAI模型将通过Google Cloud提供，深化云AI合作"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [
+          "GOOG:42",
+          "GOOG:43"
+        ],
+        "reason": "股价表现报道混杂，无明确方向性新事件"
+      },
+      {
+        "ticker": "META",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "META:25",
+          "META:26",
+          "META:32"
+        ],
+        "reason": "Q3财报临近，市场关注AI支出压力带来不确定性"
+      },
+      {
+        "ticker": "META",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "META:3",
+          "META:4",
+          "META:22"
+        ],
+        "reason": "分析师支持及Muse AI生态扩展构成正面预期"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_down",
+        "speed": "medium",
+        "source_ids": [
+          "MSFT:45"
+        ],
+        "reason": "摩根士丹利指出微软股票面临新障碍"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "MSFT:27",
+          "MSFT:24"
+        ],
+        "reason": "市场重估与分析师看好AI基本面"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [
+          "JPM:3",
+          "JPM:4"
+        ],
+        "reason": "ETF减持但无明确方向性价格事件"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "AMZN:25",
+          "AMZN:37",
+          "AMZN:47"
+        ],
+        "reason": "宣布160亿欧元德国投资并囤积AI硬件，扩张预期正面"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "AMZN:31",
+          "AMZN:21",
+          "AMZN:30"
+        ],
+        "reason": "多只ETF增持亚马逊"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "AAPL:25",
+          "AAPL:32",
+          "AAPL:35"
+        ],
+        "reason": "Loop Capital下调评级，估值担忧升温"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "AAPL:31",
+          "AAPL:27"
+        ],
+        "reason": "折叠iPhone上市及10月28日预期构成潜在正面催化"
+      },
+      {
+        "ticker": "AMD",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [
+          "AMD:3"
+        ],
+        "reason": "标题仅为模糊的NVIDIA挑战者背书，无明确方向"
+      },
+      {
+        "ticker": "WMT",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "WMT:7",
+          "WMT:5",
+          "WMT:9"
+        ],
+        "reason": "ETF净买入及广告业务扩展构成温和正面"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_up",
+        "speed": "fast",
+        "source_ids": [
+          "TSLA:1",
+          "TSLA:29",
+          "TSLA:34"
+        ],
+        "reason": "与SpaceX合并探索委员会成立及马斯克确认合并谈判"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_down",
+        "speed": "medium",
+        "source_ids": [
+          "TSLA:25",
+          "TSLA:54"
+        ],
+        "reason": "预期季度业绩下滑，财报前基本面承压"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 810,
+    "prompt_tokens": 13269,
+    "total_tokens": 14079,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 13269
+  }
+}

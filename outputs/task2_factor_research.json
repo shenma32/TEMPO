@@ -1,0 +1,1534 @@
+{
+  "selection_rule": "highest cumulative return on the first four dates; all dates previously explored",
+  "selected_feedback_basis": "geometric",
+  "methods": {
+    "geometric": {
+      "all": {
+        "cumulative_return": 0.046732435124445804,
+        "sharpe": 0.30521699995579016,
+        "max_drawdown": 0.0014850493512658103,
+        "active_rounds": 7
+      },
+      "development": {
+        "cumulative_return": 0.04103038575715656,
+        "sharpe": 0.3608837015521705,
+        "max_drawdown": 0.0,
+        "active_rounds": 3
+      },
+      "later_dates": {
+        "cumulative_return": 0.0054773130979670626,
+        "sharpe": 0.24607770549777247,
+        "max_drawdown": 0.0014850493512658103,
+        "active_rounds": 4
+      },
+      "daily": {
+        "2026-10-14": {
+          "cumulative_return": 0.01862293977920637,
+          "sharpe": 0.40824829046386296,
+          "max_drawdown": 0.0,
+          "active_rounds": 1
+        },
+        "2026-10-15": {
+          "cumulative_return": 0.0,
+          "sharpe": null,
+          "max_drawdown": 0.0,
+          "active_rounds": 0
+        },
+        "2026-10-19": {
+          "cumulative_return": 0.00676141325590307,
+          "sharpe": 0.40824829046386296,
+          "max_drawdown": 0.0,
+          "active_rounds": 1
+        },
+        "2026-10-20": {
+          "cumulative_return": 0.01513404183041267,
+          "sharpe": 0.4082482904638631,
+          "max_drawdown": 0.0,
+          "active_rounds": 1
+        },
+        "2026-10-21": {
+          "cumulative_return": 0.0027076047988672247,
+          "sharpe": 0.40824829046386296,
+          "max_drawdown": 0.0,
+          "active_rounds": 1
+        },
+        "2026-10-22": {
+          "cumulative_return": 0.002762229273862271,
+          "sharpe": 0.20978942312682125,
+          "max_drawdown": 0.0014850493512659213,
+          "active_rounds": 3
+        },
+        "2026-10-23": {
+          "cumulative_return": 0.0,
+          "sharpe": null,
+          "max_drawdown": 0.0,
+          "active_rounds": 0
+        }
+      },
+      "cost_sensitivity_bps": {
+        "0": {
+          "cumulative_return": 0.05403382305630178,
+          "sharpe": 0.33017788252014274,
+          "max_drawdown": 0.0004850493512658094,
+          "active_rounds": 7
+        },
+        "5": {
+          "cumulative_return": 0.05037769127914493,
+          "sharpe": 0.3182874031915243,
+          "max_drawdown": 0.0009850493512658653,
+          "active_rounds": 7
+        },
+        "10": {
+          "cumulative_return": 0.046732435124445804,
+          "sharpe": 0.30521699995579016,
+          "max_drawdown": 0.0014850493512658103,
+          "active_rounds": 7
+        },
+        "20": {
+          "cumulative_return": 0.03947444184699611,
+          "sharpe": 0.2751278684808088,
+          "max_drawdown": 0.002485049351265811,
+          "active_rounds": 7
+        }
+      },
+      "leave_one_date_out": {
+        "2026-10-14": {
+          "cumulative_return": 0.02759558443807686,
+          "sharpe": 0.2872889967128757,
+          "max_drawdown": 0.0014850493512659213,
+          "active_rounds": 6
+        },
+        "2026-10-15": {
+          "cumulative_return": 0.046732435124445804,
+          "sharpe": 0.3245301686644368,
+          "max_drawdown": 0.0014850493512658103,
+          "active_rounds": 7
+        },
+        "2026-10-19": {
+          "cumulative_return": 0.03970257634256669,
+          "sharpe": 0.2931972459813424,
+          "max_drawdown": 0.0014850493512658103,
+          "active_rounds": 6
+        },
+        "2026-10-20": {
+          "cumulative_return": 0.031127311263306146,
+          "sharpe": 0.27449429070357845,
+          "max_drawdown": 0.0014850493512658103,
+          "active_rounds": 6
+        },
+        "2026-10-21": {
+          "cumulative_return": 0.04390595036367517,
+          "sharpe": 0.3157904052529851,
+          "max_drawdown": 0.0014850493512658103,
+          "active_rounds": 6
+        },
+        "2026-10-22": {
+          "cumulative_return": 0.04384908462539916,
+          "sharpe": 0.3202802637229992,
+          "max_drawdown": 0.0,
+          "active_rounds": 4
+        },
+        "2026-10-23": {
+          "cumulative_return": 0.046732435124445804,
+          "sharpe": 0.319359265018833,
+          "max_drawdown": 0.0014850493512658103,
+          "active_rounds": 7
+        }
+      },
+      "api": {
+        "requests": 49,
+        "feedback_requests": 8,
+        "prompt_tokens": 36940,
+        "completion_tokens": 15410
+      }
+    },
+    "arithmetic": {
+      "all": {
+        "cumulative_return": 0.029354262072233128,
+        "sharpe": 0.234199063000252,
+        "max_drawdown": 0.002259816894060629,
+        "active_rounds": 6
+      },
+      "development": {
+        "cumulative_return": 0.023192804992852922,
+        "sharpe": 0.24929471843580056,
+        "max_drawdown": 0.002259816894060629,
+        "active_rounds": 3
+      },
+      "later_dates": {
+        "cumulative_return": 0.00602179476762732,
+        "sharpe": 0.2735436220637404,
+        "max_drawdown": 0.0014850493512659213,
+        "active_rounds": 3
+      },
+      "daily": {
+        "2026-10-14": {
+          "cumulative_return": 0.01862293977920637,
+          "sharpe": 0.40824829046386296,
+          "max_drawdown": 0.0,
+          "active_rounds": 1
+        },
+        "2026-10-15": {
+          "cumulative_return": 0.0,
+          "sharpe": null,
+          "max_drawdown": 0.0,
+          "active_rounds": 0
+        },
+        "2026-10-19": {
+          "cumulative_return": 0.00676141325590307,
+          "sharpe": 0.40824829046386296,
+          "max_drawdown": 0.0,
+          "active_rounds": 1
+        },
+        "2026-10-20": {
+          "cumulative_return": -0.002259816894060518,
+          "sharpe": -0.4082482904638631,
+          "max_drawdown": 0.002259816894060518,
+          "active_rounds": 1
+        },
+        "2026-10-21": {
+          "cumulative_return": 0.0027076047988672247,
+          "sharpe": 0.40824829046386296,
+          "max_drawdown": 0.0,
+          "active_rounds": 1
+        },
+        "2026-10-22": {
+          "cumulative_return": 0.003305240683225019,
+          "sharpe": 0.2552342334674458,
+          "max_drawdown": 0.0014850493512656993,
+          "active_rounds": 2
+        },
+        "2026-10-23": {
+          "cumulative_return": 0.0,
+          "sharpe": null,
+          "max_drawdown": 0.0,
+          "active_rounds": 0
+        }
+      },
+      "cost_sensitivity_bps": {
+        "0": {
+          "cumulative_return": 0.03551613648970586,
+          "sharpe": 0.2654063401605421,
+          "max_drawdown": 0.001259816894060628,
+          "active_rounds": 6
+        },
+        "5": {
+          "cumulative_return": 0.03243136848894612,
+          "sharpe": 0.2505294579959601,
+          "max_drawdown": 0.001759816894060351,
+          "active_rounds": 6
+        },
+        "10": {
+          "cumulative_return": 0.029354262072233128,
+          "sharpe": 0.234199063000252,
+          "max_drawdown": 0.002259816894060629,
+          "active_rounds": 6
+        },
+        "20": {
+          "cumulative_return": 0.023222973091356014,
+          "sharpe": 0.19687543264269688,
+          "max_drawdown": 0.00325981689406063,
+          "active_rounds": 6
+        }
+      },
+      "leave_one_date_out": {
+        "2026-10-14": {
+          "cumulative_return": 0.010535127252634613,
+          "sharpe": 0.2080974521067425,
+          "max_drawdown": 0.002259816894060629,
+          "active_rounds": 5
+        },
+        "2026-10-15": {
+          "cumulative_return": 0.029354262072233128,
+          "sharpe": 0.24841942376780515,
+          "max_drawdown": 0.002259816894060629,
+          "active_rounds": 6
+        },
+        "2026-10-19": {
+          "cumulative_return": 0.022441115162791014,
+          "sharpe": 0.20606854688682164,
+          "max_drawdown": 0.002259816894060407,
+          "active_rounds": 5
+        },
+        "2026-10-20": {
+          "cumulative_return": 0.03168568280760198,
+          "sharpe": 0.27979752351642434,
+          "max_drawdown": 0.0014850493512658103,
+          "active_rounds": 5
+        },
+        "2026-10-21": {
+          "cumulative_return": 0.02657470347869828,
+          "sharpe": 0.23345863071049308,
+          "max_drawdown": 0.002259816894060629,
+          "active_rounds": 5
+        },
+        "2026-10-22": {
+          "cumulative_return": 0.025963206741818068,
+          "sharpe": 0.23308219403848515,
+          "max_drawdown": 0.002259816894060629,
+          "active_rounds": 4
+        },
+        "2026-10-23": {
+          "cumulative_return": 0.029354262072233128,
+          "sharpe": 0.24462254517697277,
+          "max_drawdown": 0.002259816894060629,
+          "active_rounds": 6
+        }
+      },
+      "api": {
+        "requests": 49,
+        "feedback_requests": 8,
+        "prompt_tokens": 36940,
+        "completion_tokens": 15379
+      }
+    },
+    "relative": {
+      "all": {
+        "cumulative_return": 0.02390680066609696,
+        "sharpe": 0.14074778764836995,
+        "max_drawdown": 0.014346397945561806,
+        "active_rounds": 7
+      },
+      "development": {
+        "cumulative_return": 0.03880998205853059,
+        "sharpe": 0.33813670470354024,
+        "max_drawdown": 0.0021328903834165747,
+        "active_rounds": 4
+      },
+      "later_dates": {
+        "cumulative_return": -0.014346397945561917,
+        "sharpe": -0.3017562054649492,
+        "max_drawdown": 0.014346397945561917,
+        "active_rounds": 3
+      },
+      "daily": {
+        "2026-10-14": {
+          "cumulative_return": 0.01862293977920637,
+          "sharpe": 0.40824829046386296,
+          "max_drawdown": 0.0,
+          "active_rounds": 1
+        },
+        "2026-10-15": {
+          "cumulative_return": 0.0,
+          "sharpe": null,
+          "max_drawdown": 0.0,
+          "active_rounds": 0
+        },
+        "2026-10-19": {
+          "cumulative_return": 0.00676141325590307,
+          "sharpe": 0.40824829046386296,
+          "max_drawdown": 0.0,
+          "active_rounds": 1
+        },
+        "2026-10-20": {
+          "cumulative_return": 0.012968872194713876,
+          "sharpe": 0.3380629703900766,
+          "max_drawdown": 0.0021328903834164636,
+          "active_rounds": 2
+        },
+        "2026-10-21": {
+          "cumulative_return": -0.012345936098186905,
+          "sharpe": -0.40824829046386296,
+          "max_drawdown": 0.012345936098186905,
+          "active_rounds": 1
+        },
+        "2026-10-22": {
+          "cumulative_return": -0.0020254681476953307,
+          "sharpe": -0.5606775606091613,
+          "max_drawdown": 0.0020254681476953307,
+          "active_rounds": 2
+        },
+        "2026-10-23": {
+          "cumulative_return": 0.0,
+          "sharpe": null,
+          "max_drawdown": 0.0,
+          "active_rounds": 0
+        }
+      },
+      "cost_sensitivity_bps": {
+        "0": {
+          "cumulative_return": 0.031071746932620492,
+          "sharpe": 0.17669976309147845,
+          "max_drawdown": 0.011372129913780338,
+          "active_rounds": 7
+        },
+        "5": {
+          "cumulative_return": 0.02748392069124761,
+          "sharpe": 0.15910576609339766,
+          "max_drawdown": 0.012860010711619019,
+          "active_rounds": 7
+        },
+        "10": {
+          "cumulative_return": 0.02390680066609696,
+          "sharpe": 0.14074778764836995,
+          "max_drawdown": 0.014346397945561806,
+          "active_rounds": 7
+        },
+        "20": {
+          "cumulative_return": 0.016784572773665074,
+          "sharpe": 0.10195913604917838,
+          "max_drawdown": 0.017314694721759172,
+          "active_rounds": 7
+        }
+      },
+      "leave_one_date_out": {
+        "2026-10-14": {
+          "cumulative_return": 0.005187258877201506,
+          "sharpe": 0.04575388337851832,
+          "max_drawdown": 0.014346397945561695,
+          "active_rounds": 6
+        },
+        "2026-10-15": {
+          "cumulative_return": 0.02390680066609696,
+          "sharpe": 0.1489668591751085,
+          "max_drawdown": 0.014346397945561806,
+          "active_rounds": 7
+        },
+        "2026-10-19": {
+          "cumulative_return": 0.017030238926962316,
+          "sharpe": 0.11314890013869629,
+          "max_drawdown": 0.014346397945561695,
+          "active_rounds": 6
+        },
+        "2026-10-20": {
+          "cumulative_return": 0.0107978919901901,
+          "sharpe": 0.0834555897193778,
+          "max_drawdown": 0.014346397945561806,
+          "active_rounds": 5
+        },
+        "2026-10-21": {
+          "cumulative_return": 0.03670590552836295,
+          "sharpe": 0.26538420562839393,
+          "max_drawdown": 0.0021328903834165747,
+          "active_rounds": 6
+        },
+        "2026-10-22": {
+          "cumulative_return": 0.025984900401877287,
+          "sharpe": 0.16725532145881822,
+          "max_drawdown": 0.012345936098186905,
+          "active_rounds": 5
+        },
+        "2026-10-23": {
+          "cumulative_return": 0.02390680066609696,
+          "sharpe": 0.14677786196431727,
+          "max_drawdown": 0.014346397945561806,
+          "active_rounds": 7
+        }
+      },
+      "api": {
+        "requests": 48,
+        "feedback_requests": 7,
+        "prompt_tokens": 34234,
+        "completion_tokens": 15411
+      }
+    }
+  },
+  "audits": {
+    "geometric": {
+      "audit": "passed",
+      "rounds": 41,
+      "evaluable_rounds": 37,
+      "factors": 516,
+      "decisions": {
+        "F": 33,
+        "LS": 8
+      },
+      "cumulative_net_return": 0.046732435124445804
+    },
+    "arithmetic": {
+      "audit": "passed",
+      "rounds": 41,
+      "evaluable_rounds": 37,
+      "factors": 514,
+      "decisions": {
+        "F": 34,
+        "LS": 7
+      },
+      "cumulative_net_return": 0.029354262072233128
+    },
+    "relative": {
+      "audit": "passed",
+      "rounds": 41,
+      "evaluable_rounds": 37,
+      "factors": 515,
+      "decisions": {
+        "F": 33,
+        "LS": 8
+      },
+      "cumulative_net_return": 0.02390680066609696
+    }
+  },
+  "benchmark": {
+    "repetitions": 31,
+    "rounds_per_repetition": 41,
+    "python": "3.13.14",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "numpy": "2.3.5",
+    "median_ms": {
+      "reference": 21.242700022412464,
+      "cached": 12.372400000458583
+    },
+    "speedup": 1.7169425512936134,
+    "exact_prediction_equality": true,
+    "cache": {
+      "hits": 5285,
+      "misses": 2660,
+      "maxsize": 4096,
+      "currsize": 2660
+    },
+    "timings_ms": {
+      "reference": [
+        21.644400025252253,
+        20.155999984126538,
+        20.18240001052618,
+        20.10069999960251,
+        20.472200005315244,
+        23.035199992591515,
+        23.075099976267666,
+        22.27600000333041,
+        23.48949998850003,
+        23.32169999135658,
+        23.294799990253523,
+        24.292899994179606,
+        21.575399994617328,
+        20.080699992831796,
+        20.126499992329627,
+        29.906700015999377,
+        22.607299993978813,
+        22.680699999909848,
+        21.73230002517812,
+        21.242700022412464,
+        21.80789998965338,
+        21.110499976202846,
+        20.8654000016395,
+        22.27129999664612,
+        20.914900000207126,
+        20.097300002817065,
+        21.103200007928535,
+        19.30539999739267,
+        20.56040000752546,
+        19.811599981039762,
+        20.950399979483336
+      ],
+      "cached": [
+        12.146499997470528,
+        11.280099977739155,
+        11.98629999998957,
+        12.813900015316904,
+        11.85730000725016,
+        11.911600013263524,
+        14.486600004602224,
+        13.14619998447597,
+        14.373599988175556,
+        13.158500019926578,
+        15.18200000282377,
+        13.73450001119636,
+        13.643500016769394,
+        12.374099984299392,
+        11.952400003792718,
+        11.489399999845773,
+        14.903999981470406,
+        12.186599982669577,
+        11.814900004537776,
+        13.081199984299019,
+        11.703399999532849,
+        13.892100017983466,
+        11.739900015527382,
+        13.157199980923906,
+        12.99210000433959,
+        12.019599991617724,
+        12.372400000458583,
+        11.91370000015013,
+        12.071700009983033,
+        13.604499981738627,
+        11.558900005184114
+      ]
+    }
+  },
+  "baselines": {
+    "finbert_plus_momentum": {
+      "all": {
+        "cumulative_return": 0.051598791490587104,
+        "sharpe": 0.20041558157283165,
+        "max_drawdown": 0.022841925451280054,
+        "active_rounds": 37
+      },
+      "development": {
+        "cumulative_return": 0.021400647340179324,
+        "sharpe": 0.17087805077128637,
+        "max_drawdown": 0.022841925451280054,
+        "active_rounds": 22
+      },
+      "later_dates": {
+        "cumulative_return": 0.0295654249182693,
+        "sharpe": 0.231900987595096,
+        "max_drawdown": 0.01177526588618949,
+        "active_rounds": 15
+      },
+      "model_revision": "0bc2ac10dda6929bcb1f77ccc43c7ec5c424f031",
+      "summary_sha256": "429d0d43c94d1fb083c35b6124ab4a71ef230e0ec0c87457a256fe7236922680"
+    },
+    "flat": {
+      "cumulative_return": 0.0,
+      "sharpe": null,
+      "max_drawdown": 0.0,
+      "active_rounds": 0
+    }
+  },
+  "factor_ablation": {
+    "event": {
+      "development": {
+        "cumulative_return": 0.023192804992852922,
+        "sharpe": 0.24929471843580056,
+        "max_drawdown": 0.002259816894060629,
+        "active_rounds": 3
+      },
+      "validation": {
+        "cumulative_return": 0.0038658862385314574,
+        "sharpe": 0.3478969658352287,
+        "max_drawdown": 0.0,
+        "active_rounds": 2
+      },
+      "all": {
+        "cumulative_return": 0.027148351977039464,
+        "sharpe": 0.2225704199873622,
+        "max_drawdown": 0.002259816894060629,
+        "active_rounds": 5
+      },
+      "rows": [
+        {
+          "round": 1,
+          "date": "2026-10-14",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 2,
+          "date": "2026-10-14",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 3,
+          "date": "2026-10-14",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 4,
+          "date": "2026-10-14",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 5,
+          "date": "2026-10-14",
+          "action": "LS",
+          "stock1": "META",
+          "stock2": "AMD",
+          "net_return": 0.01862293977920637
+        },
+        {
+          "round": 6,
+          "date": "2026-10-14",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 7,
+          "date": "2026-10-15",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 8,
+          "date": "2026-10-15",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 9,
+          "date": "2026-10-15",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 10,
+          "date": "2026-10-15",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 13,
+          "date": "2026-10-19",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 14,
+          "date": "2026-10-19",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 15,
+          "date": "2026-10-19",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 16,
+          "date": "2026-10-19",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 17,
+          "date": "2026-10-19",
+          "action": "LS",
+          "stock1": "TSLA",
+          "stock2": "AAPL",
+          "net_return": 0.006761413255903071
+        },
+        {
+          "round": 18,
+          "date": "2026-10-19",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 19,
+          "date": "2026-10-20",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 20,
+          "date": "2026-10-20",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 21,
+          "date": "2026-10-20",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 22,
+          "date": "2026-10-20",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 23,
+          "date": "2026-10-20",
+          "action": "LS",
+          "stock1": "AMD",
+          "stock2": "NVDA",
+          "net_return": -0.002259816894060517
+        },
+        {
+          "round": 24,
+          "date": "2026-10-20",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 25,
+          "date": "2026-10-21",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 26,
+          "date": "2026-10-21",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 27,
+          "date": "2026-10-21",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 28,
+          "date": "2026-10-21",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 29,
+          "date": "2026-10-21",
+          "action": "LS",
+          "stock1": "TSLA",
+          "stock2": "META",
+          "net_return": 0.0027076047988672256
+        },
+        {
+          "round": 30,
+          "date": "2026-10-21",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 31,
+          "date": "2026-10-22",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 32,
+          "date": "2026-10-22",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 33,
+          "date": "2026-10-22",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 34,
+          "date": "2026-10-22",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 35,
+          "date": "2026-10-22",
+          "action": "LS",
+          "stock1": "NVDA",
+          "stock2": "TSLA",
+          "net_return": 0.0011551537398548093
+        },
+        {
+          "round": 36,
+          "date": "2026-10-22",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 37,
+          "date": "2026-10-23",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 38,
+          "date": "2026-10-23",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 39,
+          "date": "2026-10-23",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        }
+      ]
+    },
+    "event_relation": {
+      "development": {
+        "cumulative_return": 0.023192804992852922,
+        "sharpe": 0.24929471843580056,
+        "max_drawdown": 0.002259816894060629,
+        "active_rounds": 3
+      },
+      "validation": {
+        "cumulative_return": 0.0038658862385314574,
+        "sharpe": 0.3478969658352287,
+        "max_drawdown": 0.0,
+        "active_rounds": 2
+      },
+      "all": {
+        "cumulative_return": 0.027148351977039464,
+        "sharpe": 0.2225704199873622,
+        "max_drawdown": 0.002259816894060629,
+        "active_rounds": 5
+      },
+      "rows": [
+        {
+          "round": 1,
+          "date": "2026-10-14",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 2,
+          "date": "2026-10-14",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 3,
+          "date": "2026-10-14",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 4,
+          "date": "2026-10-14",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 5,
+          "date": "2026-10-14",
+          "action": "LS",
+          "stock1": "META",
+          "stock2": "AMD",
+          "net_return": 0.01862293977920637
+        },
+        {
+          "round": 6,
+          "date": "2026-10-14",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 7,
+          "date": "2026-10-15",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 8,
+          "date": "2026-10-15",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 9,
+          "date": "2026-10-15",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 10,
+          "date": "2026-10-15",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 13,
+          "date": "2026-10-19",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 14,
+          "date": "2026-10-19",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 15,
+          "date": "2026-10-19",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 16,
+          "date": "2026-10-19",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 17,
+          "date": "2026-10-19",
+          "action": "LS",
+          "stock1": "TSLA",
+          "stock2": "AAPL",
+          "net_return": 0.006761413255903071
+        },
+        {
+          "round": 18,
+          "date": "2026-10-19",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 19,
+          "date": "2026-10-20",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 20,
+          "date": "2026-10-20",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 21,
+          "date": "2026-10-20",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 22,
+          "date": "2026-10-20",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 23,
+          "date": "2026-10-20",
+          "action": "LS",
+          "stock1": "AMD",
+          "stock2": "NVDA",
+          "net_return": -0.002259816894060517
+        },
+        {
+          "round": 24,
+          "date": "2026-10-20",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 25,
+          "date": "2026-10-21",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 26,
+          "date": "2026-10-21",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 27,
+          "date": "2026-10-21",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 28,
+          "date": "2026-10-21",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 29,
+          "date": "2026-10-21",
+          "action": "LS",
+          "stock1": "TSLA",
+          "stock2": "META",
+          "net_return": 0.0027076047988672256
+        },
+        {
+          "round": 30,
+          "date": "2026-10-21",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 31,
+          "date": "2026-10-22",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 32,
+          "date": "2026-10-22",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 33,
+          "date": "2026-10-22",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 34,
+          "date": "2026-10-22",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 35,
+          "date": "2026-10-22",
+          "action": "LS",
+          "stock1": "NVDA",
+          "stock2": "TSLA",
+          "net_return": 0.0011551537398548093
+        },
+        {
+          "round": 36,
+          "date": "2026-10-22",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 37,
+          "date": "2026-10-23",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 38,
+          "date": "2026-10-23",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 39,
+          "date": "2026-10-23",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        }
+      ]
+    },
+    "full": {
+      "development": {
+        "cumulative_return": 0.04103038575715656,
+        "sharpe": 0.3608837015521705,
+        "max_drawdown": 0.0,
+        "active_rounds": 3
+      },
+      "validation": {
+        "cumulative_return": 0.0054773130979670626,
+        "sharpe": 0.24607770549777247,
+        "max_drawdown": 0.0014850493512658103,
+        "active_rounds": 4
+      },
+      "all": {
+        "cumulative_return": 0.046732435124445804,
+        "sharpe": 0.30521699995579016,
+        "max_drawdown": 0.0014850493512658103,
+        "active_rounds": 7
+      },
+      "rows": [
+        {
+          "round": 1,
+          "date": "2026-10-14",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 2,
+          "date": "2026-10-14",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 3,
+          "date": "2026-10-14",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 4,
+          "date": "2026-10-14",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 5,
+          "date": "2026-10-14",
+          "action": "LS",
+          "stock1": "META",
+          "stock2": "AMD",
+          "net_return": 0.01862293977920637
+        },
+        {
+          "round": 6,
+          "date": "2026-10-14",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 7,
+          "date": "2026-10-15",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 8,
+          "date": "2026-10-15",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 9,
+          "date": "2026-10-15",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 10,
+          "date": "2026-10-15",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 13,
+          "date": "2026-10-19",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 14,
+          "date": "2026-10-19",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 15,
+          "date": "2026-10-19",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 16,
+          "date": "2026-10-19",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 17,
+          "date": "2026-10-19",
+          "action": "LS",
+          "stock1": "TSLA",
+          "stock2": "AAPL",
+          "net_return": 0.006761413255903071
+        },
+        {
+          "round": 18,
+          "date": "2026-10-19",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 19,
+          "date": "2026-10-20",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 20,
+          "date": "2026-10-20",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 21,
+          "date": "2026-10-20",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 22,
+          "date": "2026-10-20",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 23,
+          "date": "2026-10-20",
+          "action": "LS",
+          "stock1": "AMD",
+          "stock2": "WMT",
+          "net_return": 0.015134041830412726
+        },
+        {
+          "round": 24,
+          "date": "2026-10-20",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 25,
+          "date": "2026-10-21",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 26,
+          "date": "2026-10-21",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 27,
+          "date": "2026-10-21",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 28,
+          "date": "2026-10-21",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 29,
+          "date": "2026-10-21",
+          "action": "LS",
+          "stock1": "TSLA",
+          "stock2": "META",
+          "net_return": 0.0027076047988672256
+        },
+        {
+          "round": 30,
+          "date": "2026-10-21",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 31,
+          "date": "2026-10-22",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 32,
+          "date": "2026-10-22",
+          "action": "LS",
+          "stock1": "TSLA",
+          "stock2": "META",
+          "net_return": -0.0005412225386093308
+        },
+        {
+          "round": 33,
+          "date": "2026-10-22",
+          "action": "LS",
+          "stock1": "AAPL",
+          "stock2": "META",
+          "net_return": 0.004797414431680137
+        },
+        {
+          "round": 34,
+          "date": "2026-10-22",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 35,
+          "date": "2026-10-22",
+          "action": "LS",
+          "stock1": "NVDA",
+          "stock2": "META",
+          "net_return": -0.0014850493512658094
+        },
+        {
+          "round": 36,
+          "date": "2026-10-22",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 37,
+          "date": "2026-10-23",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 38,
+          "date": "2026-10-23",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        },
+        {
+          "round": 39,
+          "date": "2026-10-23",
+          "action": "F",
+          "stock1": null,
+          "stock2": null,
+          "net_return": 0.0
+        }
+      ]
+    }
+  }
+}

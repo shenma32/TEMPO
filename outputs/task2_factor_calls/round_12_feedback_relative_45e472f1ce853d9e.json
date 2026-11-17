@@ -1,0 +1,30 @@
+{
+  "request_sha256": "45e472f1ce853d9ec4399e18c565ee71cbc9704be806e557fdd9cf6151d600dd",
+  "response_id": "47332adb-a2f6-4b17-897a-f55e25ce615d",
+  "response_model": "deepseek-flash",
+  "thinking": "disabled",
+  "reasoning_effort": null,
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "feedback": [
+      {
+        "ticker": "AMD",
+        "add": true,
+        "strength": "medium",
+        "reason": "相对市场误差约+1.87%，显著高于共同市场误差，显示个股持续正向偏离，值得记录反馈因子。"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 48,
+    "prompt_tokens": 383,
+    "total_tokens": 431,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 383
+  }
+}

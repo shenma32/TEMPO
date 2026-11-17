@@ -1,0 +1,82 @@
+{
+  "request_sha256": "1a8555f057e9f7e87983926a13e7b647df8e042d5cbefe625799018f526b0ecd",
+  "response_id": "c1c1ce6f-34a6-4cd0-95ee-f03b6ca23da2",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "AI chip stocks under pressure and investor rotation out of tech funds"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "Cloud integration of OpenAI models and nuclear energy deal"
+      },
+      {
+        "ticker": "META",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "Stock dropped over 6% on AI spending concerns despite earnings beat"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "AI TRiSM market growth highlights opportunity"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "No clear directional catalyst in summary"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "Mixed media innovation and consumer cost signals"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "Strong iPhone pre-order demand causing backorders"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "Shares declined amid AI sector pressure"
+      },
+      {
+        "ticker": "WMT",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "Membership bundle offset by consumer price hikes"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "Q3 profit fell 43% amid rising operating costs"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 282,
+    "prompt_tokens": 718,
+    "total_tokens": 1000,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 718
+  }
+}

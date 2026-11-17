@@ -1,0 +1,154 @@
+{
+  "request_sha256": "159ca77509af1cd431ee0a54c52bd56266e0cc426eadffa64fc4a38b6c7f812e",
+  "response_id": "03f5d2e0-deb4-4c4d-8275-046b2e877d46",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "NVDA:35",
+          "NVDA:43",
+          "NVDA:19"
+        ],
+        "reason": "AI支出担忧与科技股抛售拖累，黄仁勋言论引发市场不安，财报前预期承压"
+      },
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "NVDA:4"
+        ],
+        "reason": "推出面向企业AI代理的OpenShell安全平台，产品进展偏正面"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_down",
+        "speed": "medium",
+        "source_ids": [
+          "GOOG:2",
+          "GOOG:6"
+        ],
+        "reason": "大型科技支出受惩罚情绪蔓延，且与微软等就新交易计划提出异议"
+      },
+      {
+        "ticker": "META",
+        "level": "large_down",
+        "speed": "fast",
+        "source_ids": [
+          "META:2",
+          "META:18",
+          "META:6"
+        ],
+        "reason": "AI支出担忧叠加新墨西哥州250亿美元处罚，股价遭大幅抛售"
+      },
+      {
+        "ticker": "META",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "META:29"
+        ],
+        "reason": "UBS称AI变现或提振营收增长，分析师看法偏正面"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_down",
+        "speed": "medium",
+        "source_ids": [
+          "MSFT:3",
+          "MSFT:6"
+        ],
+        "reason": "联合抗议新交易计划，且AI相关裁员潮扩大带来情绪压力"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "仅有加密资产比较类标题，无明确方向性事件"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_down",
+        "speed": "medium",
+        "source_ids": [
+          "AMZN:3"
+        ],
+        "reason": "引领AI相关裁员潮，涉及组织调整的负面信号"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "AAPL:5"
+        ],
+        "reason": "首款折叠屏iPhone获好评，产品预期偏正面"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_down",
+        "speed": "medium",
+        "source_ids": [
+          "AAPL:1"
+        ],
+        "reason": "投资者惩罚大型科技高支出，板块情绪压制"
+      },
+      {
+        "ticker": "AMD",
+        "level": "large_down",
+        "speed": "fast",
+        "source_ids": [
+          "AMD:2",
+          "AMD:1"
+        ],
+        "reason": "AI支出担忧令股价跌7.53%，芯片板块反弹夭折"
+      },
+      {
+        "ticker": "WMT",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "相关标题聚焦Target估值与科技股，无WMT明确方向性事件"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "large_down",
+        "speed": "fast",
+        "source_ids": [
+          "TSLA:12",
+          "TSLA:6",
+          "TSLA:7"
+        ],
+        "reason": "利润下滑43%，与Meta同列拖累纳指下跌"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "TSLA:16",
+          "TSLA:13"
+        ],
+        "reason": "Optimus机器人新能力暗示及SpaceX合并传闻带来想象空间"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 654,
+    "prompt_tokens": 4638,
+    "total_tokens": 5292,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 4638
+  }
+}

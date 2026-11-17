@@ -1,0 +1,82 @@
+{
+  "request_sha256": "ddc87c56182c7a976184488a4563b44645c03cd01a16ab5193a4985bf6d83b23",
+  "response_id": "aa497102-5158-4ac5-928d-42de97593212",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "AI芯片持续开发但面临竞争压力，摘要未提供明确方向性催化剂"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "新兴AI芯片机会和网络安全股反应混杂，无明确方向性事件"
+      },
+      {
+        "ticker": "META",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "消费级智能体AI进展提升需求，但无明确价格方向"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "Othello融资属第三方事件，与微软无直接方向性关联"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "本次窗口无JPM新闻，无法推断催化剂"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_down",
+        "speed": "slow",
+        "reason": "计划关闭杂货合作店面，显示业务调整压力"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_down",
+        "speed": "slow",
+        "reason": "市场对代理式AI持怀疑态度，行业疑虑偏负面"
+      },
+      {
+        "ticker": "AMD",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "本次窗口无AMD新闻，无法推断催化剂"
+      },
+      {
+        "ticker": "WMT",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "本次窗口无WMT新闻，无法推断催化剂"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "本次窗口无TSLA新闻，无法推断催化剂"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 316,
+    "prompt_tokens": 724,
+    "total_tokens": 1040,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 724
+  }
+}

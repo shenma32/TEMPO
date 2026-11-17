@@ -1,0 +1,34 @@
+{
+  "request_sha256": "190d301fb2a099561a25157aae9fb8cf24cad52db55615c1ce01487dd74fc757",
+  "response_id": "8a9c9836-bee9-4f16-909e-4ec14804d5ea",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "feedback": [
+      {
+        "ticker": "JPM",
+        "add": false,
+        "strength": "low",
+        "reason": "实际收益接近零且无明显催化剂，误差微小属随机波动"
+      },
+      {
+        "ticker": "WMT",
+        "add": false,
+        "strength": "low",
+        "reason": "误差幅度小且公司基本面消息偏正面，不足以判定持续偏差"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 70,
+    "prompt_tokens": 839,
+    "total_tokens": 909,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 839
+  }
+}

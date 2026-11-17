@@ -1,0 +1,94 @@
+{
+  "request_sha256": "f3863a2bef2c4a1645cf52c4a695ca439780fc55e8b1cc2f906be967bcc21271",
+  "response_id": "2bc190dd-da45-425c-b716-10299aba058d",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "Semiconductor sell-off pressures sentiment"
+      },
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "TSMC record profit signals strong AI chip demand"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "Heavy AI and cloud investments with potential stock gains noted"
+      },
+      {
+        "ticker": "META",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "No clear directional catalyst; AI advantage noted but heavy investments"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "Best quarter in 28 years with increased AI investments"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "Mixed earnings and cautious sentiment; no clear direction"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "Benefits from increased tech spending and AI/cloud position"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_up",
+        "speed": "fast",
+        "reason": "Joins $5 trillion club amid strong iPhone sales and China AI launch"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "Falls amid AI sell-off and inflation fears"
+      },
+      {
+        "ticker": "WMT",
+        "level": "small_up",
+        "speed": "fast",
+        "reason": "Deutsche Bank upgrade boosts shares 3%"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "New Roadster unveiling and EV growth"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "Merger speculation offset by regulatory probes"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 529,
+    "prompt_tokens": 732,
+    "total_tokens": 1261,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 732
+  }
+}

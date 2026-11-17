@@ -1,0 +1,46 @@
+{
+  "request_sha256": "4ff86949e4367c48dd853c24b6203a7c3a4d25c4594dd5003fd9541eef5bb4a4",
+  "response_id": "2a35c0d9-faa6-45ec-8d52-c7abe2e58d8a",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "feedback": [
+      {
+        "ticker": "META",
+        "add": true,
+        "strength": "medium",
+        "reason": "预测近乎零而实际下跌约3.5%，且摘要显示罚款与首次现金消耗等持续负面因素，非纯随机波动"
+      },
+      {
+        "ticker": "MSFT",
+        "add": true,
+        "strength": "low",
+        "reason": "实际小幅下跌约1.8%，与零预测方向相反，但摘要仅提及ETF权重，影响可能有限"
+      },
+      {
+        "ticker": "AMZN",
+        "add": true,
+        "strength": "low",
+        "reason": "实际下跌约2.4%偏离近零预测，摘要缺乏公司特有负面事件，倾向温和记录"
+      },
+      {
+        "ticker": "TSLA",
+        "add": false,
+        "strength": "low",
+        "reason": "实际上涨约3.5%偏离近零预测，但摘要混杂财报超预期与AI交易紧张，方向不一致，暂不视为持续误差"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 186,
+    "prompt_tokens": 970,
+    "total_tokens": 1156,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 970
+  }
+}

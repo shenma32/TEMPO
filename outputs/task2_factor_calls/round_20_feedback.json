@@ -1,0 +1,40 @@
+{
+  "request_sha256": "1b73ba5144cadbb11ce733e1cad0131bdaf2038ad57e2d5d7d7ac4854bea4a9a",
+  "response_id": "4b75ef5b-c8d5-4505-9096-71ef1b4b5873",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "feedback": [
+      {
+        "ticker": "JPM",
+        "add": true,
+        "strength": "low",
+        "reason": "小幅正收益误差约1.7%，摘要仅提及存款业务评估，无持续催化，倾向噪声"
+      },
+      {
+        "ticker": "AMD",
+        "add": true,
+        "strength": "medium",
+        "reason": "实际收益显著高于预测，误差约3.1%，且摘要显示CPU竞争与芯片股卖压，可能有持续影响"
+      },
+      {
+        "ticker": "WMT",
+        "add": true,
+        "strength": "low",
+        "reason": "小幅负误差约1.3%，摘要为供应商资金审查，未显示持续方向性冲击"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 881,
+    "total_tokens": 1010,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 881
+  }
+}

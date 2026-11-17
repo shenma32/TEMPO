@@ -1,0 +1,157 @@
+{
+  "request_sha256": "9af1bc593de70a0ca2b739bd53108513af1638fc747e7ac2273885b669d10be3",
+  "response_id": "5aa4d919-1faa-44c7-8984-5290c1c7993a",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "NVDA:6",
+          "NVDA:12"
+        ],
+        "reason": "NVIDIA单股贡献S&P 500盈利增长显著且加速AI工厂部署，指向需求利好"
+      },
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "slow",
+        "source_ids": [
+          "NVDA:5",
+          "NVDA:16"
+        ],
+        "reason": "AI超大规模企业电力瓶颈被高层点名，可能拖慢AI扩张节奏"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "GOOG:2",
+          "GOOG:6"
+        ],
+        "reason": "Alphabet自高点大幅蒸发且Pichai称云业务为AI产能牺牲收入，股价已跌2%"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_down",
+        "speed": "medium",
+        "source_ids": [
+          "GOOG:7"
+        ],
+        "reason": "欧洲金融监管机构就云中断事件质询谷歌，监管压力"
+      },
+      {
+        "ticker": "META",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "META:3",
+          "META:4"
+        ],
+        "reason": "扎克伯格推出重大AI举措，科技股整体上涨提供支撑"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "微软股价持稳，摘要无明确方向性事件"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "slow",
+        "source_ids": [],
+        "reason": "土耳其经纪子公司交还牌照，对整体影响不明确"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "AMZN:3",
+          "AMZN:5"
+        ],
+        "reason": "AWS成为更强增长引擎且3M合作推进数据中心机会"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_down",
+        "speed": "slow",
+        "source_ids": [
+          "AMZN:4"
+        ],
+        "reason": "亚马逊在纳指上涨中仍走低，盘中承压"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_down",
+        "speed": "medium",
+        "source_ids": [
+          "AAPL:3"
+        ],
+        "reason": "摩根士丹利称财报布局略具挑战且上行空间有限"
+      },
+      {
+        "ticker": "AMD",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "仅与英伟达比较报道，无明确方向性事件"
+      },
+      {
+        "ticker": "WMT",
+        "level": "unchanged",
+        "speed": "slow",
+        "source_ids": [],
+        "reason": "仅作为市值参照被提及，无独立事件"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_up",
+        "speed": "fast",
+        "source_ids": [
+          "TSLA:8",
+          "TSLA:10",
+          "TSLA:11"
+        ],
+        "reason": "马斯克认为SpaceX与特斯拉合并是好主意，JPMorgan给出相关溢价分析，并购预期升温"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "TSLA:2",
+          "TSLA:9"
+        ],
+        "reason": "马斯克称增长前所未见，Robotaxi与Optimus为财报焦点，增长叙事积极"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_down",
+        "speed": "slow",
+        "source_ids": [
+          "TSLA:12"
+        ],
+        "reason": "Terafab大规模量产或需至2030年，执行节奏存疑"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 689,
+    "prompt_tokens": 2953,
+    "total_tokens": 3642,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 2953
+  }
+}

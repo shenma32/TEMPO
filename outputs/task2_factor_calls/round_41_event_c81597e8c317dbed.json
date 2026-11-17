@@ -1,0 +1,125 @@
+{
+  "request_sha256": "c81597e8c317dbedca04743cee87ec1cbb30b03f4e9c051a44f39e1c8a6ab4cb",
+  "response_id": "56e56068-b7bb-4e07-9491-701162a6d6c8",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "NVDA:25",
+          "NVDA:29",
+          "NVDA:2"
+        ],
+        "reason": "分析师警告2027年计划AI数据中心容量近半或难建成，并有卖出评级及停工担忧"
+      },
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "medium",
+        "source_ids": [
+          "NVDA:12"
+        ],
+        "reason": "Griffin称当前几乎肯定存在AI泡沫"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "财报前云增长消息缺乏明确方向性"
+      },
+      {
+        "ticker": "META",
+        "level": "small_down",
+        "speed": "medium",
+        "source_ids": [
+          "META:4",
+          "META:16",
+          "META:10"
+        ],
+        "reason": "发行无投票权股份融资AI扩张，前日大跌后收窄"
+      },
+      {
+        "ticker": "META",
+        "level": "small_down",
+        "speed": "slow",
+        "source_ids": [
+          "META:15"
+        ],
+        "reason": "纪录250亿美元隐私罚款影响"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "MSFT:4",
+          "MSFT:5"
+        ],
+        "reason": "Azure强劲增长和现金流纪律，聚焦云利润率测试"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "摘要涉及瑞波和AmEx，无明确JPM方向性事件"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "仅AI数据中心和沃尔玛相关间接消息，无明确方向性"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "折叠屏iPhone需求测试和混合信号，方向不明"
+      },
+      {
+        "ticker": "AMD",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "科技抛售和TSMC利润后下跌，缺乏AMD特定事件"
+      },
+      {
+        "ticker": "WMT",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "WMT:2"
+        ],
+        "reason": "推出AI购物工具以推动交易"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "TSLA:4"
+        ],
+        "reason": "Cybertruck退出澳大利亚和新西兰市场导致股价下跌"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 496,
+    "prompt_tokens": 3349,
+    "total_tokens": 3845,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 3349
+  }
+}

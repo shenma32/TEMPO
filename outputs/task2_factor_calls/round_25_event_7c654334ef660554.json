@@ -1,0 +1,82 @@
+{
+  "request_sha256": "7c654334ef6605543cb63c73b5cdfd2e19f46230e322edbc407c46e1e88d740b",
+  "response_id": "c652d123-d87f-43e8-af64-0883ca2dc6ae",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "CEO强调AI基础设施与安全合作及30亿美元协议，需求扩张偏正面"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "Google Cloud深化AI合作并扩大OpenAI模型访问，但投资者情绪分化"
+      },
+      {
+        "ticker": "META",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "AI投入受审视且Q3财报临近，摘要缺乏明确方向性事件"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "分析师对AI云计算与战略合作支持较强"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "ETF减持与利率上升偏谨慎，但股息增加等消息交织，方向不明"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "德国160亿欧元投资及加速囤积AI硬件，扩张信号偏正面"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "近期遭下调且估值担忧，分析师情绪偏谨慎"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "有资金支持AI挑战者且相关AI热度上升，但事件影响偏间接"
+      },
+      {
+        "ticker": "WMT",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "扩展业务服务与广告业务并获ETF纳入，偏正面"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "预计季度表现疲弱，尽管与SpaceX探索合并带来一定想象空间"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 341,
+    "prompt_tokens": 744,
+    "total_tokens": 1085,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 744
+  }
+}

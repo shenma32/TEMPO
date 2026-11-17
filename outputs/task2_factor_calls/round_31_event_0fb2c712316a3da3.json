@@ -1,0 +1,112 @@
+{
+  "request_sha256": "0fb2c712316a3da3d4d034114b79d517a16f9a6e19ecef90168ac289ed2ca0d2",
+  "response_id": "43c49045-a644-4308-8074-811a0b835791",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "AI合作与创新持续推进"
+      },
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "Supermicro营收增长提振AI产业链情绪"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "虚拟电厂协议及云集成OpenAI模型"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "AI支出上升担忧与ETF净卖出"
+      },
+      {
+        "ticker": "META",
+        "level": "small_up",
+        "speed": "fast",
+        "reason": "Q3业绩强劲且营收展望乐观"
+      },
+      {
+        "ticker": "META",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "AI高支出引发信用风险担忧及法律挑战"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "AI云竞争与投资持续，无明确方向性事件"
+      },
+      {
+        "ticker": "JPM",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "JPM Coin扩展机构区块链支付"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "物流自动化提升利润率及AI整合获看好"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_down",
+        "speed": "slow",
+        "reason": "ETF净卖出形成一定压力"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "现金流稳健且AI定位受青睐"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "分析师认为AI CPU趋势下估值被低估"
+      },
+      {
+        "ticker": "WMT",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "零售板块受关注但无明确方向性事件"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "large_down",
+        "speed": "fast",
+        "reason": "Q3利润同比大降43%"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "2027年Robotaxi计划及SpaceX合并预期"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 416,
+    "prompt_tokens": 716,
+    "total_tokens": 1132,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 716
+  }
+}

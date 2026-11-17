@@ -1,0 +1,82 @@
+{
+  "request_sha256": "5253af661b4c1771542f619cb483e6df6ed08e1b789bf142fd1a41a845cfde0b",
+  "response_id": "2f437c2e-256a-4b5e-968d-75fd875c8567",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "AI扩张面临电力约束担忧"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "large_down",
+        "speed": "fast",
+        "reason": "市值大幅缩水，AI投入与云服务监管压力"
+      },
+      {
+        "ticker": "META",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "扎克伯格大胆AI举措，科技股 Earnings 提振"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "表现稳定，无明确方向性事件"
+      },
+      {
+        "ticker": "JPM",
+        "level": "small_down",
+        "speed": "slow",
+        "reason": "退出土耳其经纪业务牌照，战略收缩"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "AWS驱动增长，数据中心扩张获支持"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "接近高位但盈利前景略具挑战，方向不明"
+      },
+      {
+        "ticker": "AMD",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "与英伟达竞争激烈，无明确方向事件"
+      },
+      {
+        "ticker": "WMT",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "仅作市值对比参照，无明确事件"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "large_up",
+        "speed": "medium",
+        "reason": "SpaceX与特斯拉合并构想及Robotaxi增长预期"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 290,
+    "prompt_tokens": 730,
+    "total_tokens": 1020,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 730
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "request_sha256": "7bdb03e7119dd96b3dce3935d147f3acd7926a5de4684eb54c7dbf71e254e587",
+  "response_id": "fd46ab52-ef91-48bf-a78c-763814d89162",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "feedback": [
+      {
+        "ticker": "JPM",
+        "add": true,
+        "strength": "medium",
+        "reason": "相对市场误差约-1.29%，幅度较大；无公司特定消息解释，可能反映持续相对弱势。"
+      },
+      {
+        "ticker": "WMT",
+        "add": true,
+        "strength": "high",
+        "reason": "相对市场误差约-1.35%，幅度大；尽管有强劲销售消息，股价仍跑输市场，误差方向明确且显著。"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 95,
+    "prompt_tokens": 511,
+    "total_tokens": 606,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 511
+  }
+}

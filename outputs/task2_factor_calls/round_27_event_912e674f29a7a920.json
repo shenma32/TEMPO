@@ -1,0 +1,88 @@
+{
+  "request_sha256": "912e674f29a7a920014ebc6f0a3c44d5c9617e782e7d520dda2a7d15886031d4",
+  "response_id": "2f7e7c3d-f2a7-4be8-8163-12ba08605eed",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "AI合作与利润率韧性支撑增长，但泡沫风险讨论限制方向"
+      },
+      {
+        "ticker": "NVDA",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "专家对AI泡沫和未来股价潜力存在分歧"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "云业务为AI竞赛牺牲收入"
+      },
+      {
+        "ticker": "META",
+        "level": "small_up",
+        "speed": "fast",
+        "reason": "财报前股价上涨，科技股反弹带动"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "分析师认为估值仍被低估"
+      },
+      {
+        "ticker": "JPM",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "财富管理业务被视为比核心银行更有价值"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "加大自研AI芯片投入，云竞争加剧"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "扩大美国供应商网络，无明确方向性影响"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "数据中心业务盈利动能增强，分析师上调目标价"
+      },
+      {
+        "ticker": "WMT",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "摘要提及SpaceX销售预测，与沃尔玛无明确关联"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "考虑与SpaceX合并，后者收入大增提振情绪"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 322,
+    "prompt_tokens": 760,
+    "total_tokens": 1082,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 760
+  }
+}

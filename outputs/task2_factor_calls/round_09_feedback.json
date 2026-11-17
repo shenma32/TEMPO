@@ -1,0 +1,28 @@
+{
+  "request_sha256": "d8ef3d00e6a4d0c550f5918aa4ebb6e81b81e25f7454564d748f746327aad795",
+  "response_id": "06caab62-d4bc-4903-9955-51e36983422e",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "feedback": [
+      {
+        "ticker": "WMT",
+        "add": false,
+        "strength": "low",
+        "reason": "预测误差约-1.2个百分点，幅度温和，且摘要显示假期消费预期稳健，无证据表明该偏差会持续影响后续预测。"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 54,
+    "prompt_tokens": 769,
+    "total_tokens": 823,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 769
+  }
+}

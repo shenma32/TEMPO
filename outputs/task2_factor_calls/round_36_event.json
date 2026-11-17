@@ -1,0 +1,82 @@
+{
+  "request_sha256": "8fe7722dd5f748febc4fcdcafbe75348533a980de08580a560dab42c3a870d95",
+  "response_id": "f547f522-74bb-49c8-a4ad-135e4d27ca4b",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "短期部署瓶颈及更广泛芯片股压力导致下跌"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "Vera Rubin云规模担忧致股价下滑"
+      },
+      {
+        "ticker": "META",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "AI支出增加及现金流担忧令投资者不安"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "仅间接的标普500预测，无公司特定催化剂"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "比特币配置预测非直接公司事件"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "市场压力下股价下跌"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "巴菲特投资组合对比带来正面关注"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "Lam Research供应链警告拖累芯片股"
+      },
+      {
+        "ticker": "WMT",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "无公司特定新闻或催化剂"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "创新进展与混合情绪未形成明确方向"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 277,
+    "prompt_tokens": 705,
+    "total_tokens": 982,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 705
+  }
+}

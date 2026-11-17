@@ -1,0 +1,94 @@
+{
+  "request_sha256": "c69da03507357fe3391c4ec0489a728e7c723607aee3e506a9edb768fe9c6a9f",
+  "response_id": "65b80eaa-ef34-4970-951d-3dc7b3819899",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "AI financing concerns and chip sell-offs driven by rising yields pressure stock"
+      },
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "CEO optimism and energy-efficient AI data center solutions offer support"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "XPeng collaboration to integrate Google Play into AI-powered cockpits expands ecosystem"
+      },
+      {
+        "ticker": "META",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "Congressional scrutiny over $6.6 billion AI data center tax credits"
+      },
+      {
+        "ticker": "META",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "Citi raises price target and analysts anticipate AI assistant ROI insights"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "No company-specific catalyst in sample"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "Reported consideration of debt sale is market chatter with unclear direction"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "Broadens smart home and wearable tech offerings with new products"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_up",
+        "speed": "fast",
+        "reason": "New iPhone Duo preorder starting Friday signals key product launch"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "Tech sector sell-off led by Nvidia and memory chip makers amid rising yields"
+      },
+      {
+        "ticker": "WMT",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "Free GLP-1 drug benefit expansion and Deutsche Bank pricing tailwinds"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "Valuation analysis and speculative merger chatter lack clear near-term direction"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 381,
+    "prompt_tokens": 747,
+    "total_tokens": 1128,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 747
+  }
+}

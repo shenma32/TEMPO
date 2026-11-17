@@ -1,0 +1,88 @@
+{
+  "request_sha256": "c931ce1d691bbb00520ace6a3d797c2f014f6cbd9da71d391fe56e771d493547",
+  "response_id": "9c835b98-9e8f-4e69-838f-9064f990d3c7",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "赢得Modal的CPU业务及西门子采用其AI方案，显示AI半导体领域影响力扩大"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "搜索韧性与云扩张驱动增长，尽管专利挑战遇挫"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_down",
+        "speed": "slow",
+        "reason": "最高法院专利挑战败诉"
+      },
+      {
+        "ticker": "META",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "广告业务强劲与表外融资警告并存，方向不明确"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_down",
+        "speed": "slow",
+        "reason": "因互联延迟放弃Nscale的AI数据中心"
+      },
+      {
+        "ticker": "JPM",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "预计欧洲ETF需求带来2万亿美元资金流入"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "关键篇章预测与B2B营销趋势，缺乏明确方向"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_down",
+        "speed": "slow",
+        "reason": "iPhone 18需求放缓担忧，尽管股价创新高"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "Nvidia赢得Modal的CPU业务，挑战AMD的独家地位"
+      },
+      {
+        "ticker": "WMT",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "华尔街机构预测30%涨幅，尽管近半年下跌5%"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "财报将测试AI板块韧性，飞行Roadster获监管支持，方向混合"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 347,
+    "prompt_tokens": 739,
+    "total_tokens": 1086,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 739
+  }
+}

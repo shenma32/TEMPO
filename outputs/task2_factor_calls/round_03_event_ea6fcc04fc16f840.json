@@ -1,0 +1,98 @@
+{
+  "request_sha256": "ea6fcc04fc16f840a190ad3d87e1549f44085ba91a81d87395566fdd70814e80",
+  "response_id": "e94b48aa-3aec-42f5-8405-ba9036ba2563",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "摘要仅含竞争与ETF/行业讨论，无明确公司新催化剂"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "来源均非谷歌公司特定事件"
+      },
+      {
+        "ticker": "META",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "META:1"
+        ],
+        "reason": "Muse报道称Meta率先实现消费级代理式AI执行"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "Othello融资非微软事件"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "无相关新闻"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_down",
+        "speed": "medium",
+        "source_ids": [
+          "AMZN:2"
+        ],
+        "reason": "亚马逊将关闭杂货合作店面"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_down",
+        "speed": "slow",
+        "source_ids": [
+          "AAPL:2"
+        ],
+        "reason": "报道称苹果面临代理式AI质疑"
+      },
+      {
+        "ticker": "AMD",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "无相关新闻"
+      },
+      {
+        "ticker": "WMT",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "无相关新闻"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "无相关新闻"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 327,
+    "prompt_tokens": 1592,
+    "total_tokens": 1919,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 1592
+  }
+}

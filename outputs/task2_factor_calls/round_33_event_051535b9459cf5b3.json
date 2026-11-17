@@ -1,0 +1,147 @@
+{
+  "request_sha256": "051535b9459cf5b3a38babb04acd8d28765caa81ecf63a3195d736a4b2791ec8",
+  "response_id": "fa9e978e-71e5-4f48-8be6-d4efb1cf2878",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "NVDA:1",
+          "NVDA:9"
+        ],
+        "reason": "AI交易承压，芯片股走弱，资金轮动流出科技基金"
+      },
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "NVDA:4"
+        ],
+        "reason": "HPE围绕NVIDIA AI工厂与Moon Computing消息的估值测试带来关注"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "GOOG:2",
+          "GOOG:1"
+        ],
+        "reason": "OpenAI模型登陆Google Cloud，并与Constellation签署核能协议"
+      },
+      {
+        "ticker": "META",
+        "level": "large_down",
+        "speed": "fast",
+        "source_ids": [
+          "META:3",
+          "META:5",
+          "META:1"
+        ],
+        "reason": "Q3业绩超预期但股价仍跌超6%，AI支出担忧与AI交易承压"
+      },
+      {
+        "ticker": "META",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "META:9",
+          "META:10"
+        ],
+        "reason": "DZ Bank上调目标价至820美元，BofA看好AI故事"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "仅行业市场规模预测，无公司特定方向性事件"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "仅有对比文章，无JPM明确方向性事件"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "无明确影响价格的方向性事件"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "AAPL:2"
+        ],
+        "reason": "iPhone Duo预购强劲，订单积压至2027年"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "AMD:1"
+        ],
+        "reason": "AI交易承压，芯片股下跌"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "AMD:3"
+        ],
+        "reason": "基于现金流可能低于公允价值交易"
+      },
+      {
+        "ticker": "WMT",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "会员捆绑与节日涨价新闻无明确股价方向"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "large_down",
+        "speed": "fast",
+        "source_ids": [
+          "TSLA:6",
+          "TSLA:3",
+          "TSLA:5"
+        ],
+        "reason": "Q3利润下降43%，运营成本上升，市场关注财报"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "TSLA:7"
+        ],
+        "reason": "JPMorgan将目标价从415美元上调至430美元"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 597,
+    "prompt_tokens": 2580,
+    "total_tokens": 3177,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 2580
+  }
+}

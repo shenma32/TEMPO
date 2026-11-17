@@ -1,0 +1,130 @@
+{
+  "request_sha256": "49deeda1fcc2312438a23fae088db1945154caf65038141236b2722c0a7e9984",
+  "response_id": "de80ba14-d80a-458e-b267-4211aec3dc7a",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "Buyback expansion and UK AI safety commitment support sentiment"
+      },
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "slow",
+        "reason": "Wall Street caution amid market volatility and rising rates"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "AI product expansion and cloud/energy initiatives"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "Stable analyst ratings offer no clear directional catalyst"
+      },
+      {
+        "ticker": "META",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "Increased AI competition from Alphabet and Nvidia"
+      },
+      {
+        "ticker": "META",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "Advertising strategy adaptation offset by market volatility"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_up",
+        "speed": "fast",
+        "reason": "Record highs on robust AI adoption and data center investment"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_down",
+        "speed": "slow",
+        "reason": "Concerns about tech concentration and inflation"
+      },
+      {
+        "ticker": "JPM",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "Q3 profit miss and margin pressures"
+      },
+      {
+        "ticker": "JPM",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "Raised NII outlook and dividend forecasts"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "Analyst price target raised"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_down",
+        "speed": "slow",
+        "reason": "Rising inflation and heightened smart home competition from Apple"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "Smart home product push and potential Siri subscription gains"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "Market cap fluctuations offer no clear near-term direction"
+      },
+      {
+        "ticker": "AMD",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "Mixed signals from credit support and cooling tech demand"
+      },
+      {
+        "ticker": "WMT",
+        "level": "small_down",
+        "speed": "slow",
+        "reason": "Valuation skepticism and FDA marketplace concerns"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "Cautious sentiment over spending and automotive margins"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "Robotaxi fleet expansion and Megacharger openings"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 498,
+    "prompt_tokens": 742,
+    "total_tokens": 1240,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 742
+  }
+}

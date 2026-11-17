@@ -1,0 +1,30 @@
+{
+  "request_sha256": "18c3ce741be0a750b090252e476050ae5583fe6bdc51a5086505b403ab8c07fc",
+  "response_id": "56b4ad5e-97f5-4cf9-8d9a-92d892493d77",
+  "response_model": "deepseek-flash",
+  "thinking": "disabled",
+  "reasoning_effort": null,
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "feedback": [
+      {
+        "ticker": "AAPL",
+        "add": true,
+        "strength": "low",
+        "reason": "实际收益低于原预测约1.14个百分点，但摘要仅涉及一般性财报风险与股价回升，无持续负面催化剂，判断为小幅、有限影响。"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 58,
+    "prompt_tokens": 763,
+    "total_tokens": 821,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 763
+  }
+}

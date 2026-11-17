@@ -1,0 +1,100 @@
+{
+  "request_sha256": "6512a737b3f938f7e083ffa475351310229a37cbc2599a10094c67521e01dc4f",
+  "response_id": "e6db3af9-86a9-4f62-bcad-a60b5d60adc9",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "政治人物背书及合作伙伴推出AI平台，构成正面情绪"
+      },
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "AI债务担忧及国债收益率上升带来板块压力"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "参与AI代理身份验证与支付开放框架"
+      },
+      {
+        "ticker": "META",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "收购Bumble引发AI与社交平台讨论，方向不明确"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "Michael Burry质疑AI支出与估值"
+      },
+      {
+        "ticker": "JPM",
+        "level": "small_down",
+        "speed": "slow",
+        "reason": "账户关闭调查引发政治偏见的跨党派关切"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "AWS积压订单与云利润率强劲，强化增长叙事"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "本窗口无公司特定新闻或催化剂"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "82亿美元收购AI专家，战略增长信号"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "通胀数据推高收益率，纳指承压"
+      },
+      {
+        "ticker": "WMT",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "EZ Bombs扩展至8000多家零售点并获融资"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "CoreWeave下跌及收益率上升拖累相关情绪"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "伯克希尔启动首个Megacharger试点站点"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 385,
+    "prompt_tokens": 727,
+    "total_tokens": 1112,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 727
+  }
+}

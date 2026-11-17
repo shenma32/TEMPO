@@ -1,0 +1,82 @@
+{
+  "request_sha256": "470acf28c3ec88e4d43fe107a0780da8f861d721cd7087713cb8efcffeda5286",
+  "response_id": "eef95c77-08ae-4a1f-ad68-8913803758d3",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "AI交易波动及前景分化令芯片股承压"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "AI数据层融资及宏观担忧无明确方向性"
+      },
+      {
+        "ticker": "META",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "AI相关支出上升及信用风险担忧拖累股价"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "近期存在股价突破潜力"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "银行股息对比及加密资产新闻无明确方向"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "与3M深化合作扩大业务联系"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_down",
+        "speed": "slow",
+        "reason": "分析认为估值高估约25%"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "AI抛售及供应担忧令芯片股下跌"
+      },
+      {
+        "ticker": "WMT",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "会员组合提升价值定位与客户忠诚度"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "三季度营收不及预期，AI投入压缩利润率"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 285,
+    "prompt_tokens": 758,
+    "total_tokens": 1043,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 758
+  }
+}

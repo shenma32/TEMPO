@@ -1,0 +1,94 @@
+{
+  "request_sha256": "3bf14d948c1ed9d3c413d508e4f7aa3fc03a06b8538cde6768ab99e3bba7d640",
+  "response_id": "32bf942e-476e-4cf1-a7e8-cd547f91ffec",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "fast",
+        "reason": "新AI计划或颠覆视频行业，提振情绪"
+      },
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "美国芯片回流利好工具商，间接利好"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "摘要无明确方向性事件"
+      },
+      {
+        "ticker": "META",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "2拆1拆股计划通常短期偏正面"
+      },
+      {
+        "ticker": "META",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "科技板块波动及AI芯片抛售压制"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "持久增长获AI投资强化"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "团队独立运作无明确价格方向"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "长期业务展望偏正面但非即时催化"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "折叠iPhone供应紧张影响销售预期"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "随大盘下挫及科技股抛售"
+      },
+      {
+        "ticker": "WMT",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "无公司特定新闻"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "科技股抛售及竞争加剧压制"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 326,
+    "prompt_tokens": 738,
+    "total_tokens": 1064,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 738
+  }
+}

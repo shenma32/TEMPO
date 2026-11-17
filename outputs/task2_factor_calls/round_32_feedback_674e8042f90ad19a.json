@@ -1,0 +1,46 @@
+{
+  "request_sha256": "674e8042f90ad19ae1615c5edbb0fea05e44617a5a980b2c6bb6f9c73d4fc680",
+  "response_id": "caea852c-2d45-4628-8ec8-16ab232627d8",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "feedback": [
+      {
+        "ticker": "META",
+        "add": true,
+        "strength": "medium",
+        "reason": "实际收益显著低于预测，负误差约3.5%，叠加监管罚款与首次现金消耗消息，可能存在持续下行影响。"
+      },
+      {
+        "ticker": "MSFT",
+        "add": true,
+        "strength": "low",
+        "reason": "负误差约1.8%，幅度较小且摘要以ETF权重为主，缺乏明确公司特定持续冲击，倾向弱反馈。"
+      },
+      {
+        "ticker": "AMZN",
+        "add": true,
+        "strength": "low",
+        "reason": "负误差约2.4%，但公开摘要仅提ETF持仓，未显示持续基本面恶化，弱强度记录。"
+      },
+      {
+        "ticker": "TSLA",
+        "add": true,
+        "strength": "medium",
+        "reason": "实际收益高于预测约3.5%，财报超预期但股价受AI交易情绪压制，正误差较显著，可记中等反馈。"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 186,
+    "prompt_tokens": 968,
+    "total_tokens": 1154,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 968
+  }
+}

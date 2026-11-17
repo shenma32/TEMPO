@@ -1,0 +1,82 @@
+{
+  "request_sha256": "97249a748319ec832fe73c5696c2e5c7fa4d915f3a075294c629cee2f5875379",
+  "response_id": "c0f7a245-f6c9-41b0-851a-2d3801a43d41",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "半导体抛售及CEO呼吁中美合作，情绪偏空。"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "AI与云投入加大，分析师看好潜在涨幅。"
+      },
+      {
+        "ticker": "META",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "AI优势报道，但无明确短期方向事件。"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "最佳季度及AI芯片发布，正面但监管混杂。"
+      },
+      {
+        "ticker": "JPM",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "CEO警告AI风险及谨慎情绪，略偏空。"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "AI云竞争与监管并存，无明确方向。"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "市值里程碑及中国AI功能推出，偏正面。"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "AI抛售拖累芯片股，情绪偏空。"
+      },
+      {
+        "ticker": "WMT",
+        "level": "small_up",
+        "speed": "fast",
+        "reason": "德银上调评级，股价获3%提振。"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "新Roadster及合并猜测，方向不明确。"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 299,
+    "prompt_tokens": 696,
+    "total_tokens": 995,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 696
+  }
+}

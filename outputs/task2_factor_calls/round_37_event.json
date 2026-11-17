@@ -1,0 +1,82 @@
+{
+  "request_sha256": "12f3b9c055f435ca164f3c12515046fe2ebe03bba262f7e5d82ac590191a98f7",
+  "response_id": "7f4a0f34-6953-452e-b95d-df1571578ace",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "Tech sell-off and China market loss concerns weigh despite AI investments"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "Heavy AI infrastructure investment offsets ETF selling with no clear direction"
+      },
+      {
+        "ticker": "META",
+        "level": "large_down",
+        "speed": "fast",
+        "reason": "Stock fell sharply on AI spending and capital-raising concerns"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "ETF selling and mixed sentiment offset by AI opportunity"
+      },
+      {
+        "ticker": "JPM",
+        "level": "small_down",
+        "speed": "slow",
+        "reason": "ETF net selling and cautious sentiment with mixed revenue landscape"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "Analyst concerns and competitive pressures amid tech sector shifts"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "Mixed ETF trading and insider sales with no clear directional event"
+      },
+      {
+        "ticker": "AMD",
+        "level": "large_down",
+        "speed": "fast",
+        "reason": "Shares fell sharply amid broad tech sell-off and supply chain concerns"
+      },
+      {
+        "ticker": "WMT",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "Stock advances amid market declines on ETF inclusion"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "Q3 revenue fell and capex cut despite Megapack demand"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 301,
+    "prompt_tokens": 676,
+    "total_tokens": 977,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 676
+  }
+}

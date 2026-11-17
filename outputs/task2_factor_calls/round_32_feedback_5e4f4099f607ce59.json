@@ -1,0 +1,48 @@
+{
+  "request_sha256": "5e4f4099f607ce5934f4cbc420c45f0bb01db51eef74cb154b6e81afb2f1a3e3",
+  "response_id": "f98181c2-89cc-4db4-9812-975b595450c9",
+  "response_model": "deepseek-flash",
+  "thinking": "disabled",
+  "reasoning_effort": null,
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "feedback": [
+      {
+        "ticker": "META",
+        "add": true,
+        "strength": "medium",
+        "reason": "实际收益约-3.5%，预测接近零，负面偏差较大且公开摘要显示罚款与现金流失等持续压力。"
+      },
+      {
+        "ticker": "MSFT",
+        "add": false,
+        "strength": "low",
+        "reason": "实际收益约-1.8%，偏差幅度一般，公开摘要无明确持续负面催化。"
+      },
+      {
+        "ticker": "AMZN",
+        "add": false,
+        "strength": "low",
+        "reason": "实际收益约-2.4%，属常见波动范围，摘要未显示特定持续误差来源。"
+      },
+      {
+        "ticker": "TSLA",
+        "add": true,
+        "strength": "medium",
+        "reason": "实际收益约+3.5%，显著高于近零预测，且财报超预期及目标价上调提供持续正向依据。"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 172,
+    "prompt_tokens": 997,
+    "total_tokens": 1169,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 997
+  }
+}

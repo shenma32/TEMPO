@@ -1,0 +1,30 @@
+{
+  "request_sha256": "af392e1897e7834cafdb4d4a445cbf1139285f6360d88ecde1e62aa827bd1212",
+  "response_id": "1673619e-bc0a-4c4f-93ea-8ae827869b61",
+  "response_model": "deepseek-flash",
+  "thinking": "disabled",
+  "reasoning_effort": null,
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "feedback": [
+      {
+        "ticker": "WMT",
+        "add": true,
+        "strength": "low",
+        "reason": "预测误差仅约-1%，与整体市场小幅回落幅度相当，未见公司特定持续冲击，属轻微误差。"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 48,
+    "prompt_tokens": 797,
+    "total_tokens": 845,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 797
+  }
+}

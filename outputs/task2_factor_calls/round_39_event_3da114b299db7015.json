@@ -1,0 +1,144 @@
+{
+  "request_sha256": "3da114b299db70157e96ef4fe80633c8844b3c67fc7716e7127cd6676a7b4fba",
+  "response_id": "be981246-9b97-4fb0-8e1f-1ac8632ec168",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "NVDA:5",
+          "NVDA:7"
+        ],
+        "reason": "科技股大幅抛售及做空AI数据中心股获利，短期承压"
+      },
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "NVDA:10",
+          "NVDA:13"
+        ],
+        "reason": "CUDA生态护城河与乐观长期预测支撑回调买入观点"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "无明确公司特定方向性事件"
+      },
+      {
+        "ticker": "META",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "META:5"
+        ],
+        "reason": "AI变现潜力获基金正面评价"
+      },
+      {
+        "ticker": "META",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "META:1",
+          "META:7"
+        ],
+        "reason": "科技股抛售后财报即将发布，不确定性上升"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [
+          "MSFT:3",
+          "MSFT:5"
+        ],
+        "reason": "财报前Azure与Copilot关注度上升但无明确方向"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "标题涉及ASML而非JPM自身，无明确影响"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "财报前无明确方向性事件"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "unchanged",
+        "speed": "slow",
+        "source_ids": [],
+        "reason": "重夺市值榜首属回顾性排名新闻，无明确新催化剂"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "AMD:1",
+          "AMD:3"
+        ],
+        "reason": "AI芯片增长机会获正面预测"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "AMD:2"
+        ],
+        "reason": "科技股大幅抛售带来短期压力"
+      },
+      {
+        "ticker": "WMT",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "无相关新闻来源"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_up",
+        "speed": "fast",
+        "source_ids": [
+          "TSLA:3"
+        ],
+        "reason": "欧洲销量大幅增长反映区域需求强劲"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "TSLA:1",
+          "TSLA:2"
+        ],
+        "reason": "大盘科技股走弱及财报前不确定性"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 547,
+    "prompt_tokens": 2179,
+    "total_tokens": 2726,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 2179
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "request_sha256": "d1e882350bd8a4d2efaf313f11dd0556ef3fab8036a4c69a1f0e4499cacb723e",
+  "response_id": "495e0858-b4f4-42db-b5b5-93b088c7ef1c",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "feedback": [
+      {
+        "ticker": "GOOG",
+        "add": true,
+        "strength": "low",
+        "reason": "实际收益较预测低约1.74%，方向为负但幅度有限；摘要仅提及估值审视，未见持续负面催化剂，按低强度记录。"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 56,
+    "prompt_tokens": 782,
+    "total_tokens": 838,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 782
+  }
+}

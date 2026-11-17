@@ -1,0 +1,28 @@
+{
+  "request_sha256": "326805a32398db15fd522ad600f02a1c630edd1535f468dcce7fd7656876486c",
+  "response_id": "0fe85c93-e6b2-477b-9a32-a23a7a5eb745",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "feedback": [
+      {
+        "ticker": "AAPL",
+        "add": true,
+        "strength": "low",
+        "reason": "实际收益略高于预测，误差约1.3个百分点，幅度有限；当前公开摘要仅为供应链扩展等常规消息，未见足以放大持续偏差的明确驱动，倾向作为低强度衰减因子记录。"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 66,
+    "prompt_tokens": 791,
+    "total_tokens": 857,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 791
+  }
+}

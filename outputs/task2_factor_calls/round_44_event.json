@@ -1,0 +1,84 @@
+{
+  "request_sha256": "fdf29e42f9108c453146f52b80e2f2c7b4d66b4a8312815288b2e0031c7b948f",
+  "response_id": "83e7345d-99ee-4074-b49d-5e09e63d6245",
+  "response_model": "deepseek-flash",
+  "thinking": "disabled",
+  "reasoning_effort": null,
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "Nvidia and AMD jointly investing in $6 billion AI startup, indicating continued AI investment."
+      },
+      {
+        "ticker": "GOOG",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "No direct GOOG-specific catalyst; general AI investment growth noted."
+      },
+      {
+        "ticker": "META",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "Only general AI investment context, no META-specific event."
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "Strong position in AI boom and strategic bond issuance."
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "No JPM news retrieved; no company-specific catalyst."
+      },
+      {
+        "ticker": "AMZN",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "No AMZN-specific event; general AI metrics focus."
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "Margin expansion and AI market positioning, though stock expensive."
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "Profit projected to grow 501% over four years; joint investment."
+      },
+      {
+        "ticker": "WMT",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "No WMT news retrieved; no catalyst."
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "Analyst interest in potential SpaceX-Tesla merger."
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 398,
+    "prompt_tokens": 758,
+    "total_tokens": 1156,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 758
+  }
+}

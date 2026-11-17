@@ -1,0 +1,46 @@
+{
+  "request_sha256": "2439b2387bd7aa61ec8ce3ce33f794ec25cd73225b902d1b63ce1067b16c6606",
+  "response_id": "ea1e6561-5e64-4b32-a6f1-1ceb89d84175",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "feedback": [
+      {
+        "ticker": "META",
+        "add": true,
+        "strength": "low",
+        "reason": "实际收益低于预测约1.8个百分点，方向一致但幅度温和，AI支出与广告业务进展可形成短期压制，未达高强度持续误差。"
+      },
+      {
+        "ticker": "AAPL",
+        "add": true,
+        "strength": "low",
+        "reason": "实际收益低于预测约1.2个百分点，分析师下调与iPhone出货放缓等摘要信息可解释温和负偏差，幅度有限。"
+      },
+      {
+        "ticker": "AMD",
+        "add": true,
+        "strength": "medium",
+        "reason": "实际收益低于预测约2.4个百分点，为候选中最显著负偏差，半导体板块虽有反弹但个股仍承压，需记录中等强度衰减因子。"
+      },
+      {
+        "ticker": "WMT",
+        "add": false,
+        "strength": "low",
+        "reason": "实际收益仅高于预测约1.4个百分点，摘要中通胀与AI购物叙事偏正面，偏差接近普通随机波动，不构成持续反馈。"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 203,
+    "prompt_tokens": 921,
+    "total_tokens": 1124,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 921
+  }
+}

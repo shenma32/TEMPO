@@ -1,0 +1,58 @@
+{
+  "request_sha256": "456e3069d4ee20a5a2dd9d6ffb6445628f7329852505ec89cb59f648057ffb3c",
+  "response_id": "361ac033-95e6-400c-aa08-f60ef3ac9dd7",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "feedback": [
+      {
+        "ticker": "NVDA",
+        "add": false,
+        "strength": "low",
+        "reason": "误差约-2%，幅度温和，摘要无持续性负面冲击，属普通波动"
+      },
+      {
+        "ticker": "META",
+        "add": true,
+        "strength": "medium",
+        "reason": "实际收益显著低于预测，Q3高AI支出引发信用风险担忧，可能持续压制"
+      },
+      {
+        "ticker": "AMZN",
+        "add": false,
+        "strength": "low",
+        "reason": "误差约-2%，摘要逻辑稳健，属正常回调"
+      },
+      {
+        "ticker": "AMD",
+        "add": true,
+        "strength": "high",
+        "reason": "误差约-6%为最大，预测方向反向，摘要显示动能落后于NVDA，需持续跟踪"
+      },
+      {
+        "ticker": "WMT",
+        "add": false,
+        "strength": "low",
+        "reason": "误差约+1.4%温和，摘要无持续驱动，属随机波动"
+      },
+      {
+        "ticker": "TSLA",
+        "add": true,
+        "strength": "medium",
+        "reason": "误差约-4%，Q3利润大幅下滑且Robotaxi远期化，负面因素或延续"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 226,
+    "prompt_tokens": 1038,
+    "total_tokens": 1264,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 1038
+  }
+}

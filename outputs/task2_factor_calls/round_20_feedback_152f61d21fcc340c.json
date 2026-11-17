@@ -1,0 +1,40 @@
+{
+  "request_sha256": "152f61d21fcc340cae043781bf5b1f313f65699e102bdcd85d4b8e24dd80d933",
+  "response_id": "f8421aec-5364-487f-b038-6f2a78bda827",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "feedback": [
+      {
+        "ticker": "JPM",
+        "add": false,
+        "strength": "low",
+        "reason": "仅约1.7%的普通正收益且缺少明确持续催化剂，更像随机波动。"
+      },
+      {
+        "ticker": "AMD",
+        "add": true,
+        "strength": "low",
+        "reason": "预测接近零而实际约3%上涨，存在方向性误差，但摘要显示行业竞争与芯片股下跌，不宜高强度。"
+      },
+      {
+        "ticker": "WMT",
+        "add": false,
+        "strength": "low",
+        "reason": "约1.3%的负向偏差幅度小，摘要多为供应商审查等一般新闻，持续影响证据不足。"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 882,
+    "total_tokens": 1013,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 882
+  }
+}

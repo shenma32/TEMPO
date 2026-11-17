@@ -1,0 +1,28 @@
+{
+  "request_sha256": "cbda32a76a3dfa09c1de5aee91b08b962ffee7f484fe5869717895c8d16de37c",
+  "response_id": "065f8d27-f46f-4a45-8452-8e001d4326cd",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "feedback": [
+      {
+        "ticker": "WMT",
+        "add": true,
+        "strength": "low",
+        "reason": "实际收益略低于原预测，误差约-1.05%，幅度温和且摘要仅提及消费支出预期，未见持续性公司特定冲击，因此仅记录低强度衰减因子。"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 61,
+    "prompt_tokens": 770,
+    "total_tokens": 831,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 770
+  }
+}

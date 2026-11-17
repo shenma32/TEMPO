@@ -1,0 +1,82 @@
+{
+  "request_sha256": "e274340f2f67b171197c8e4be1e58910acd742664d17665437109c0660a326bd",
+  "response_id": "dfafbe6b-7585-4ecb-86b2-72a824c2d3d4",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "AI trade concerns and chip stock pressure after steep rout"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "Positive analyst view despite market price concerns"
+      },
+      {
+        "ticker": "META",
+        "level": "large_down",
+        "speed": "fast",
+        "reason": "$25B New Mexico penalty and first cash burn since IPO"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "ETF dominance mentioned but no clear directional catalyst"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "China regulatory hurdle noted for SpaceX-Tesla merger, no direct JPM impact"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "ETF portfolio weight noted, no clear directional event"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "iPhone Duo launch amid limited supplies, potential growth phase"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "Chip stock declines on AI trade pressure and supply chain constraints"
+      },
+      {
+        "ticker": "WMT",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "Sam's Club names Affirm exclusive pay-over-time provider"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "Q3 earnings beat and capex failed to lift stock amid AI jitters"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 305,
+    "prompt_tokens": 756,
+    "total_tokens": 1061,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 756
+  }
+}

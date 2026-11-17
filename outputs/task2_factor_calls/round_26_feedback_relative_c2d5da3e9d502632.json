@@ -1,0 +1,42 @@
+{
+  "request_sha256": "c2d5da3e9d502632704d53ab5ae21a96c7d1ee081d934ef2b8e0367f418d1378",
+  "response_id": "775368de-0c7a-4be7-8e3c-3846784fdd41",
+  "response_model": "deepseek-flash",
+  "thinking": "disabled",
+  "reasoning_effort": null,
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "feedback": [
+      {
+        "ticker": "GOOG",
+        "add": false,
+        "strength": "low",
+        "reason": "相对误差为负且幅度中等，但摘要仅体现估值审视，未显示持续个股特有偏差"
+      },
+      {
+        "ticker": "META",
+        "add": false,
+        "strength": "low",
+        "reason": "相对误差为正且较大，但可由财报前预期波动解释，持续性证据不足"
+      },
+      {
+        "ticker": "MSFT",
+        "add": false,
+        "strength": "low",
+        "reason": "相对误差为正但幅度较小，合作新闻属常规信息，不构成持续反馈信号"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 693,
+    "total_tokens": 811,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 693
+  }
+}

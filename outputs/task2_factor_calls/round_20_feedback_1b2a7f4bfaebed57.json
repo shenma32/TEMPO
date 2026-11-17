@@ -1,0 +1,42 @@
+{
+  "request_sha256": "1b2a7f4bfaebed57244888532188c62e1cc88cd78b7638cfad3fd006c03b8850",
+  "response_id": "ba1289cb-b601-4e78-a292-367d1a0640de",
+  "response_model": "deepseek-flash",
+  "thinking": "disabled",
+  "reasoning_effort": null,
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "feedback": [
+      {
+        "ticker": "JPM",
+        "add": false,
+        "strength": "low",
+        "reason": "实际收益略高于预测，误差较小，新闻未显示持续偏离因素，可能为随机波动。"
+      },
+      {
+        "ticker": "AMD",
+        "add": true,
+        "strength": "medium",
+        "reason": "实际收益显著高于预测，且新闻提及AMD面临竞争压力，误差可能反映持续的市场情绪变化。"
+      },
+      {
+        "ticker": "WMT",
+        "add": false,
+        "strength": "low",
+        "reason": "实际收益略低于预测，误差较小，新闻涉及供应商审查但影响有限，可能为随机波动。"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 172,
+    "prompt_tokens": 910,
+    "total_tokens": 1082,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 910
+  }
+}

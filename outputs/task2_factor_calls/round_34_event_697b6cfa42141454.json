@@ -1,0 +1,156 @@
+{
+  "request_sha256": "697b6cfa42141454a44a85c807e704c416d84e78eeba209865cb664e53c07481",
+  "response_id": "5e53d373-b6a2-4ee6-85cb-2edfcf9ab89d",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "NVDA:1",
+          "NVDA:4"
+        ],
+        "reason": "AI交易承压，芯片股走弱"
+      },
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "medium",
+        "source_ids": [
+          "NVDA:5"
+        ],
+        "reason": "应用材料因Lam展望下跌7%，拖累芯片板块"
+      },
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "NVDA:4"
+        ],
+        "reason": "芯片股突破空头陷阱，关键位受关注"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "无明确方向性事件"
+      },
+      {
+        "ticker": "META",
+        "level": "large_down",
+        "speed": "fast",
+        "source_ids": [
+          "META:13",
+          "META:9",
+          "META:1"
+        ],
+        "reason": "支出承诺与AI投入引发股价大跌，信用风险指标创新高"
+      },
+      {
+        "ticker": "META",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "META:12"
+        ],
+        "reason": "BofA上调目标价至845美元，维持买入"
+      },
+      {
+        "ticker": "META",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "META:3"
+        ],
+        "reason": "Threads月活用户超过X"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "无明确方向性事件"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "无明确方向性事件"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "无明确方向性事件"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_down",
+        "speed": "slow",
+        "source_ids": [
+          "AAPL:1"
+        ],
+        "reason": "分析认为股价可能高估约25%"
+      },
+      {
+        "ticker": "AMD",
+        "level": "large_down",
+        "speed": "fast",
+        "source_ids": [
+          "AMD:4",
+          "AMD:1",
+          "AMD:3"
+        ],
+        "reason": "供应警告加深AI抛售，芯片股大跌"
+      },
+      {
+        "ticker": "WMT",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "WMT:1"
+        ],
+        "reason": "Oppenheimer认为合并会员提升价值主张"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "TSLA:6",
+          "TSLA:10"
+        ],
+        "reason": "Q3营收不及预期，AI相关投资拖累利润率"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "TSLA:14",
+          "TSLA:9"
+        ],
+        "reason": "分析师上调目标价，华尔街给予信心"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 583,
+    "prompt_tokens": 2742,
+    "total_tokens": 3325,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 2742
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "request_sha256": "9bc1a121659779e97c4ba2aae7a207e0539e8711e1e8d30f375f74ed422cee77",
+  "response_id": "a24df682-37af-49a9-a3aa-e7091c965acc",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "摘要提及Constellation核协议与大盘评论，无直接NVDA方向性事件。"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "谷歌达成20年核协议，或被视为AI能源布局正面，但摘要焦点在Constellation大涨。"
+      },
+      {
+        "ticker": "META",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "支出预测引发担忧，股价已跌3.7%，情绪偏负面但已有部分反映。"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_down",
+        "speed": "slow",
+        "reason": "Azure支出管理与竞争挑战构成温和负面压力，无明确催化剂。"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "摘要为Citi对S&P目标及Givaudan展望，非JPM自身事件。"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "芯片业务现金消耗与大盘波动评述，缺乏明确方向性催化。"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_up",
+        "speed": "fast",
+        "reason": "新HomeView设备及付费AI功能消息，股价已上涨，偏正面。"
+      },
+      {
+        "ticker": "AMD",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "无相关新闻，无法推断方向。"
+      },
+      {
+        "ticker": "WMT",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "无相关新闻，无法推断方向。"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "摘要仅为Musk评论Micron，非TSLA自身方向性事件。"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 344,
+    "prompt_tokens": 705,
+    "total_tokens": 1049,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 705
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "request_sha256": "8004de170c7e6e27cd2d2fd5106df1ce49cdb8121d0397db0c84c47999dda478",
+  "response_id": "d3c513b3-d9e3-45b9-b4f0-49334cbed153",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "NVDA:6",
+          "NVDA:10",
+          "NVDA:12"
+        ],
+        "reason": "AI整合扩张及供应链投资等公司特定消息偏正面"
+      },
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "fast",
+        "source_ids": [
+          "NVDA:15"
+        ],
+        "reason": "SpaceX财报带动AI交易，美股上涨的板块情绪利好"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "摘要无明确谷歌公司特定方向性事件"
+      },
+      {
+        "ticker": "META",
+        "level": "small_down",
+        "speed": "slow",
+        "source_ids": [
+          "META:5",
+          "META:6",
+          "META:8"
+        ],
+        "reason": "新墨西哥州250亿美元隐私罚款构成法律负面事件"
+      },
+      {
+        "ticker": "META",
+        "level": "small_up",
+        "speed": "fast",
+        "source_ids": [
+          "META:7",
+          "META:3"
+        ],
+        "reason": "罚款消息下股价仍上涨，科技板块反弹带来正向动能"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "摘要无明确微软公司特定方向性事件"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "会议参与及第三方观点均非JPM自身方向性事件"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "AMZN:1",
+          "AMZN:3"
+        ],
+        "reason": "AI算力合同激增及AI繁荣提升科技领袖财富，行业情绪正面"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "摘要无明确苹果公司特定方向性事件"
+      },
+      {
+        "ticker": "AMD",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "无对应来源标题，无法识别明确事件"
+      },
+      {
+        "ticker": "WMT",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "无对应来源标题，无法识别明确事件"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_up",
+        "speed": "fast",
+        "source_ids": [
+          "TSLA:7"
+        ],
+        "reason": "特斯拉财报关键数据受关注，构成近期公司特定催化剂"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_up",
+        "speed": "fast",
+        "source_ids": [
+          "TSLA:3",
+          "TSLA:6",
+          "TSLA:8"
+        ],
+        "reason": "SpaceX财报及AI乐观情绪带动大盘科技反弹，马斯克相关正向情绪"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 544,
+    "prompt_tokens": 2239,
+    "total_tokens": 2783,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 2239
+  }
+}

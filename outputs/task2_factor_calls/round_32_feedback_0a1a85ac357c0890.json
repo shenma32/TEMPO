@@ -1,0 +1,46 @@
+{
+  "request_sha256": "0a1a85ac357c08906b6c9b3326c5dc2ba1c3de25bbc55018b0be569004a5769e",
+  "response_id": "dde79e0d-debb-416d-9005-a7dabf94ef2b",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "feedback": [
+      {
+        "ticker": "META",
+        "add": true,
+        "strength": "medium",
+        "reason": "实际收益显著低于原预测约3.5个百分点，且当前新闻显示监管罚款与首次现金消耗等持续负面因素，可能形成持续误差。"
+      },
+      {
+        "ticker": "MSFT",
+        "add": false,
+        "strength": "low",
+        "reason": "实际收益略低于原预测约1.8个百分点，摘要未显示持续性负面催化，更可能为普通波动。"
+      },
+      {
+        "ticker": "AMZN",
+        "add": false,
+        "strength": "low",
+        "reason": "实际收益低于原预测约2.4个百分点，但摘要仅为ETF权重相关中性信息，缺乏持续误差依据。"
+      },
+      {
+        "ticker": "TSLA",
+        "add": true,
+        "strength": "medium",
+        "reason": "实际收益显著高于原预测约3.5个百分点，且Q3业绩超预期与分析师上调目标价等持续正面因素支持误差反馈。"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 190,
+    "prompt_tokens": 971,
+    "total_tokens": 1161,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 971
+  }
+}

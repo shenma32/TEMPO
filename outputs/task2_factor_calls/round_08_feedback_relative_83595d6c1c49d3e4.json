@@ -1,0 +1,30 @@
+{
+  "request_sha256": "83595d6c1c49d3e4602b4db6b06962f09def991d026d842da5efb60e6f3c6594",
+  "response_id": "fdb3a635-a39c-40f1-9147-db90ca9c5a99",
+  "response_model": "deepseek-flash",
+  "thinking": "disabled",
+  "reasoning_effort": null,
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "feedback": [
+      {
+        "ticker": "GOOG",
+        "add": true,
+        "strength": "medium",
+        "reason": "相对市场误差约+1.65%，明显超出普通噪声，且摘要提及费用担忧等个股特定话题，存在可延续的定价偏差信号。"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 55,
+    "prompt_tokens": 384,
+    "total_tokens": 439,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 384
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "request_sha256": "457ce4d59cea3f4986c18fd0ab351cfaaad523c8f402989b7eebf0cb6ccc4d83",
+  "response_id": "31575b7a-00b6-497e-a5d2-0bbcfae75599",
+  "response_model": "deepseek-flash",
+  "thinking": "disabled",
+  "reasoning_effort": null,
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "feedback": [
+      {
+        "ticker": "JPM",
+        "add": true,
+        "strength": "medium",
+        "reason": "实际收益约+1.67%，与近乎零的预测方向不一致，误差虽受低波动影响但幅度显著，公开摘要显示存贷款业务动能存在持续影响可能，故记录偏得反馈。"
+      },
+      {
+        "ticker": "AMD",
+        "add": true,
+        "strength": "high",
+        "reason": "实际收益约+3.13%，与负向预测方向相反且误差幅度大，公开摘要显示CPU竞争加剧和芯片板块卖压，可能放大持续误差，故记录高强反馈。"
+      },
+      {
+        "ticker": "WMT",
+        "add": true,
+        "strength": "medium",
+        "reason": "实际收益约-1.29%，与近零预测方向相反且误差明显，公开摘要涉及供应商资金和业务实践审视，存在持续性风险，故记录中等反馈。"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 181,
+    "prompt_tokens": 909,
+    "total_tokens": 1090,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 909
+  }
+}

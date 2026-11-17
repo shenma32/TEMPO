@@ -1,0 +1,125 @@
+{
+  "request_sha256": "c9ab5056ccc61855ad6d0b421e80001a8a382c14ab85faea255f6a58b209bfa0",
+  "response_id": "a9aa3eeb-f1be-441c-b6ad-bef235b997d2",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "NVDA:9",
+          "NVDA:6",
+          "NVDA:19"
+        ],
+        "reason": "分析师认为NVDA可能迎来显著重估，CEO黄仁勋表达AI领导力信心，三星对NVDA芯片采取不同寻常的动作，构成正面情绪催化。"
+      },
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "fast",
+        "source_ids": [
+          "NVDA:1",
+          "NVDA:14"
+        ],
+        "reason": "AI交易回暖，纳指与标普上涨，盘中即时情绪偏正面。"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "GOOG:5",
+          "GOOG:7",
+          "GOOG:2"
+        ],
+        "reason": "量子计算进展、与Cognizant扩大Google Cloud联盟，以及微软和Alphabet小幅走高，均为正面信号。"
+      },
+      {
+        "ticker": "META",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "META:3",
+          "META:4"
+        ],
+        "reason": "财报前股价延续下跌，摩根士丹利虽上调目标价但提示Muse日活增长担忧。"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "仅有微软随大盘小幅走高的描述，没有明确的方向性独立事件。"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [
+          "JPM:1"
+        ],
+        "reason": "摩根大通向两家国防初创企业投资50亿美元，属战略投资，对股价没有明确的方向性影响。"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "large_up",
+        "speed": "fast",
+        "source_ids": [
+          "AMZN:2",
+          "AMZN:3",
+          "AMZN:7"
+        ],
+        "reason": "摩根士丹利将其列为首选并上调目标价，列出5项催化剂，AWS利润率扩张，股价上涨5%。"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "AAPL:1"
+        ],
+        "reason": "iPhone双机几分钟售罄，并回顾供应商历史上曾经大涨，构成情绪上的正面信号。"
+      },
+      {
+        "ticker": "AMD",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "仅有AI交易回暖以及投资者获利了结的讨论，没有明确的方向性独立事件。"
+      },
+      {
+        "ticker": "WMT",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "没有检索到WMT相关新闻，无法推断公司特定催化剂。"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "TSLA:4",
+          "TSLA:2",
+          "TSLA:6"
+        ],
+        "reason": "RBC提出SpaceX或按每股480美元收购特斯拉的合并情景，2026年前合并可能性以及Roadster新动态构成投机性正面催化。"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 600,
+    "prompt_tokens": 2569,
+    "total_tokens": 3169,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 2569
+  }
+}

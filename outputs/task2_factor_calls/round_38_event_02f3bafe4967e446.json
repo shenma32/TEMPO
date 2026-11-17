@@ -1,0 +1,94 @@
+{
+  "request_sha256": "02f3bafe4967e446b1f86794f59cb3064e476c42cdef4538fda88d4c6c330492",
+  "response_id": "8e312ed4-d005-4de3-a552-27eaf36e4914",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "科技股普遍遭抛售，且苹果市值超越英伟达，构成负面情绪"
+      },
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "探索前核电站选址用于AI数据中心，属长期产能布局"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "摘要仅提及苹果与英伟达市值排名变化，无谷歌明确方向性事件"
+      },
+      {
+        "ticker": "META",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "科技股大幅抛售与对冲基金做空带来短期压力"
+      },
+      {
+        "ticker": "META",
+        "level": "small_down",
+        "speed": "slow",
+        "reason": "加州财富税影响及发行无投票权股份维持控制权引发治理担忧"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "聚焦AI收入与资本开支，无明确方向性催化剂"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "未检索到公司特定新闻，无法推断催化剂"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "对冲基金接近创纪录做空及科技股整体疲软带来压力"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_up",
+        "speed": "fast",
+        "reason": "重夺华尔街市值第一，新iPhone需求强劲且供应有限"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "科技股大幅抛售拖累AMD股价下跌"
+      },
+      {
+        "ticker": "WMT",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "创1999年以来最强销售月，市值逼近1万亿美元"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "科技股抛售拖累特斯拉股价下跌"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 392,
+    "prompt_tokens": 746,
+    "total_tokens": 1138,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 746
+  }
+}

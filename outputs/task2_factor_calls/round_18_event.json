@@ -1,0 +1,82 @@
+{
+  "request_sha256": "e0ef4d540633988087ad01949881d4d24fe2044abf0d3650ce68ed1f11243669",
+  "response_id": "830085ef-00ff-4675-b63d-44c12b21121b",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "AI芯片创新领先地位及量子模拟进展带来温和正面情绪"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "Anthropic投资价值讨论与Reddit定价争论缺乏明确方向性"
+      },
+      {
+        "ticker": "META",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "Q2财报强调社交网络竞争地位，无明确价格催化"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "退出AI数据中心交易可能引发短期负面解读"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "研究排名荣誉无直接价格影响"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "AI芯片可用性改进提升自身竞争力但股价已处高位"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "高股息股跑赢等宏观讨论，非公司特定方向事件"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "面临Nvidia与TSMC在研发和现金流上的竞争压力"
+      },
+      {
+        "ticker": "WMT",
+        "level": "small_down",
+        "speed": "slow",
+        "reason": "60亿美元债券发行带来温和稀释或杠杆担忧"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "受益于AI驱动的市场反弹情绪"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 308,
+    "prompt_tokens": 716,
+    "total_tokens": 1024,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 716
+  }
+}

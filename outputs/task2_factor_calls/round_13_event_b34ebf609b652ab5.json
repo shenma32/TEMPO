@@ -1,0 +1,82 @@
+{
+  "request_sha256": "b34ebf609b652ab51b7d9505fe5bbab3687acf585e888970076fab77526082f7",
+  "response_id": "7517e6ae-d7c1-4243-bdaf-f0df4d3c016e",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "领涨AI芯片板块反弹，但估值与供应瓶颈担忧限制上行"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "AI扩张伴随盈利不确定，ETF净卖出压制股价"
+      },
+      {
+        "ticker": "META",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "财报前AI投入成本上升与板块情绪谨慎构成压力"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "AI收入驱动目标价与公允价值上调，但英国数据中心退出为负面"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "经济向好与加密扩展开支，财报结果喜忧参半，方向不明"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "小堆核能合作正面，但AI支出与ETF卖出形成对冲"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "分析师警告需求走弱与潜在大跌，抵消预购强劲"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "随AI芯片板块反弹且营收指引强劲，但ETF卖出与竞争构成压力"
+      },
+      {
+        "ticker": "WMT",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "与亚马逊零售竞争持续，无明确方向性新事件"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "unchanged",
+        "speed": "fast",
+        "reason": "Q3财报与并购传闻临近，方向待定"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 333,
+    "prompt_tokens": 743,
+    "total_tokens": 1076,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 743
+  }
+}

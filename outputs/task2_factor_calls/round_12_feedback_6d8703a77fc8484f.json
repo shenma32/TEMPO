@@ -1,0 +1,28 @@
+{
+  "request_sha256": "6d8703a77fc8484f96942443825c46ae224127db0fed1408a29cc6d27fe1963f",
+  "response_id": "5f9b24f9-7f89-48bb-add7-34cde15cd5fd",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "feedback": [
+      {
+        "ticker": "AMD",
+        "add": true,
+        "strength": "low",
+        "reason": "预测误差约2.26个百分点，实际收益为正且高于负预测，但来源仅为一次正向意外，摘要仅提及市场普涨与投资者信心，无持续催化，故按低强度记录。"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 65,
+    "prompt_tokens": 768,
+    "total_tokens": 833,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 768
+  }
+}

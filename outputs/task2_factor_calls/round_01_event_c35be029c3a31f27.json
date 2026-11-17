@@ -1,0 +1,240 @@
+{
+  "request_sha256": "c35be029c3a31f270aeeb32bbc9953040799c29a7328927368b1e6391cc027eb",
+  "response_id": "406cdc5c-ec29-4b5e-bf78-c0de8de2f846",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "fast",
+        "source_ids": [
+          "NVDA:12",
+          "NVDA:14"
+        ],
+        "reason": "激进回购扩张与250亿美元英国AI安全投入构成正面公司行动"
+      },
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "medium",
+        "source_ids": [
+          "NVDA:4"
+        ],
+        "reason": "CPI通胀数据意外及银行股拖累大盘，科技股承压"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "GOOG:42",
+          "GOOG:25",
+          "GOOG:7"
+        ],
+        "reason": "Gemini 4 Argon发布及10月28日后看涨预测"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "GOOG:12",
+          "GOOG:22"
+        ],
+        "reason": "UBS上调目标价至380美元，盘前因分析师更新上涨"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_down",
+        "speed": "slow",
+        "source_ids": [
+          "GOOG:1"
+        ],
+        "reason": "利率上升与能源通胀冲击对冲基金，宏观风险"
+      },
+      {
+        "ticker": "META",
+        "level": "small_up",
+        "speed": "fast",
+        "source_ids": [
+          "META:8",
+          "META:7"
+        ],
+        "reason": "Muse Wonder AI排名第二及UBS新目标价反映广告与AI进展"
+      },
+      {
+        "ticker": "META",
+        "level": "small_down",
+        "speed": "slow",
+        "source_ids": [
+          "META:1",
+          "META:6"
+        ],
+        "reason": "利率与通胀压力及市场广泛疲软"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "large_up",
+        "speed": "fast",
+        "source_ids": [
+          "MSFT:35",
+          "MSFT:34",
+          "MSFT:13"
+        ],
+        "reason": "股价创历史新高，1300亿美元数据中心租约及花旗上调目标价至636美元"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_down",
+        "speed": "medium",
+        "source_ids": [
+          "MSFT:15",
+          "MSFT:28"
+        ],
+        "reason": "Azure寻求20%成本削减，反映AI数据中心支出压力"
+      },
+      {
+        "ticker": "JPM",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "JPM:14",
+          "JPM:2"
+        ],
+        "reason": "Q3营收不及预期，利润率承压"
+      },
+      {
+        "ticker": "JPM",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "JPM:3",
+          "JPM:22",
+          "JPM:5"
+        ],
+        "reason": "消费者银行与投资业务强劲、上调净利息收入指引，股价微涨且目标价上调"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "AMZN:12"
+        ],
+        "reason": "New Street上调目标价至400美元"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_down",
+        "speed": "medium",
+        "source_ids": [
+          "AMZN:8"
+        ],
+        "reason": "苹果智能家居新品加剧竞争"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_up",
+        "speed": "fast",
+        "source_ids": [
+          "AAPL:31",
+          "AAPL:18",
+          "AAPL:19"
+        ],
+        "reason": "股价创历史新高，HomeView智能家居发布及Siri订阅收入预期"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "AAPL:22",
+          "AAPL:29"
+        ],
+        "reason": "新品发布推动52周新高"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_down",
+        "speed": "medium",
+        "source_ids": [
+          "AMD:6"
+        ],
+        "reason": "ASML强劲财报后芯片股跌势加深"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "AMD:8"
+        ],
+        "reason": "为Project Matador提供信用支持，Fermi大涨"
+      },
+      {
+        "ticker": "WMT",
+        "level": "small_down",
+        "speed": "slow",
+        "source_ids": [
+          "WMT:5",
+          "WMT:1"
+        ],
+        "reason": "FDA警告影响市场业务，估值相对亚马逊受质疑"
+      },
+      {
+        "ticker": "WMT",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "WMT:4"
+        ],
+        "reason": "为员工提供250多种免费处方药，福利改善"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "TSLA:25",
+          "TSLA:13"
+        ],
+        "reason": "分析师因250亿美元支出担忧下调目标价，Q3汽车利润率承压"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "TSLA:22",
+          "TSLA:24",
+          "TSLA:11"
+        ],
+        "reason": "奥斯汀Robotaxi车队一月增八倍，首个Megacharger站点开业"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_up",
+        "speed": "fast",
+        "source_ids": [
+          "TSLA:20",
+          "TSLA:21"
+        ],
+        "reason": "Roadster发布活动回归，Musk暗示时机"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 1018,
+    "prompt_tokens": 10197,
+    "total_tokens": 11215,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 10197
+  }
+}

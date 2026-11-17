@@ -1,0 +1,28 @@
+{
+  "request_sha256": "50a2d4d377543ac3216e0f604f7a29029658543416fd475546ead8346ec2ca54",
+  "response_id": "0ddda493-0e7e-4681-b6b0-cb4df70b914b",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "feedback": [
+      {
+        "ticker": "AMD",
+        "add": false,
+        "strength": "low",
+        "reason": "error 为正但仅来自单轮，且当前摘要仅描述大盘普涨下的韧性、无个股特定催化，不足以判定为持续相对误差，视为普通波动。"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 58,
+    "prompt_tokens": 356,
+    "total_tokens": 414,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 356
+  }
+}

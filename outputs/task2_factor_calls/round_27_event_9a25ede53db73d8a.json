@@ -1,0 +1,121 @@
+{
+  "request_sha256": "9a25ede53db73d8afd7ad24b6fc4ab327c6cd00672888b542d241d4f966d8330",
+  "response_id": "25ba1685-e9c9-45a8-b2fb-d21a56c44ff7",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "fast",
+        "source_ids": [
+          "NVDA:3",
+          "NVDA:8"
+        ],
+        "reason": "CrowdStrike扩大与NVIDIA AI安全合作，加上AI相关股反弹，短线偏正面"
+      },
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "medium",
+        "source_ids": [
+          "NVDA:10"
+        ],
+        "reason": "知名投资者称AI几乎肯定是泡沫，构成情绪面压力"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_down",
+        "speed": "medium",
+        "source_ids": [
+          "GOOG:4"
+        ],
+        "reason": "CEO承认云业务为争夺AI竞赛牺牲收入，利润率预期承压"
+      },
+      {
+        "ticker": "META",
+        "level": "small_up",
+        "speed": "fast",
+        "source_ids": [
+          "META:2",
+          "META:1"
+        ],
+        "reason": "财报前股价上涨且科技股整体走强，短线偏正面"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "仅有估值讨论和长期观点，无明确短线方向性事件"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "来源标题涉及美国银行而非摩根大通，无对应事件"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "AMZN:7"
+        ],
+        "reason": "定制AI芯片进展被讨论，可能缓解资本开支担忧"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "AAPL:2"
+        ],
+        "reason": "扩大美国iPhone材料与零部件供应商网络，供应链消息偏正面"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_up",
+        "speed": "fast",
+        "source_ids": [
+          "AMD:3",
+          "AMD:2",
+          "AMD:4"
+        ],
+        "reason": "数据中心业务开始盈利，Anthropic大额算力需求利好，且分析师上调目标价"
+      },
+      {
+        "ticker": "WMT",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "来源标题仅涉及SpaceX，与沃尔玛无明确关联"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "large_up",
+        "speed": "fast",
+        "source_ids": [
+          "TSLA:5",
+          "TSLA:6",
+          "TSLA:1"
+        ],
+        "reason": "SpaceX营收大增且考虑与Tesla合并，短线情绪显著正面"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 497,
+    "prompt_tokens": 2677,
+    "total_tokens": 3174,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 2677
+  }
+}

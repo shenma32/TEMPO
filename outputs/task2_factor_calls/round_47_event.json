@@ -1,0 +1,114 @@
+{
+  "request_sha256": "ba17ceba96458b1a1819db50b2c102db8a0c80434108a65ad2453ce4ebea9159",
+  "response_id": "f53d0716-483d-4c33-b6a4-0b0f49443216",
+  "response_model": "deepseek-flash",
+  "thinking": "disabled",
+  "reasoning_effort": null,
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "投资者及高通加大对英伟达与AI助手技术的投资，但半导体与AI股整体走弱限制涨幅"
+      },
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "Cerebras、Lumentum等半导体与AI股下跌带来板块情绪压力"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "数据中心支出增加挤压股东利益，分析师审查加强"
+      },
+      {
+        "ticker": "META",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "探索跨境债券市场为资本支出融资，AI内容政策面临监管审查"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "与Estée Lauder推进AI和数据工具合作"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "科技财报表现分化，缺乏明确方向性催化"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "未检索到公司特定新闻，无法推断催化剂"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "零售科技企业借助AI改善产品发现，S&P 500上涨带来温和正面背景"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "数据中心投资面临经济挑战，Oracle增加AI债务支出引发板块关注"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "Q4财报聚焦iPhone 18销售，分析师警示2027财年增长或放缓"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_up",
+        "speed": "fast",
+        "reason": "Q3财报前市场高度关注AI需求与CPU短缺"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "英特尔业绩令人失望，行业情绪承压"
+      },
+      {
+        "ticker": "WMT",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "未检索到公司特定新闻，无法推断催化剂"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "部署2500辆电动Semi有望改变货运，市场整体乐观"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_down",
+        "speed": "slow",
+        "reason": "部分分析师警示SpaceX合并风险"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 485,
+    "prompt_tokens": 735,
+    "total_tokens": 1220,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 512
+    },
+    "prompt_cache_hit_tokens": 512,
+    "prompt_cache_miss_tokens": 223
+  }
+}

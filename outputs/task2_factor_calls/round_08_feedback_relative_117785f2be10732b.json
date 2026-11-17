@@ -1,0 +1,28 @@
+{
+  "request_sha256": "117785f2be10732bc9d393b95860e878c2235fb86cc74374b7c4882632fb4979",
+  "response_id": "61a81603-ee0e-468d-8cc5-e68f8acec40e",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "feedback": [
+      {
+        "ticker": "GOOG",
+        "add": true,
+        "strength": "low",
+        "reason": "相对市场正向误差约1.65%，但当前摘要仅提及费用担忧，缺乏明确的持续催化，因此只能记录为低强度反馈。"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 53,
+    "prompt_tokens": 357,
+    "total_tokens": 410,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 128
+    },
+    "prompt_cache_hit_tokens": 128,
+    "prompt_cache_miss_tokens": 229
+  }
+}

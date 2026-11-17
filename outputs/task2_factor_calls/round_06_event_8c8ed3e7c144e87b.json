@@ -1,0 +1,94 @@
+{
+  "request_sha256": "8c8ed3e7c144e87b3980f4e751d4945b48226b8fe99a130149f3e6a594b1f49a",
+  "response_id": "2d8162d4-cf7c-4df6-98f1-a1b9a7eb028e",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "摘要未涉英伟达自身业务，仅有其他公司核协议及大盘观点"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "谷歌与Constellation签20年核协议，有利长期能源供应形象"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_down",
+        "speed": "slow",
+        "reason": "Sandisk AI闪存路线进展但股价下跌，反映存储/芯片情绪偏弱"
+      },
+      {
+        "ticker": "META",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "2250亿美元支出预测引发担忧，股价跌3.7%"
+      },
+      {
+        "ticker": "META",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "Cathie Wood购入1700万美元，显示部分资金逢低买入"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "Azure千亿美元平台支出管理面临挑战，AI与云安全竞争加剧"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "仅有Citi标普500目标及Givaudan评级，无摩根大通自身明确催化"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "250亿美元芯片业务持续烧钱，市场波动下承压"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_up",
+        "speed": "fast",
+        "reason": "新299美元HomeView设备含付费AI功能，股价上涨"
+      },
+      {
+        "ticker": "AMD",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "无公司特定新闻，无法推断方向"
+      },
+      {
+        "ticker": "WMT",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "无公司特定新闻，无法推断方向"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "仅有Musk评论Micron，无特斯拉自身业务事件"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 400,
+    "prompt_tokens": 741,
+    "total_tokens": 1141,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 741
+  }
+}

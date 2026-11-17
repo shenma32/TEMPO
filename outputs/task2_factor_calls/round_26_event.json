@@ -1,0 +1,82 @@
+{
+  "request_sha256": "a29888516d10eb4ea1f8865aace0be61cf8f00b7fecdf2232fb694883bc87f9c",
+  "response_id": "2bd50ce0-d9b0-4135-8184-bab9be560bea",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "AI collaborations and major tech orders support growth"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "Valuation scrutiny mixed with positive AI investment sentiment"
+      },
+      {
+        "ticker": "META",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "Earnings upside expectations amid tech rally"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "AI enterprise partnerships highlight growing integration"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "No company-specific catalyst in sample"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "Valuation questions offset by AI deployment news"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "No company-specific catalyst in sample"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "High valuation scrutiny ahead of earnings after 137% surge"
+      },
+      {
+        "ticker": "WMT",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "Ad campaign news lacks financial relevance"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "large_up",
+        "speed": "fast",
+        "reason": "Merger talks confirmation and SpaceX AI momentum drive surge"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 273,
+    "prompt_tokens": 714,
+    "total_tokens": 987,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 714
+  }
+}

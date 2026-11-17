@@ -1,0 +1,94 @@
+{
+  "request_sha256": "92d1be3dc143dc55f95324c08c2fdb259822acf4095ad818a5ea4dc5290d4c0b",
+  "response_id": "df6dc95b-8c59-4d32-af74-afd0f7e54989",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "股价下跌叠加现金转化担忧与AI板块抛售"
+      },
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "CEO强调芯片需求持续并扩展合作"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "无公司特定催化剂"
+      },
+      {
+        "ticker": "META",
+        "level": "small_down",
+        "speed": "slow",
+        "reason": "青少年限制措施存在漏洞引发安全担忧"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_up",
+        "speed": "fast",
+        "reason": "TD Cowen上调目标价，AI举措强化核心业务"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "无公司特定催化剂"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "无公司特定催化剂"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "无公司特定催化剂"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "市场反弹中展现韧性，反映投资者信心"
+      },
+      {
+        "ticker": "WMT",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "摘要未含公司特定方向性事件"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "Roadster收入前景存疑致股价下跌1.7%"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "特斯拉与SpaceX合并仅为分析师猜测"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 324,
+    "prompt_tokens": 738,
+    "total_tokens": 1062,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 738
+  }
+}

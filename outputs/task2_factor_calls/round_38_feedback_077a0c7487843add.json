@@ -1,0 +1,36 @@
+{
+  "request_sha256": "077a0c7487843add61294c6d98773bcc4ee9fd12e0a5e4d9a22495fadc14b7fd",
+  "response_id": "cb32e6ac-6364-47a2-9ac9-34c89098d80a",
+  "response_model": "deepseek-flash",
+  "thinking": "disabled",
+  "reasoning_effort": null,
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "feedback": [
+      {
+        "ticker": "JPM",
+        "add": false,
+        "strength": "low",
+        "reason": "预测接近零，实际小幅下跌约1.2%，无公司特定消息，幅度小且可能属随机波动，不具持续误差信号。"
+      },
+      {
+        "ticker": "WMT",
+        "add": false,
+        "strength": "low",
+        "reason": "实际下跌约1.25%而预测近零，但摘要显示销售强劲等正面基本面，误差幅度有限，缺乏持续偏差证据。"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 102,
+    "prompt_tokens": 865,
+    "total_tokens": 967,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 865
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "request_sha256": "bd8a2466260f9bb7d4c11cb17404844347088717347dc42e42318446967882ec",
+  "response_id": "6c6c2200-0a1a-4db2-9726-6ddf5bc68c64",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "fast",
+        "reason": "AI trade rebound lifts semiconductor stocks including NVIDIA"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "AI initiatives with Accenture; chip delay partly offsets"
+      },
+      {
+        "ticker": "META",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "Q3 earnings anticipation and AI competition, no clear direction"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "Withdrawal from UK data center project weighs on sentiment"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "Bullish Ethereum projection, no clear stock impact"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "Morgan Stanley target upgrade and AI optimism"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_up",
+        "speed": "fast",
+        "reason": "Surge to $5 trillion valuation, outperforming S&P 500"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_up",
+        "speed": "fast",
+        "reason": "Semiconductor rally and JPMorgan upgrades"
+      },
+      {
+        "ticker": "WMT",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "Expanded wellness and shipping offerings, no clear direction"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "Tech rebound but earnings anticipation; no clear direction"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 290,
+    "prompt_tokens": 733,
+    "total_tokens": 1023,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 733
+  }
+}

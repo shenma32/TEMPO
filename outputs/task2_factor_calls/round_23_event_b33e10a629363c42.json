@@ -1,0 +1,171 @@
+{
+  "request_sha256": "b33e10a629363c42e3d652f1798ea3c98202fb664b9ced7cd6a880993398d96f",
+  "response_id": "cc2ca8dc-8e4c-461e-b27a-41e26c7743bf",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "NVDA:2",
+          "NVDA:25"
+        ],
+        "reason": "股价在德国AI合作消息下仍下跌，市场对中国芯片采购持怀疑态度"
+      },
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "NVDA:5",
+          "NVDA:25"
+        ],
+        "reason": "德国政府与Nvidia达成AI协议，开辟工业AI路径"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_up",
+        "speed": "fast",
+        "source_ids": [
+          "GOOG:4",
+          "GOOG:8",
+          "GOOG:12"
+        ],
+        "reason": "市场预期Q3业绩超预期，云业务强劲，股价上涨"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "GOOG:3"
+        ],
+        "reason": "Waymo扩展至欧洲市场"
+      },
+      {
+        "ticker": "META",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "META:10",
+          "META:12"
+        ],
+        "reason": "财报前股价下滑，营收余量有限"
+      },
+      {
+        "ticker": "META",
+        "level": "small_down",
+        "speed": "medium",
+        "source_ids": [
+          "META:11",
+          "META:14"
+        ],
+        "reason": "政策主管Joel Kaplan将于2027年离职，领导层变动"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "MSFT:6"
+        ],
+        "reason": "波音与微软合作打造AI平台，BMO看好Azure上行空间"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_down",
+        "speed": "slow",
+        "source_ids": [
+          "MSFT:2"
+        ],
+        "reason": "FTC传票OpenAI和Anthropic，监管风险波及合作方"
+      },
+      {
+        "ticker": "JPM",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "JPM:3"
+        ],
+        "reason": "安全倡议达2300亿美元但股价仍下跌"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_up",
+        "speed": "fast",
+        "source_ids": [
+          "AMZN:3"
+        ],
+        "reason": "分析师上调目标价，无卖出评级，股价上扬"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "AMZN:6"
+        ],
+        "reason": "AWS推出TorchNeuron提升Trainium AI芯片性能"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "无明确方向性事件"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_down",
+        "speed": "medium",
+        "source_ids": [
+          "AMD:2"
+        ],
+        "reason": "AI服务器需求激增带来关键考验，方向偏不确定但标题暗示压力"
+      },
+      {
+        "ticker": "WMT",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "WMT:1"
+        ],
+        "reason": "推出新会员捆绑降低费用，提升客户留存"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "TSLA:2",
+          "TSLA:4"
+        ],
+        "reason": "大盘上涨、油价回落带动市场情绪"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_down",
+        "speed": "medium",
+        "source_ids": [
+          "TSLA:5"
+        ],
+        "reason": "财报将检验AI支出，存在不确定性风险"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 682,
+    "prompt_tokens": 3785,
+    "total_tokens": 4467,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 3785
+  }
+}

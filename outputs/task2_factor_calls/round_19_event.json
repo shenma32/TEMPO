@@ -1,0 +1,82 @@
+{
+  "request_sha256": "1bd4186c2d839f51be731b728975a35a5a0e9921e2e95b9a56a310573bebd1a2",
+  "response_id": "f084c565-004a-4d4d-9819-5dd1c7299bd2",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "欧洲AI扩张与100亿美元德国合作带来正面催化剂"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "云增长与AI领先但GPU延迟和宕机消息混杂"
+      },
+      {
+        "ticker": "META",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "大额AI支出既是增长信号也引分析师谨慎"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "AI扩张与竞争并存，分析师调整目标价方向不明"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "数字资产与比特币观点属长期战略，短期无明确方向"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_up",
+        "speed": "fast",
+        "reason": "摩根士丹利看多及350美元目标价提振股价"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "分析师下调评级及iPhone出货放缓担忧"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "芯片股反弹及机构买入带动AI交易回暖"
+      },
+      {
+        "ticker": "WMT",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "通胀与AI购物策略属潜在竞争优势，无即时方向"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "财报前情绪混杂，合并猜测与机器人出租车乐观并存"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 309,
+    "prompt_tokens": 678,
+    "total_tokens": 987,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 678
+  }
+}

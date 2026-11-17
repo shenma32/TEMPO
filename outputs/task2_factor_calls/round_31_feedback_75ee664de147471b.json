@@ -1,0 +1,58 @@
+{
+  "request_sha256": "75ee664de147471b70d4aca9b3ff9e10e35b0c9901011b8985b4adf4bd871700",
+  "response_id": "7f5f9186-d934-4d54-a5f3-185da188f562",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "feedback": [
+      {
+        "ticker": "NVDA",
+        "add": false,
+        "strength": "low",
+        "reason": "误差约-2.1%，略低于模型预期，但新闻显示AI合作等基本面仍稳健，属普通波动，无需持续因子。"
+      },
+      {
+        "ticker": "META",
+        "add": true,
+        "strength": "medium",
+        "reason": "误差约-4.0%，实际显著弱于预测；摘要显示AI支出高企引发信用风险与股价下挫，或形成持续偏差。"
+      },
+      {
+        "ticker": "AMZN",
+        "add": false,
+        "strength": "low",
+        "reason": "误差约-2.0%，幅度有限，摘要仍偏正面，属随机波动。"
+      },
+      {
+        "ticker": "AMD",
+        "add": true,
+        "strength": "medium",
+        "reason": "误差约-6.1%，为最大负向偏差；摘要显示NVIDIA主导动能，AMD相对落后，可能持续。"
+      },
+      {
+        "ticker": "WMT",
+        "add": false,
+        "strength": "low",
+        "reason": "误差为正约+1.4%，方向相反幅度小，零售板块无明确持续驱动。"
+      },
+      {
+        "ticker": "TSLA",
+        "add": true,
+        "strength": "high",
+        "reason": "误差约-4.2%，实际大幅低于预测；摘要显示Q3利润骤降43%，基本面冲击可能持续影响。"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 267,
+    "prompt_tokens": 1038,
+    "total_tokens": 1305,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 1038
+  }
+}

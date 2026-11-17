@@ -1,0 +1,82 @@
+{
+  "request_sha256": "97163cbfeef0b0bd69c425a7d24f546d3e5dc3c63e3a24bb714c9aebea235148",
+  "response_id": "e7d3b148-a40d-4320-a036-8b96da4c332d",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "fast",
+        "reason": "Semiconductor stocks rallied as AI trade rebounded, alongside AMD and Intel"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "AI initiatives with Accenture and chip delays; sentiment mixed but tech rebound supportive"
+      },
+      {
+        "ticker": "META",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "Tech sector rebounds and AI growth focus ahead of Q3 earnings"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "Withdrawal from UK data center project adds uncertainty, valuation debate"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "Bullish Ethereum projection is sector commentary, limited direct stock impact"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_up",
+        "speed": "fast",
+        "reason": "Morgan Stanley upgraded target and AI optimism lift shares"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "Surge to $5 trillion valuation, though 35x valuation concerns cap upside"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_up",
+        "speed": "fast",
+        "reason": "Semiconductor rally and JPMorgan upgrades on AI data center market"
+      },
+      {
+        "ticker": "WMT",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "Wellness product and shipping expansion are routine operational updates"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "Tech rebound noted but no clear company-specific directional catalyst ahead of earnings"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 320,
+    "prompt_tokens": 697,
+    "total_tokens": 1017,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 697
+  }
+}

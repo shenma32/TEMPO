@@ -1,0 +1,52 @@
+{
+  "request_sha256": "faf3b6fd93491988b21ed41b7ab5269712ad79400a1f2474527423dbab006c80",
+  "response_id": "1481d9e6-17ff-4754-8ad4-5f24ae95a93a",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "feedback": [
+      {
+        "ticker": "META",
+        "add": true,
+        "strength": "medium",
+        "reason": "个股相对误差-2.78%，叠加25亿美元罚款与IPO以来首次现金消耗的持续负面消息，非普通随机波动"
+      },
+      {
+        "ticker": "MSFT",
+        "add": false,
+        "strength": "low",
+        "reason": "相对误差-1.02%，无公司特定重大消息，属常规波动"
+      },
+      {
+        "ticker": "JPM",
+        "add": false,
+        "strength": "low",
+        "reason": "相对误差+1.39%且仅1条间接新闻，证据不足"
+      },
+      {
+        "ticker": "AMZN",
+        "add": false,
+        "strength": "low",
+        "reason": "相对误差-1.67%，摘要仅ETF持仓相关，无持续个股冲击"
+      },
+      {
+        "ticker": "TSLA",
+        "add": true,
+        "strength": "medium",
+        "reason": "相对误差+4.22%显著，Q3超预期与上调目标价构成持续正向反馈"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 197,
+    "prompt_tokens": 966,
+    "total_tokens": 1163,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 966
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "request_sha256": "41d7cd5156a56b2194871212790b5ab89f52692f6f779383f5e5c03e5b786165",
+  "response_id": "f93a9af5-1f51-4306-8a4e-84037dcae88a",
+  "response_model": "deepseek-flash",
+  "thinking": "disabled",
+  "reasoning_effort": null,
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "feedback": [
+      {
+        "ticker": "GOOG",
+        "add": true,
+        "strength": "medium",
+        "reason": "预测收益近乎零而实际上涨约1.8%，呈明显正向误差；摘要提及成本担忧但AI领导力讨论仍在，误差较具体且非极端，设定为持续衰减的medium反馈。"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 66,
+    "prompt_tokens": 805,
+    "total_tokens": 871,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 805
+  }
+}

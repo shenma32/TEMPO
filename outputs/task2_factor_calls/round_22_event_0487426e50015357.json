@@ -1,0 +1,82 @@
+{
+  "request_sha256": "0487426e500153570db26dfbee4f5c386c4238846d74bcae843544a3d77f6df7",
+  "response_id": "3b04f683-4efc-44bd-b4e5-fb6ea22899e3",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "fast",
+        "reason": "芯片股波动后回升的报道"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_down",
+        "speed": "slow",
+        "reason": "AI 支出激增可能带来美联储加息压力"
+      },
+      {
+        "ticker": "META",
+        "level": "small_up",
+        "speed": "fast",
+        "reason": "Muse AI 下载量强劲，受关注度上升"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "股价表现强劲，AI 支出顺风，量子计算竞争相关报道"
+      },
+      {
+        "ticker": "JPM",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "分析师称股市一项重大不利因素可能缓解"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "量子计算定价竞争及 AI 支出担忧"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "UBS 预计 FQ4 业绩符合市场一致预期"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_up",
+        "speed": "fast",
+        "reason": "芯片股波动后上涨"
+      },
+      {
+        "ticker": "WMT",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "本窗口未检索到公司特定新闻"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "Q3 业绩预期聚焦交付与现金流，整体市场反弹"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 295,
+    "prompt_tokens": 743,
+    "total_tokens": 1038,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 743
+  }
+}

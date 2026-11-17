@@ -1,0 +1,82 @@
+{
+  "request_sha256": "7ae7d1740902c134c8bbcf24d6742c8b0c85105f210aefa1fd14223cc1cd638c",
+  "response_id": "58746657-963c-47d9-aad7-e95619612df2",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "AI板块波动、CoreWeave抛售与营收报告混杂，抵消新品与合作利好"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "AI投资效率改善预期，但搜索扰动构成不确定性"
+      },
+      {
+        "ticker": "META",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "AI投入预期回报可观，广告支出增加，但市场整体回调"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "多家机构上调目标价，Azure表现预期高于平均，UBS维持强力买入"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "无公司特定新闻，无法推断催化剂"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_down",
+        "speed": "slow",
+        "reason": "Anthropic营收挑战加剧AI板块担忧"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "AI股普跌中苹果股价保持强势"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "AI相关股票下挫，尽管台积电AI芯片需求强劲"
+      },
+      {
+        "ticker": "WMT",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "NRF预测假日销售加速，消费韧性支持"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "仅台积电与预测市场相关新闻，无公司特定方向性事件"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 320,
+    "prompt_tokens": 739,
+    "total_tokens": 1059,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 739
+  }
+}

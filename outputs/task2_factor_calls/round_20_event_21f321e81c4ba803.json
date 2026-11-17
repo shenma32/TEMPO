@@ -1,0 +1,82 @@
+{
+  "request_sha256": "21f321e81c4ba8034b390e92943495986e2f750a942de8e2e237455aeb518ead",
+  "response_id": "bc85821c-ae91-4bc3-9455-ef25e3e25cd9",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "AI芯片板块抛售及AI估值疑虑带来压力，叠加加大CPU市场竞争投入"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "自动驾驶服务扩张及合作拓展，但科技板块整体承压"
+      },
+      {
+        "ticker": "META",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "探索WhatsApp广告外扩张，无明确方向性催化"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "数据中心扩张及波音AI合作，AI投资前景仍存分歧"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "存款业务与贷款加速的评估无明确方向性影响"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "假日招聘规模及AWS合作扩展，但云竞争加剧"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "创新高后分析师转谨慎并下调评级"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "英伟达进军CPU加剧竞争，芯片股整体下跌"
+      },
+      {
+        "ticker": "WMT",
+        "level": "small_down",
+        "speed": "slow",
+        "reason": "供应商库存资金问题引发审视"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "SpaceX财报临近但无明确方向性事件"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 311,
+    "prompt_tokens": 730,
+    "total_tokens": 1041,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 730
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "request_sha256": "dfc48fe31325ab799d6a0590a8e980bc4c5f1bb3895779a6998ffe9df0e9722b",
+  "response_id": "97fd38ef-d38a-4513-861b-7e200e7273e6",
+  "response_model": "deepseek-flash",
+  "thinking": "disabled",
+  "reasoning_effort": null,
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "与CrowdStrike、Dell合作推进AI安全，但10月预测未达预期，短期情绪偏弱"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "谷歌拟投入数十亿美元加码AI，股价小幅走高"
+      },
+      {
+        "ticker": "META",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "标普对AI支出提出警示，Meta股价走低"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "财报超预期，但股价仍低于去年水平，利好有限"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "摘要主要为亚马逊及富国银行AI验证，无明确公司方向性事件"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "large_up",
+        "speed": "fast",
+        "reason": "Phillip Securities上调评级，AWS表现强劲，股价上涨5%"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_down",
+        "speed": "slow",
+        "reason": "2027财年盈利面临增长放缓与iPhone内存成本上升风险"
+      },
+      {
+        "ticker": "AMD",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "未检索到AMD相关新闻，无明确催化剂"
+      },
+      {
+        "ticker": "WMT",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "零售板块受亚马逊AWS带动上涨，沃尔玛涨2%"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "马斯克据报在与台积电谈判中对Terafab控制权立场软化"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 339,
+    "prompt_tokens": 731,
+    "total_tokens": 1070,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 731
+  }
+}

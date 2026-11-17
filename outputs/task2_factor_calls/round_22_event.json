@@ -1,0 +1,82 @@
+{
+  "request_sha256": "c9028a98fde16c73e5a9b42bd5b2932ab6dbb15d69b7ff0bcc7d39eb100b36ff",
+  "response_id": "18861d66-0611-4642-af09-56dda5cd9af8",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "Chip stocks recovered from volatile morning, slight positive momentum."
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_down",
+        "speed": "slow",
+        "reason": "AI spending surge may pressure Fed to raise rates, indirect negative."
+      },
+      {
+        "ticker": "META",
+        "level": "large_up",
+        "speed": "fast",
+        "reason": "Muse AI downloads surge with strong market attention."
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "Strong stock performance and competitive positioning amid AI spending."
+      },
+      {
+        "ticker": "JPM",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "Analysts suggest major stock headwind may be easing."
+      },
+      {
+        "ticker": "AMZN",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "Mixed: new competition but expanding projects; no clear direction."
+      },
+      {
+        "ticker": "AAPL",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "Expected results in line with consensus; no directional catalyst."
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "Chip stocks rallied after volatile morning."
+      },
+      {
+        "ticker": "WMT",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "No company-specific catalyst retrieved."
+      },
+      {
+        "ticker": "TSLA",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "Earnings anticipation and merger speculation; no clear direction."
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 288,
+    "prompt_tokens": 707,
+    "total_tokens": 995,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 707
+  }
+}

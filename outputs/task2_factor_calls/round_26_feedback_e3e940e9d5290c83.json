@@ -1,0 +1,28 @@
+{
+  "request_sha256": "e3e940e9d5290c83db795844afe953fbae44646c4a06615b5f4883adeaf1d8db",
+  "response_id": "216ffc04-d205-44f3-814d-9ba69c05f635",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "feedback": [
+      {
+        "ticker": "GOOG",
+        "add": true,
+        "strength": "low",
+        "reason": "实际收益较原预测低约1.75个百分点，出现负向误差，但幅度有限且缺乏公司特定催化，仅记录低强度衰减因子。"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 56,
+    "prompt_tokens": 783,
+    "total_tokens": 839,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 783
+  }
+}

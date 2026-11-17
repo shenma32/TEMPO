@@ -1,0 +1,82 @@
+{
+  "request_sha256": "54ff8d2719359076f664c1fd5bdb86011d321b6064a06e69c8dff4a6c63499e7",
+  "response_id": "787e59c6-f138-4ab9-981f-4f778a03efe2",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "AI芯片板块抛售及AI估值疑虑压制，CPU扩张引发竞争担忧"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "自动驾驶与订阅业务扩张正面，但科技市场担忧限制涨幅"
+      },
+      {
+        "ticker": "META",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "WhatsApp扩张探索无明确短期价格方向，AI IPO市场低迷"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "数据中心扩张与AI合作正面，AI投资前景分化限制幅度"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "存款业务评估与贷款加速为中性信息，无明确方向"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "假日招聘与AWS合作正面，但云竞争与AI挑战抵消"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "分析师转谨慎并下调评级，芯片股抛售拖累"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "英伟达进军CPU加剧竞争，芯片股整体下跌"
+      },
+      {
+        "ticker": "WMT",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "供应商资金审查为中性消息，无明确方向"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "摘要提及大盘回升但无特斯拉具体方向性事件"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 323,
+    "prompt_tokens": 694,
+    "total_tokens": 1017,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 694
+  }
+}

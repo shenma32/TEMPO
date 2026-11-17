@@ -1,0 +1,46 @@
+{
+  "request_sha256": "c065b666c133c0a77f60f0aac8be2d7bf6c20ab715338fbaaf88020bbc322bc5",
+  "response_id": "2446d800-3b5c-4a5d-ad7e-8b11323b6735",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "feedback": [
+      {
+        "ticker": "META",
+        "add": true,
+        "strength": "medium",
+        "reason": "预测收益接近零而实际下跌约3.5%，误差幅度明显，且摘要显示监管处罚与首次现金消耗等持续负面因素，可能构成持续偏差。"
+      },
+      {
+        "ticker": "MSFT",
+        "add": false,
+        "strength": "low",
+        "reason": "误差约1.8%，幅度属普通波动范围，摘要无针对微软的持续负面驱动，暂不记录。"
+      },
+      {
+        "ticker": "AMZN",
+        "add": false,
+        "strength": "low",
+        "reason": "误差约2.4%，摘要仅提及ETF权重，缺乏持续影响证据，视为随机波动。"
+      },
+      {
+        "ticker": "TSLA",
+        "add": true,
+        "strength": "low",
+        "reason": "实际上涨约3.5%而预测接近零，方向为正；摘要提及并购讨论与目标价上调，但持续性不确定，故强度偏低。"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 190,
+    "prompt_tokens": 969,
+    "total_tokens": 1159,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 969
+  }
+}

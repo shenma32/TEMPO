@@ -1,0 +1,28 @@
+{
+  "request_sha256": "046d47c185c5613e7eb1bcca8351a0ba1c308a3b8d9fca0f71844769de7947eb",
+  "response_id": "9bed6c27-708e-42a5-b067-cd5cb7598510",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "feedback": [
+      {
+        "ticker": "GOOG",
+        "add": true,
+        "strength": "low",
+        "reason": "实际收益高于预测约1.8个百分点，明显正向但摘要仅提及分析师对Alphabet开支管理的质疑，缺乏持续催化证据，按低强度记录。"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 57,
+    "prompt_tokens": 778,
+    "total_tokens": 835,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 778
+  }
+}

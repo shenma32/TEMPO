@@ -1,0 +1,82 @@
+{
+  "request_sha256": "8a9274677398c602a6d6b3d55d38be32f9c13a376f3cc9be7c19ddccda5125f4",
+  "response_id": "5cfbbeee-a23c-4d85-8b40-4c23cea97abf",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "欧洲100亿美元德国合作及初创投资扩大AI布局"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "AI进展与云增长被GPU延迟及通胀担忧抵消"
+      },
+      {
+        "ticker": "META",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "420亿美元AI与广告投入，分析师态度谨慎"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "AI扩张与竞争加剧，目标价调整方向不明"
+      },
+      {
+        "ticker": "JPM",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "JPM Coin上以太坊及比特币长期看好表态"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_up",
+        "speed": "fast",
+        "reason": "摩根士丹利看多及350美元目标价，德国投资扩大"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "分析师下调评级，iPhone出货增长放缓"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_up",
+        "speed": "fast",
+        "reason": "芯片股反弹，机构买入及AI基础设施扩张"
+      },
+      {
+        "ticker": "WMT",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "通胀与AI购物策略为潜在利好但无明确事件"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "财报前情绪分化，SpaceX合并传闻方向不明"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 305,
+    "prompt_tokens": 714,
+    "total_tokens": 1019,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 714
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "request_sha256": "785dfc19f9d577b6d6d70c0dcd1f550fb02ba51503ae942761b7070faf506627",
+  "response_id": "bc32a907-6ee4-4dbd-a40c-e96ce04391e3",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "feedback": [
+      {
+        "ticker": "JPM",
+        "add": true,
+        "strength": "medium",
+        "reason": "预测误差约1.66个百分点，且JPM摘要提及分析师下调目标价和存款业务审视，方向正偏差可能反映一次性利好，持续衰减因子可捕捉弱延续性"
+      },
+      {
+        "ticker": "AMD",
+        "add": true,
+        "strength": "medium",
+        "reason": "预测误差约3.13个百分点，摘要提及英伟达进军CPU加剧与AMD竞争、芯片股下跌，实际正收益与利空摘要背离，需记录衰减因子观察持续影响"
+      },
+      {
+        "ticker": "WMT",
+        "add": true,
+        "strength": "low",
+        "reason": "预测误差约-1.29个百分点，幅度较小且摘要为供应商审查等常规新闻，更接近普通波动，仅以低强度记录"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 169,
+    "prompt_tokens": 881,
+    "total_tokens": 1050,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 881
+  }
+}

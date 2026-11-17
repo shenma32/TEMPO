@@ -1,0 +1,30 @@
+{
+  "request_sha256": "3a2e712edc91a11ca3ffb51d190f476f7109a459969481474b204ed7f9f2f4a5",
+  "response_id": "a9ed926b-659d-4edd-99a0-d5bdc537568c",
+  "response_model": "deepseek-flash",
+  "thinking": "disabled",
+  "reasoning_effort": null,
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "feedback": [
+      {
+        "ticker": "GOOG",
+        "add": true,
+        "strength": "low",
+        "reason": "实际收益略低于预测，误差方向为负但幅度较小且与近期无重大基本面变化的摘要一致，可能为普通波动，仅以低强度记录。"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 57,
+    "prompt_tokens": 809,
+    "total_tokens": 866,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 809
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "request_sha256": "c7822cba4fd8ac96bc2bb83080f66262f56f41c393ea4c5eec3d5967de4cda12",
+  "response_id": "361817aa-e53c-4780-9156-81dd262ecc41",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "NVDA:4",
+          "NVDA:13"
+        ],
+        "reason": "芯片板块抛售及AI融资担忧压制股价"
+      },
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "NVDA:11"
+        ],
+        "reason": "可能与德国政府达成AI合作的市场传闻"
+      },
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "NVDA:2"
+        ],
+        "reason": "CEO对CoreWeave股价暴跌公开表示乐观"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "GOOG:7"
+        ],
+        "reason": "XPeng扩大与Google合作将Google Play集成到AI座舱"
+      },
+      {
+        "ticker": "META",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "META:2"
+        ],
+        "reason": "Citi上调目标价至895美元"
+      },
+      {
+        "ticker": "META",
+        "level": "small_down",
+        "speed": "slow",
+        "source_ids": [
+          "META:1"
+        ],
+        "reason": "参议员就66亿美元AI数据中心税收抵免质询"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "无对应来源标题"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [
+          "JPM:1"
+        ],
+        "reason": "仅为市场传闻的债务出售，方向不明确"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [
+          "AMZN:1"
+        ],
+        "reason": "新品发布缺乏明确价格方向性影响"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "AAPL:1"
+        ],
+        "reason": "iPhone Duo开启预购，产品发布属温和正面"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "AMD:1",
+          "AMD:2",
+          "AMD:4"
+        ],
+        "reason": "收益率上升与通胀数据引发科技及芯片板块抛售"
+      },
+      {
+        "ticker": "WMT",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "WMT:2"
+        ],
+        "reason": "Deutsche Bank看好定价顺风"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [
+          "TSLA:1",
+          "TSLA:2"
+        ],
+        "reason": "估值分析与SpaceX合并传闻均无明确方向性影响"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 520,
+    "prompt_tokens": 1979,
+    "total_tokens": 2499,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 1979
+  }
+}

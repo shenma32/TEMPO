@@ -1,0 +1,28 @@
+{
+  "request_sha256": "20fa620373276ebcd8b86c9f52e430326baca6c9c5875885d84f1e58ade4342c",
+  "response_id": "361bde16-0509-4b3c-ab58-d86add647ec0",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "feedback": [
+      {
+        "ticker": "WMT",
+        "add": false,
+        "strength": "low",
+        "reason": "实际收益仅比预测低约1%，属于普通随机波动；公开摘要仅提假日消费韧性，未显示持续负面催化，暂不记录误差因子。"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 57,
+    "prompt_tokens": 770,
+    "total_tokens": 827,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 770
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "request_sha256": "54ad47835a85208d9eec907a2a19830b423afa6280a3c944b2909da982b6db6a",
+  "response_id": "e83dc08a-41e0-4908-adf0-b4946cc303de",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "CEO confident in AI leadership and Samsung interest in Nvidia chips"
+      },
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "AI-driven market rebound supports sentiment"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "Quantum computing progress and expanded Cognizant cloud alliance"
+      },
+      {
+        "ticker": "META",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "Stock declining ahead of earnings despite price target increase"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "Modest gain amid tech sector strength"
+      },
+      {
+        "ticker": "JPM",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "$5 billion defense startup investment signals strategic expansion"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "large_up",
+        "speed": "fast",
+        "reason": "Morgan Stanley top pick and raised price target on AWS growth"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "960 MW nuclear project collaboration supports outlook"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_up",
+        "speed": "fast",
+        "reason": "New iPhone duo sold out within minutes"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "Focal point as AI trade rebounds with Nasdaq gains"
+      },
+      {
+        "ticker": "WMT",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "No company-specific catalyst in sample"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "Consideration of SpaceX-Tesla merger and Roadster developments"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "Musk pledge of SpaceX shares is not clearly price-moving"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 368,
+    "prompt_tokens": 745,
+    "total_tokens": 1113,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 745
+  }
+}

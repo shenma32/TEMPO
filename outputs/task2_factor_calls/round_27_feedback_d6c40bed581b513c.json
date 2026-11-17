@@ -1,0 +1,30 @@
+{
+  "request_sha256": "d6c40bed581b513cc406ad4cc290190d54ae7c6c2f02e443d30acead0da8a820",
+  "response_id": "d0ba4882-65fe-44d1-8980-6074c5ca0f49",
+  "response_model": "deepseek-flash",
+  "thinking": "disabled",
+  "reasoning_effort": null,
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "feedback": [
+      {
+        "ticker": "AAPL",
+        "add": true,
+        "strength": "low",
+        "reason": "实际收益略高于预测，误差约1.3个百分点，幅度温和，且摘要显示仅有供应链扩张消息，缺乏持续催化，故仅记录低强度反馈。"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 58,
+    "prompt_tokens": 818,
+    "total_tokens": 876,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 818
+  }
+}

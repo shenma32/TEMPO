@@ -1,0 +1,82 @@
+{
+  "request_sha256": "89750ce1611e8ed1fe7ef9963d5e64454b5fa0bd3d5278fa3995edad54346c2e",
+  "response_id": "ccef05da-d472-4bfe-b971-90f6ae65f701",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "Chip sector selling pressure from inflation and AI spending fears"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "Berkshire's large stake and Gemini AI leadership"
+      },
+      {
+        "ticker": "META",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "Analyst bullishness and new AI models as growth drivers"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "Recent stock decline despite Maia 300 chip rollout"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "M&A advisory hire is routine and non-directional"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "Customer lawsuit and hardware strategy shift"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "Contesting $5.7 billion legal verdict"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "Shares declined amid chip sector worries"
+      },
+      {
+        "ticker": "WMT",
+        "level": "small_up",
+        "speed": "fast",
+        "reason": "Shares rose 3% on defensive rotation from inflation data"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "Roadster event rescheduled; no clear price direction"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 288,
+    "prompt_tokens": 721,
+    "total_tokens": 1009,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 721
+  }
+}

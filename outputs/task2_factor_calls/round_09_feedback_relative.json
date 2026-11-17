@@ -1,0 +1,28 @@
+{
+  "request_sha256": "9bcaa898dc2e781348a4f33b746d81048fcd389e6f7bb2255b9cdd2b2b6a7386",
+  "response_id": "dac0bc76-3146-400d-9596-e597a3d9dc55",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "feedback": [
+      {
+        "ticker": "WMT",
+        "add": true,
+        "strength": "low",
+        "reason": "相对市场误差为负且幅度有限，摘要显示假期销售预期与消费韧性等基本面线索，可记录低强度衰减反馈，但不足以视为强持续影响。"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 58,
+    "prompt_tokens": 850,
+    "total_tokens": 908,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 850
+  }
+}

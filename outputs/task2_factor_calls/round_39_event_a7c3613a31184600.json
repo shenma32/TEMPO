@@ -1,0 +1,82 @@
+{
+  "request_sha256": "a7c3613a311846005cd76ed2b05075dd1afd3cccab946eafbd4be74ca731f163",
+  "response_id": "0ff48d83-014f-40b1-8078-b71f8ab5eef8",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "围绕AI芯片地位与分析师看多情绪的长期叙事，无明确短线方向性事件"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "摘要仅提及苹果反超及同业财报临近，无谷歌自身明确催化剂"
+      },
+      {
+        "ticker": "META",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "AI变现潜力引关注，但整体为板块抛售与谨慎财报季背景，方向不明"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "财报聚焦Azure与Copilot变现属预期性关注，无明确方向性事件"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "分析师评论针对ASML长期竞争格局，对摩根大通无直接影响"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "摘要仅提及财报准备与苹果反超，无亚马逊自身明确方向性事件"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "第五次重回华尔街市值首位，体现相对强势，但缺乏硬性催化"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "被视为强势AI芯片投资标的具增长潜力，尽管板块抛售压制"
+      },
+      {
+        "ticker": "WMT",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "本轮无公司相关新闻，无法推断任何催化剂"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_up",
+        "speed": "fast",
+        "reason": "欧洲销量显著激增反映区域需求强劲，构成明确正面事件"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 352,
+    "prompt_tokens": 759,
+    "total_tokens": 1111,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 759
+  }
+}

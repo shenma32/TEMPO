@@ -1,0 +1,82 @@
+{
+  "request_sha256": "7f94f8fed428331a321392f8365fb0a30b7a984bfac95acb5535f81803e55654",
+  "response_id": "2c0b33d4-077f-46dd-b87c-bf31f4fd5637",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "Chip stock sell-off amid shrinking AI enthusiasm offsets partnership news"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "Strong outlook, AI content deals and semiconductor investment benefits"
+      },
+      {
+        "ticker": "META",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "New open-weight AI model and Apple partnership reflect positive AI integration"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "New large AI model boosts Azure and M365 growth expectations"
+      },
+      {
+        "ticker": "JPM",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "Capital markets slowdown after strong start weighs on big banks"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "Tech sector declines amid AI job-impact concerns"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "$5T market cap milestone and iPhone preorder momentum"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "Chip stock declines amid AI sector concerns despite cooling infrastructure expansion"
+      },
+      {
+        "ticker": "WMT",
+        "level": "small_up",
+        "speed": "fast",
+        "reason": "Deutsche Bank upgrade and new employee benefits lift stock"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "Crypto stock trading news lacks clear directional price signal"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 300,
+    "prompt_tokens": 700,
+    "total_tokens": 1000,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 700
+  }
+}

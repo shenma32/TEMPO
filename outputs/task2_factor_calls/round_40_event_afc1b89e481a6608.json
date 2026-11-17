@@ -1,0 +1,149 @@
+{
+  "request_sha256": "afc1b89e481a660800288e94efafe4f2b01262b84fcd1ac5e99850b40833c808",
+  "response_id": "dff12e56-4fbd-4592-a67d-56b8b34bdc87",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "NVDA:7"
+        ],
+        "reason": "Nvidia's new AI initiative could disrupt video industry, positive for NVDA."
+      },
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "NVDA:4"
+        ],
+        "reason": "U.S. chip reshoring benefits toolmakers, indirectly positive for NVDA."
+      },
+      {
+        "ticker": "GOOG",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "No direct directional catalyst for GOOG in summaries."
+      },
+      {
+        "ticker": "META",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "META:3"
+        ],
+        "reason": "Meta plans 2-for-1 stock split, typically positive for sentiment."
+      },
+      {
+        "ticker": "META",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "META:1",
+          "META:8",
+          "META:9"
+        ],
+        "reason": "Broader tech/AI chip sell-off may weigh on META short-term."
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "MSFT:3"
+        ],
+        "reason": "Durable growth reinforces MSFT investment thesis."
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "MSFT:2"
+        ],
+        "reason": "OpenAI financial move ahead of potential IPO may benefit MSFT partnership."
+      },
+      {
+        "ticker": "JPM",
+        "level": "small_down",
+        "speed": "slow",
+        "source_ids": [
+          "JPM:1"
+        ],
+        "reason": "Teams overseeing $18B go independent, potential asset outflow."
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "AMZN:3"
+        ],
+        "reason": "Prediction of Amazon doubling by 2030 if key business delivers, positive sentiment."
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "AAPL:1",
+          "AAPL:2"
+        ],
+        "reason": "Launch of $2,000 foldable iPhone duo amid supply crunch, positive product catalyst."
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "AMD:1"
+        ],
+        "reason": "Broader tech sell-off, Nasdaq rose but Dow/S&P fell, AMD may face pressure."
+      },
+      {
+        "ticker": "WMT",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "No WMT news retrieved."
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "TSLA:1",
+          "TSLA:2",
+          "TSLA:4"
+        ],
+        "reason": "Tech sell-off and SpaceX earnings volatility may weigh on TSLA."
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_down",
+        "speed": "slow",
+        "source_ids": [
+          "TSLA:3"
+        ],
+        "reason": "Rivian takes unexpected step in race against Tesla, competitive pressure."
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 837,
+    "prompt_tokens": 2155,
+    "total_tokens": 2992,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 2155
+  }
+}

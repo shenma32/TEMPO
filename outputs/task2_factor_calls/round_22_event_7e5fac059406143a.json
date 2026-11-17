@@ -1,0 +1,158 @@
+{
+  "request_sha256": "7e5fac059406143abd684b350cb4ba45da04c64253983b5bf289fde66b66355c",
+  "response_id": "a77c7bec-811c-4a28-bf35-7b793d25f70f",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "fast",
+        "source_ids": [
+          "NVDA:2"
+        ],
+        "reason": "芯片股从早盘波动中反弹，但历史提示震荡未结束"
+      },
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "slow",
+        "source_ids": [
+          "NVDA:2"
+        ],
+        "reason": "分析师警示后续仍有洗盘风险"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_down",
+        "speed": "slow",
+        "source_ids": [
+          "GOOG:1"
+        ],
+        "reason": "万亿AI支出可能迫使美联储加息，对整体估值构成压力"
+      },
+      {
+        "ticker": "META",
+        "level": "small_up",
+        "speed": "fast",
+        "source_ids": [
+          "META:3"
+        ],
+        "reason": "Muse AI代理下载量达1090万，ChatGPT下滑25%"
+      },
+      {
+        "ticker": "META",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "META:1",
+          "META:2"
+        ],
+        "reason": "Q3财报临近且大盘逢低买入回暖"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "MSFT:3"
+        ],
+        "reason": "股价强势，策略指向快速两位数回报"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_down",
+        "speed": "slow",
+        "source_ids": [
+          "MSFT:1",
+          "MSFT:2"
+        ],
+        "reason": "量子定价竞争加剧及AI支出推升加息风险"
+      },
+      {
+        "ticker": "JPM",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "JPM:1"
+        ],
+        "reason": "摩根大通称股市一大逆风可能正在消退"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_down",
+        "speed": "slow",
+        "source_ids": [
+          "AMZN:1"
+        ],
+        "reason": "量子定价领域出现新竞争者Postquant Labs"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "AMZN:5"
+        ],
+        "reason": "X-Energy将受益于另一亚马逊项目"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [
+          "AAPL:1"
+        ],
+        "reason": "UBS预计Q4业绩符合共识，无明确方向性意外"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_up",
+        "speed": "fast",
+        "source_ids": [
+          "AMD:1"
+        ],
+        "reason": "芯片股早盘波动后反弹，但历史提示震荡未结束"
+      },
+      {
+        "ticker": "WMT",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "本轮无WMT相关新闻"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "TSLA:1",
+          "TSLA:3"
+        ],
+        "reason": "Q3财报预览聚焦交付展望与现金流，叠加并购猜测"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_up",
+        "speed": "fast",
+        "source_ids": [
+          "TSLA:2"
+        ],
+        "reason": "大盘逢低买入回暖提振风险偏好"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 611,
+    "prompt_tokens": 1556,
+    "total_tokens": 2167,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 1556
+  }
+}

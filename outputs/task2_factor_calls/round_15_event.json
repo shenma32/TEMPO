@@ -1,0 +1,82 @@
+{
+  "request_sha256": "eeb4277026b285608a19b2aa96e3346026cf9f5a2dabc2a9dd063f3e80949c1c",
+  "response_id": "6c2afe5a-59be-4975-909b-27da3407fd62",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "fast",
+        "reason": "赢得CPU业务及西门子采用AI方案，强化AI芯片需求前景"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "搜索韧性与云扩张支撑增长，专利失利影响有限"
+      },
+      {
+        "ticker": "META",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "广告强劲与表外融资担忧并存，方向不明"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_down",
+        "speed": "slow",
+        "reason": "因互联延迟放弃Nscale AI数据中心项目"
+      },
+      {
+        "ticker": "JPM",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "预计欧洲ETF需求带来2万亿美元流入"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "未来章节被看好但缺乏明确近期催化"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "股价创新高但分析师担忧需求放缓，多空交织"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "英伟达夺走Modal CPU业务挑战其独家地位"
+      },
+      {
+        "ticker": "WMT",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "近期下跌与看涨预测及退款消息相互抵消"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "财报将考验AI韧性，飞行Roadster获监管支持但政策动能减弱"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 310,
+    "prompt_tokens": 703,
+    "total_tokens": 1013,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 703
+  }
+}

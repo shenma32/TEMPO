@@ -1,0 +1,28 @@
+{
+  "request_sha256": "fb77f34efd99cf5dba19ad3f29786b88964033a13993fb43beb6600dfa7e852b",
+  "response_id": "a5f4f953-e4c0-4b7f-81db-c2a673480d5e",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "feedback": [
+      {
+        "ticker": "WMT",
+        "add": false,
+        "strength": "low",
+        "reason": "误差仅约-1.23%，幅度温和，摘要显示假日消费保持韧性，未见持续基本面恶化，更像随机波动。"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 50,
+    "prompt_tokens": 770,
+    "total_tokens": 820,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 770
+  }
+}

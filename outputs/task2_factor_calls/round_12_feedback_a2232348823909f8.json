@@ -1,0 +1,30 @@
+{
+  "request_sha256": "a2232348823909f8ecbf52f4ca1dd5035625e4cfb160e6f69f3fd4038817e5ce",
+  "response_id": "0e278c08-e9f5-4668-a447-6caa27408636",
+  "response_model": "deepseek-flash",
+  "thinking": "disabled",
+  "reasoning_effort": null,
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "feedback": [
+      {
+        "ticker": "AMD",
+        "add": true,
+        "strength": "low",
+        "reason": "实际收益较预测高出约2.26个百分点，但AMD相关消息仅提及大盘反弹下的韧性，无明确公司特定催化剂，误差可能属普通波动，仅以低强度记录。"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 62,
+    "prompt_tokens": 795,
+    "total_tokens": 857,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 795
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "request_sha256": "e7504a635129ad28461c4720cce04fa250a150fa1b6389db96e5b22088ba5028",
+  "response_id": "71ae71aa-55cd-45a1-9897-7de212bccc24",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "Nvidia chips unused in Amazon warehouses and valuation debate offer no clear directional catalyst"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "Undervaluation commentary and regulatory scrutiny are non-immediate"
+      },
+      {
+        "ticker": "META",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "$25 billion data privacy penalty headline is negative"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "Investor scrutiny ahead of Oct 28 announcement, no clear direction"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "No news retrieved, no company-specific catalyst"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "Unused AI chips and hiring/refund updates lack clear price direction"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "No news retrieved, no company-specific catalyst"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_up",
+        "speed": "fast",
+        "reason": "Susquehanna price target increase ahead of earnings"
+      },
+      {
+        "ticker": "WMT",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "New membership deal promising savings is mildly positive"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "Strong earnings and tech index lift are positive"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 299,
+    "prompt_tokens": 740,
+    "total_tokens": 1039,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 740
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "request_sha256": "bd89e84b28bfaffcf8b28d2141ebc37c73feec0d95b6d7ec0ae35386eac6b850",
+  "response_id": "4cd93e74-66b2-421a-a075-cbcc4638c248",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "AI financing concerns and chip sell-offs pressure shares"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "XPeng collaboration and AI ecosystem expansion"
+      },
+      {
+        "ticker": "META",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "Congressional scrutiny offset by Citi price target raise"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "No company-specific catalyst retrieved"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "Possible debt sale chatter, no clear directional impact"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "Broadened smart home and wearable product lineup"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "New iPhone Duo preorder launch signal"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "Tech sell-off driven by rising yields hits chip sector"
+      },
+      {
+        "ticker": "WMT",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "Free GLP-1 benefits and pricing tailwinds noted"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "Valuation and merger speculation, no clear direction"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 282,
+    "prompt_tokens": 711,
+    "total_tokens": 993,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 711
+  }
+}

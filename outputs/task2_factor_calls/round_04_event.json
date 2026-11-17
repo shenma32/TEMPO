@@ -1,0 +1,82 @@
+{
+  "request_sha256": "6989c9d361668f6a23daf29ed0f5461c60efd19f5bd630dbd0dbf4f08b4b3d1a",
+  "response_id": "d1eeb8c6-4114-4470-a91e-8ee2058947d5",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "AI设计合作与内存涨价支撑需求，偏正面但非即时强催化"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_down",
+        "speed": "slow",
+        "reason": "分析师偏好其他云厂商而非Alphabet，相对负面但影响有限"
+      },
+      {
+        "ticker": "META",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "AI举措缓解支出担忧，WhatsApp功能为温和正面"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_down",
+        "speed": "slow",
+        "reason": "分析师看好新兴云公司而非微软，相对情绪偏弱"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "交易管线强劲但监管负面报道，方向不明"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "摘要提及分析师看好微软和Alphabet之外的云巨头，可能指向正面"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "重夺5万亿美元市值里程碑，情绪正面"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "数据中心重要性言论间接利好，缺乏公司Specific催化"
+      },
+      {
+        "ticker": "WMT",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "无公司新闻，无可推断方向"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "储能供加州电网创纪录，能源业务正面但影响有限"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 313,
+    "prompt_tokens": 720,
+    "total_tokens": 1033,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 720
+  }
+}

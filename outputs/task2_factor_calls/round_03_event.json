@@ -1,0 +1,82 @@
+{
+  "request_sha256": "2e89b1d7f017f40cd775478ec4a229199b800408b785d135d05ce655e7df1c5c",
+  "response_id": "e33d215a-8626-4d22-8254-bb357480181f",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "混合竞争信号，无明确方向性催化剂"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "AI芯片机会提及，但整体无明确价格方向"
+      },
+      {
+        "ticker": "META",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "代理AI进展为背景性利好，无即时定价事件"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "仅提及初创融资，与微软无直接业务催化剂"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "无新闻样本，无可推断催化剂"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_down",
+        "speed": "slow",
+        "reason": "关闭杂货合作店面和市场质疑，轻微负面"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_down",
+        "speed": "slow",
+        "reason": "代理AI遭质疑，行业性疑虑带来轻微压力"
+      },
+      {
+        "ticker": "AMD",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "无新闻样本，无可推断催化剂"
+      },
+      {
+        "ticker": "WMT",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "无新闻样本，无可推断催化剂"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "无新闻样本，无可推断催化剂"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 287,
+    "prompt_tokens": 688,
+    "total_tokens": 975,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 688
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "request_sha256": "39e6522494e2ba1e3b76858f5d0e6a9df6a774a2cdc32964ea0072ba6f3360c9",
+  "response_id": "b60f03dc-f26a-4f6e-a69d-222b35e321df",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "NVDA:17"
+        ],
+        "reason": "字节跳动、阿里巴巴、腾讯订购350亿美元英伟达芯片，提振AI芯片需求预期"
+      },
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "NVDA:6",
+          "NVDA:9",
+          "NVDA:20"
+        ],
+        "reason": "与Procore、Hitachi Solutions、微软等多项AI合作扩展生态"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "仅有Waymo估值讨论，无明确方向性事件"
+      },
+      {
+        "ticker": "META",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "META:3"
+        ],
+        "reason": "财报前模型显示29%上行空间，盈利预期偏正面"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "MSFT:2"
+        ],
+        "reason": "与英伟达、默克合作AI患者支持模型，合作消息温和正面"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "无相关新闻"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "估值讨论与Proto Labs部署AI助手，无明确方向性催化剂"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "无相关新闻"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_down",
+        "speed": "medium",
+        "source_ids": [
+          "AMD:1"
+        ],
+        "reason": "137%涨幅后估值偏高，财报前存在回调担忧"
+      },
+      {
+        "ticker": "WMT",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "仅有与零售财务无关的广告报道"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "large_up",
+        "speed": "fast",
+        "source_ids": [
+          "TSLA:9",
+          "TSLA:10",
+          "TSLA:15"
+        ],
+        "reason": "马斯克确认与SpaceX并购谈判，双方股价大涨"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_down",
+        "speed": "medium",
+        "source_ids": [
+          "TSLA:5",
+          "TSLA:8"
+        ],
+        "reason": "Q3交付预期偏弱、合并与Robotaxi延迟，基本面预期承压"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 495,
+    "prompt_tokens": 2756,
+    "total_tokens": 3251,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 2756
+  }
+}

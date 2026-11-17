@@ -1,0 +1,84 @@
+{
+  "request_sha256": "4259c060bc8fa24d4f3b89b7f1e0fdcc68f72a58e7e8476073a7d1c9a2fbdbe1",
+  "response_id": "8b612c4f-8136-4b0f-807e-f10945007d00",
+  "response_model": "deepseek-flash",
+  "thinking": "disabled",
+  "reasoning_effort": null,
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "5G边缘AI与智能边缘计算市场快速增长的行业趋势"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "中小企业IT支出及移动边缘计算市场增长"
+      },
+      {
+        "ticker": "META",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "仅涉及Farther管理层人事，与META无直接明确事件"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "AI、云、网络安全及5G边缘计算推进，季度业绩强劲"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "该窗口无公司特定新闻，无法推断催化剂"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_up",
+        "speed": "fast",
+        "reason": "道指上涨带动股价上扬，市场预期中小企业IT支出增长"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "财报前道指上涨，但分析师质疑估值，方向不明"
+      },
+      {
+        "ticker": "AMD",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "仅泛泛提及AI芯片竞争，无公司特定明确事件"
+      },
+      {
+        "ticker": "WMT",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "该窗口无公司特定新闻，无法推断催化剂"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_up",
+        "speed": "fast",
+        "reason": "Robotaxi服务扩展至新城市，股价持续反弹"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 316,
+    "prompt_tokens": 765,
+    "total_tokens": 1081,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 512
+    },
+    "prompt_cache_hit_tokens": 512,
+    "prompt_cache_miss_tokens": 253
+  }
+}

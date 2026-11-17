@@ -1,0 +1,36 @@
+{
+  "request_sha256": "47a4ca1dd8292c81f3f632d38a0b7206b1bec8c7ebc9fae000401a287a95849c",
+  "response_id": "93c231f7-f416-4e5e-91ee-9607a887798c",
+  "response_model": "deepseek-flash",
+  "thinking": "disabled",
+  "reasoning_effort": null,
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "feedback": [
+      {
+        "ticker": "MSFT",
+        "add": false,
+        "strength": "low",
+        "reason": "Predicted近零实际小幅下跌，误差属普通波动，摘要无持续利空"
+      },
+      {
+        "ticker": "AMD",
+        "add": false,
+        "strength": "low",
+        "reason": "实际跌3.5%但摘要偏正面，无持续误差证据，视为随机波动"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 79,
+    "prompt_tokens": 848,
+    "total_tokens": 927,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 848
+  }
+}

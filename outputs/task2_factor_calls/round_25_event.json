@@ -1,0 +1,82 @@
+{
+  "request_sha256": "cf3c8d95f1ce53307fb0543084cf4e0bb96c5f594cc00aa3c7e9e35c43e0cdba",
+  "response_id": "5fe8d2f2-505d-42de-81e0-92242ca8d98d",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "CEO highlights expanding AI infrastructure and partnerships amid rising AI demand"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "Google Cloud deepens AI partnerships despite mixed investor sentiment"
+      },
+      {
+        "ticker": "META",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "Scrutiny over AI spending ahead of earnings, no clear directional catalyst"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "Strong analyst support for AI cloud and strategic partnerships"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "Mixed ETF selling and cautious macro, no clear near-term direction"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "Large Germany investment and AI hardware stockpiling support growth outlook"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "Recent downgrades and valuation concerns outweigh product anticipation"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "Gold holder backs NVIDIA challenger amid AI interest; limited direct catalyst"
+      },
+      {
+        "ticker": "WMT",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "Business services and ad expansion plus ETF inclusion support sentiment"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "Potential SpaceX merger talks offset by expected down quarter"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 303,
+    "prompt_tokens": 708,
+    "total_tokens": 1011,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 708
+  }
+}

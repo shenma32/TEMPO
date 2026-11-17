@@ -1,0 +1,28 @@
+{
+  "request_sha256": "f004c9f182d876c0a5167140aad496163ab1d2e8c6de3aea8347f83a306f54d8",
+  "response_id": "436e03fc-f81c-488f-85d7-84a95a604a76",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "feedback": [
+      {
+        "ticker": "GOOG",
+        "add": true,
+        "strength": "low",
+        "reason": "实际收益略低于预测约1.7个百分点，偏差幅度较小，且公开摘要主要提及估值审视与AI投资，未显示持续性不利催化，暂按低强度记录。"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 61,
+    "prompt_tokens": 782,
+    "total_tokens": 843,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 782
+  }
+}

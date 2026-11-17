@@ -1,0 +1,276 @@
+{
+  "request_sha256": "ddf732e64f7965854114ba389b25cae742f51875e3aa0d699359fc9c3b8beb65",
+  "response_id": "4ed9fc99-afa4-4095-8137-0e795332268a",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "NVDA:1",
+          "NVDA:14",
+          "NVDA:47"
+        ],
+        "reason": "半导体抛售与全球芯片股下挫压制情绪"
+      },
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "NVDA:8",
+          "NVDA:67"
+        ],
+        "reason": "台积电创纪录利润显示AI芯片需求强劲"
+      },
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "NVDA:2",
+          "NVDA:5",
+          "NVDA:11"
+        ],
+        "reason": "黄仁勋呼吁美中AI安全合作并承诺AI安全捐款"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "GOOG:13",
+          "GOOG:25",
+          "GOOG:37"
+        ],
+        "reason": "分析师上调目标价并看好后市表现"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_down",
+        "speed": "medium",
+        "source_ids": [
+          "GOOG:36",
+          "GOOG:42",
+          "GOOG:44"
+        ],
+        "reason": "竞争担忧及股价跑输大盘"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "GOOG:10",
+          "GOOG:14"
+        ],
+        "reason": "Waymo竞争及Anthropic盈利改善"
+      },
+      {
+        "ticker": "META",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "META:7",
+          "META:14",
+          "META:13"
+        ],
+        "reason": "独特AI优势与ARK增持支撑情绪"
+      },
+      {
+        "ticker": "META",
+        "level": "small_down",
+        "speed": "slow",
+        "source_ids": [
+          "META:21",
+          "META:6"
+        ],
+        "reason": "内部人售股与ETF减持形成温和压力"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "MSFT:23",
+          "MSFT:27",
+          "MSFT:34"
+        ],
+        "reason": "多家机构上调目标价且季度表现强劲"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_down",
+        "speed": "medium",
+        "source_ids": [
+          "MSFT:32",
+          "MSFT:33",
+          "MSFT:35"
+        ],
+        "reason": "Azure削减传闻、FTC传票及内部人售股施压"
+      },
+      {
+        "ticker": "JPM",
+        "level": "small_down",
+        "speed": "slow",
+        "source_ids": [
+          "JPM:8",
+          "JPM:11",
+          "JPM:15"
+        ],
+        "reason": "去银行化调查与业绩不及预期"
+      },
+      {
+        "ticker": "JPM",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "JPM:14",
+          "JPM:2"
+        ],
+        "reason": "分析师上调评级并牵头大额融资"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_down",
+        "speed": "medium",
+        "source_ids": [
+          "AMZN:18",
+          "AMZN:1"
+        ],
+        "reason": "FTC传票及AI债务忧虑拖累"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "AMZN:4",
+          "AMZN:15"
+        ],
+        "reason": "大型科技AI支出与云业务受益"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "large_up",
+        "speed": "fast",
+        "source_ids": [
+          "AAPL:1",
+          "AAPL:2",
+          "AAPL:37"
+        ],
+        "reason": "市值突破5万亿美元里程碑"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "AAPL:17",
+          "AAPL:38",
+          "AAPL:21"
+        ],
+        "reason": "Apple Intelligence中国上线及盘前上涨"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_down",
+        "speed": "slow",
+        "source_ids": [
+          "AAPL:24",
+          "AAPL:26"
+        ],
+        "reason": "OpenAI商业秘密诉讼与智能手机出货下滑"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "AMD:1",
+          "AMD:4",
+          "AMD:22"
+        ],
+        "reason": "AI抛售及全球芯片股下挫拖累"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_down",
+        "speed": "medium",
+        "source_ids": [
+          "AMD:18",
+          "AMD:20",
+          "AMD:13"
+        ],
+        "reason": "通胀担忧延续且股价下滑3%"
+      },
+      {
+        "ticker": "WMT",
+        "level": "small_up",
+        "speed": "fast",
+        "source_ids": [
+          "WMT:3",
+          "WMT:5",
+          "WMT:16"
+        ],
+        "reason": "德意志银行上调评级至买入并提高目标价"
+      },
+      {
+        "ticker": "WMT",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "WMT:19"
+        ],
+        "reason": "2027年员工福利提升计划"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_up",
+        "speed": "fast",
+        "source_ids": [
+          "TSLA:9",
+          "TSLA:11",
+          "TSLA:28"
+        ],
+        "reason": "分析师预计特斯拉与SpaceX合并可能公布"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_up",
+        "speed": "fast",
+        "source_ids": [
+          "TSLA:8",
+          "TSLA:17",
+          "TSLA:26"
+        ],
+        "reason": "Roadster发布活动预期升温"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_down",
+        "speed": "slow",
+        "source_ids": [
+          "TSLA:4",
+          "TSLA:31"
+        ],
+        "reason": "Waymo竞争及NHTSA学校区域调查"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 1102,
+    "prompt_tokens": 12774,
+    "total_tokens": 13876,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 12774
+  }
+}

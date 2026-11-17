@@ -1,0 +1,288 @@
+{
+  "request_sha256": "c53888c63fe6b52c6ae450c54bfd2613ec6c5345522b70caecfdd02e0727a5e5",
+  "response_id": "0ad6e966-d0d1-4a81-8c0b-dca1d36125bd",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "fast",
+        "source_ids": [
+          "NVDA:18",
+          "NVDA:19"
+        ],
+        "reason": "与德国扩大AI合作、100亿美元承诺及投资德国初创企业"
+      },
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "NVDA:74",
+          "NVDA:70"
+        ],
+        "reason": "芯片股反弹，英伟达领涨"
+      },
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "medium",
+        "source_ids": [
+          "NVDA:9",
+          "NVDA:4"
+        ],
+        "reason": "中国芯片采购传闻未能提振，AI交易反弹乏力"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "GOOG:17",
+          "GOOG:26",
+          "GOOG:30"
+        ],
+        "reason": "谷歌云伦敦故障影响英国银行服务"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "GOOG:35"
+        ],
+        "reason": "BMO上调Alphabet目标价至480美元"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_down",
+        "speed": "slow",
+        "source_ids": [
+          "GOOG:14"
+        ],
+        "reason": "谷歌下一代AI芯片延迟"
+      },
+      {
+        "ticker": "META",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "META:40"
+        ],
+        "reason": "摩根士丹利上调目标价后Meta股价仍下跌"
+      },
+      {
+        "ticker": "META",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "META:42"
+        ],
+        "reason": "Cathie Wood增持Meta约2400万美元"
+      },
+      {
+        "ticker": "META",
+        "level": "small_down",
+        "speed": "medium",
+        "source_ids": [
+          "META:5"
+        ],
+        "reason": "Meta股权融资成为关注焦点"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "MSFT:36",
+          "MSFT:47"
+        ],
+        "reason": "BMO与Bernstein上调目标价"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_down",
+        "speed": "medium",
+        "source_ids": [
+          "MSFT:25"
+        ],
+        "reason": "微软退出与Nscale的英国数据中心交易"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_down",
+        "speed": "slow",
+        "source_ids": [
+          "MSFT:45"
+        ],
+        "reason": "AI扩张遭遇物理限制"
+      },
+      {
+        "ticker": "JPM",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "JPM:22",
+          "JPM:2"
+        ],
+        "reason": "JPM Coin部署至以太坊主网"
+      },
+      {
+        "ticker": "JPM",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "JPM:21",
+          "JPM:20"
+        ],
+        "reason": "50亿美元投入美国工业与国家安全领域"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_up",
+        "speed": "fast",
+        "source_ids": [
+          "AMZN:35",
+          "AMZN:4"
+        ],
+        "reason": "摩根士丹利将亚马逊列为首选并上调目标价至350美元"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "AMZN:38",
+          "AMZN:46"
+        ],
+        "reason": "亚马逊扩大德国投资约180亿美元"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "AMZN:53"
+        ],
+        "reason": "扩大与3M数据中心合作并获认股权证"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "large_down",
+        "speed": "fast",
+        "source_ids": [
+          "AAPL:24",
+          "AAPL:26"
+        ],
+        "reason": "Loop Capital下调评级至持有并下调目标价"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_down",
+        "speed": "medium",
+        "source_ids": [
+          "AAPL:28"
+        ],
+        "reason": "MoffettNathanson下调目标价"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_down",
+        "speed": "medium",
+        "source_ids": [
+          "AAPL:29",
+          "AAPL:27"
+        ],
+        "reason": "英国监管机构审查Apple Pay接触式支付"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_up",
+        "speed": "fast",
+        "source_ids": [
+          "AMD:7",
+          "AMD:6"
+        ],
+        "reason": "AMD领涨AI交易反弹"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "AMD:4"
+        ],
+        "reason": "SOXX ETF增持6160万美元AMD"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_down",
+        "speed": "slow",
+        "source_ids": [
+          "AMD:24"
+        ],
+        "reason": "内部人士卖出约933万美元股票"
+      },
+      {
+        "ticker": "WMT",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "WMT:1"
+        ],
+        "reason": "通胀上升背景下沃尔玛或受益"
+      },
+      {
+        "ticker": "WMT",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "WMT:5"
+        ],
+        "reason": "推出订阅捆绑服务以争夺市场"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_up",
+        "speed": "fast",
+        "source_ids": [
+          "TSLA:48"
+        ],
+        "reason": "英特尔代工协议及摩根大通上调评级"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "TSLA:31",
+          "TSLA:28"
+        ],
+        "reason": "SpaceX与特斯拉合并传闻升温"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_down",
+        "speed": "slow",
+        "source_ids": [
+          "TSLA:49"
+        ],
+        "reason": "华尔街预计特斯拉本季业绩下滑"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 1127,
+    "prompt_tokens": 14215,
+    "total_tokens": 15342,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 14215
+  }
+}

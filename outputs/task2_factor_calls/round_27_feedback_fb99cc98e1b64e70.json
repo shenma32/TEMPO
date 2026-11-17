@@ -1,0 +1,30 @@
+{
+  "request_sha256": "fb99cc98e1b64e707ed9179f50f039b0232f242a95cbdeeaad4183d0c45729c6",
+  "response_id": "c476a061-8ea9-4572-b25d-c06ca28b6693",
+  "response_model": "deepseek-flash",
+  "thinking": "disabled",
+  "reasoning_effort": null,
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "feedback": [
+      {
+        "ticker": "AAPL",
+        "add": true,
+        "strength": "low",
+        "reason": "预测小幅负收益而实际正收益，误差约1.3%，属温和方向偏离；摘要仅提及供应链扩张，无持续催化，故以低强度记录，避免过度反应。"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 63,
+    "prompt_tokens": 818,
+    "total_tokens": 881,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 818
+  }
+}

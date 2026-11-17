@@ -1,0 +1,173 @@
+{
+  "request_sha256": "7ced09230cbc2328b01b6b3e850886bcc4240578246ef8ea5a420ec14ed04865",
+  "response_id": "1c77d316-923c-47c6-bc4f-491e61ad308b",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "NVDA:9",
+          "NVDA:6",
+          "NVDA:8"
+        ],
+        "reason": "AI融资担忧与全球芯片股抛售拖累英伟达股价"
+      },
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "medium",
+        "source_ids": [
+          "NVDA:7",
+          "NVDA:4"
+        ],
+        "reason": "通胀数据引发利率担忧，科技股遭抛售"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_down",
+        "speed": "slow",
+        "source_ids": [
+          "GOOG:3"
+        ],
+        "reason": "市场质疑Alphabet支出负担能力"
+      },
+      {
+        "ticker": "META",
+        "level": "small_up",
+        "speed": "fast",
+        "source_ids": [
+          "META:3",
+          "META:4"
+        ],
+        "reason": "Muse代理表现亮眼及估值折价创造入场机会"
+      },
+      {
+        "ticker": "META",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [
+          "META:5"
+        ],
+        "reason": "AI税收抵免问题临近Q3，方向尚不明确"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [
+          "MSFT:2",
+          "MSFT:5"
+        ],
+        "reason": "AI安全捆绑与前景受关注，但无明确方向性事件"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "无对应来源标题"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [
+          "AMZN:3",
+          "AMZN:4"
+        ],
+        "reason": "定制AI芯片节省成本与大盘AI担忧并存，方向不明确"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "AAPL:3"
+        ],
+        "reason": "计划12月在中国推出AI功能"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_down",
+        "speed": "slow",
+        "source_ids": [
+          "AAPL:2"
+        ],
+        "reason": "纳斯达克因AI担忧下挫波及"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "AMD:3",
+          "AMD:5",
+          "AMD:6"
+        ],
+        "reason": "AI融资担忧与全球芯片抛售拖累板块"
+      },
+      {
+        "ticker": "AMD",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [
+          "AMD:9"
+        ],
+        "reason": "大涨后风险讨论，方向不明确"
+      },
+      {
+        "ticker": "WMT",
+        "level": "small_up",
+        "speed": "fast",
+        "source_ids": [
+          "WMT:2"
+        ],
+        "reason": "德意志银行上调评级至买入并提高目标价"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "TSLA:2",
+          "TSLA:4"
+        ],
+        "reason": "新Roadster跑车发布预期"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_down",
+        "speed": "medium",
+        "source_ids": [
+          "TSLA:5"
+        ],
+        "reason": "飞行车演示传闻出台之际股价下跌"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "unchanged",
+        "speed": "slow",
+        "source_ids": [
+          "TSLA:3"
+        ],
+        "reason": "特斯拉-SpaceX合并传闻，方向不明确"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 664,
+    "prompt_tokens": 2374,
+    "total_tokens": 3038,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 2374
+  }
+}

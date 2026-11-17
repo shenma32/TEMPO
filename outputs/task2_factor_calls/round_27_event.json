@@ -1,0 +1,82 @@
+{
+  "request_sha256": "a6e63b5f808d701b1bb28f83e1c33be781c223b696088cdbae7f013ddf96f544",
+  "response_id": "95f32540-85d4-486c-8ed8-6a032c7062fe",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "AI合作伙伴关系强劲且利润率可持续，尽管存在泡沫疑虑仍支撑增长预期。"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_down",
+        "speed": "slow",
+        "reason": "云业务为AI竞争牺牲收入，投资成本上升构成短期压力。"
+      },
+      {
+        "ticker": "META",
+        "level": "small_up",
+        "speed": "fast",
+        "reason": "财报前股价上涨，科技股反弹带动情绪。"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "分析师认为估值被低估，AI板块担忧下仍有支撑。"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "财富管理估值讨论属长期观点，无明确短期方向。"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "加大定制AI芯片投入，云计算竞争中的积极布局。"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "扩展美国供应商网络属运营调整，暂无明确价格方向。"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_up",
+        "speed": "fast",
+        "reason": "数据中心业务盈利动能强劲，分析师上调目标价。"
+      },
+      {
+        "ticker": "WMT",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "SpaceX销售预测与沃尔玛无关，无明确方向性事件。"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "考虑与SpaceX合并及后者收入大增，提振市场情绪。"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 318,
+    "prompt_tokens": 724,
+    "total_tokens": 1042,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 724
+  }
+}

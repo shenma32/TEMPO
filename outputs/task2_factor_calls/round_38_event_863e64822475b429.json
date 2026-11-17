@@ -1,0 +1,142 @@
+{
+  "request_sha256": "863e64822475b4292d09f071d91c212a2284926b7b124c3ee01b059f8f6b8779",
+  "response_id": "733d1b3b-6caf-4850-9a00-262e009a5837",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "NVDA:1",
+          "NVDA:12"
+        ],
+        "reason": "科技股大幅抛售，纳指与标普走低，Nvidia随大盘承压"
+      },
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "medium",
+        "source_ids": [
+          "NVDA:2",
+          "NVDA:7"
+        ],
+        "reason": "苹果超越Nvidia重夺全球市值第一，市场领导地位相对减弱"
+      },
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "NVDA:4"
+        ],
+        "reason": "探索利用旧核电站场地建设AI数据中心，长期扩张信号"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "仅有苹果与Nvidia市值排名相关标题，未涉及谷歌明确方向性事件"
+      },
+      {
+        "ticker": "META",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "META:1",
+          "META:3"
+        ],
+        "reason": "科技股抛售叠加对冲基金接近创纪录做空，情绪面承压"
+      },
+      {
+        "ticker": "META",
+        "level": "small_down",
+        "speed": "medium",
+        "source_ids": [
+          "META:2"
+        ],
+        "reason": "加州财富税提高对Meta与扎克伯格的潜在影响"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "MSFT:2",
+          "MSFT:3"
+        ],
+        "reason": "微软寻求保留更多AI收益并聚焦AI动能与资本开支，财报预期偏正面"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "本轮无JPM相关来源标题，无法识别明确方向性事件"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "AMZN:2"
+        ],
+        "reason": "对冲基金接近创纪录做空，市场情绪偏空"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_up",
+        "speed": "fast",
+        "source_ids": [
+          "AAPL:1",
+          "AAPL:2",
+          "AAPL:4"
+        ],
+        "reason": "苹果重夺全球市值第一，iPhone新机上市需求强劲、供应有限"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "AMD:1",
+          "AMD:2"
+        ],
+        "reason": "科技股大幅抛售且跌势延续，AMD随板块走低"
+      },
+      {
+        "ticker": "WMT",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "WMT:1"
+        ],
+        "reason": "录得1999年以来最佳月份，市值距1万亿美元仅4%"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "TSLA:1"
+        ],
+        "reason": "科技股抛售拖累纳指与标普，特斯拉随大盘下跌"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 605,
+    "prompt_tokens": 1991,
+    "total_tokens": 2596,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 1991
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "request_sha256": "6efe2279deb34931d24ed4efa204e19d228d57a5924dee9625be1325bcbea54e",
+  "response_id": "2b50591c-a7b5-49e3-b988-eff1e9d74d5b",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "feedback": [
+      {
+        "ticker": "AAPL",
+        "add": false,
+        "strength": "low",
+        "reason": "预测误差约1.3%，幅度温和，摘要仅提及供应链扩张等常规消息，未见持续方向性驱动，暂不记录。"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 52,
+    "prompt_tokens": 791,
+    "total_tokens": 843,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 791
+  }
+}

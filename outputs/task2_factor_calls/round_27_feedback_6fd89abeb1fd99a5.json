@@ -1,0 +1,28 @@
+{
+  "request_sha256": "6fd89abeb1fd99a52a591876233fb3ef9917fb8fbca66229b9c264118bed037a",
+  "response_id": "b5af7603-bf05-42d2-88fb-100490a72969",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "feedback": [
+      {
+        "ticker": "AAPL",
+        "add": true,
+        "strength": "low",
+        "reason": "实际收益略高于预测，误差较小且摘要无持续性基本面驱动，仅记低强度衰减因子"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 45,
+    "prompt_tokens": 791,
+    "total_tokens": 836,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 791
+  }
+}

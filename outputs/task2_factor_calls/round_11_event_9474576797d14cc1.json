@@ -1,0 +1,94 @@
+{
+  "request_sha256": "9474576797d14cc1147d105dc390fb0ac96acdae5bc96155988ca0125d9ad98f",
+  "response_id": "9dbb27a2-5f13-4971-9d24-a6001194d641",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "芯片股抛售及AI热情减退"
+      },
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "扩大与Adobe合作及Volvo增加投资"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "锁定多年AI内容交易且半导体投资带来利好"
+      },
+      {
+        "ticker": "META",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "发布新开放权重AI模型并与Apple合作"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "推出高效大模型提振Azure与M365预期"
+      },
+      {
+        "ticker": "JPM",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "强劲开局后资本市场放缓"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "科技股因AI就业担忧下跌"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "市值达5万亿美元且iPhone预购势头强劲"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "芯片股随市场波动及AI担忧下挫"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "扩展AI基础设施冷却业务"
+      },
+      {
+        "ticker": "WMT",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "德意志银行上调评级及新员工福利"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "仅涉加密平台股票交易，无明确方向性影响"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 335,
+    "prompt_tokens": 736,
+    "total_tokens": 1071,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 736
+  }
+}

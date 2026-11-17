@@ -1,0 +1,118 @@
+{
+  "request_sha256": "b4972f86a56f2a48c8f73da2cb73dc079cfdd6ce77100ca602b4ffa27e266279",
+  "response_id": "0b334530-8c4b-4615-bd5d-65ee327c3042",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "英伟达下跌3.8%，受部署瓶颈及芯片股整体供应链压力拖累"
+      },
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "AI进展及能源板块增长支撑看涨分析师情绪"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "Vera Rubin Cloud规模担忧致股价下滑2.5%"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "与苹果及标普500预测对比仅凸显AI市场乐观情绪，无公司特定方向"
+      },
+      {
+        "ticker": "META",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "投资者担忧AI支出增加与现金流问题"
+      },
+      {
+        "ticker": "META",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "通过无投票权股票为AI融资及税务谈判无明确短期方向"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "UBS对2027年标普500预测属宏观观点，非公司特定事件"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "摩根大通比特币配置预测为观点，非公司特定方向性事件"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "亚马逊股价下跌3.83%，受市场压力影响"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "推出Trainium软件采用测试属战略推进，方向不明"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "苹果获积极关注，与Alphabet在巴菲特组合中对比"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "马斯克投资Skydance及债务担忧非苹果特定方向事件"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "Lam Research警告供应链限制，AMD等芯片股下跌"
+      },
+      {
+        "ticker": "WMT",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "未检索到沃尔玛新闻，无公司特定催化剂"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "Cybercab与Optimus项目创新无明确短期方向"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "科技股抛售及SpaceX合并猜测令投资者情绪分化"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 521,
+    "prompt_tokens": 741,
+    "total_tokens": 1262,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 741
+  }
+}

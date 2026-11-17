@@ -1,0 +1,40 @@
+{
+  "request_sha256": "037e8e7b1754c6093de5a4554edaf26e54949a5734af287145d2d0ac29fe4d58",
+  "response_id": "7ca15308-aba3-4bcb-8a27-838ebb0ddc2e",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "feedback": [
+      {
+        "ticker": "MSFT",
+        "add": false,
+        "strength": "low",
+        "reason": "相对误差为负约1.07%，但摘要仅提及常规数据中心与AI合作，无持续不利催化，视为普通波动。"
+      },
+      {
+        "ticker": "AMD",
+        "add": true,
+        "strength": "medium",
+        "reason": "相对误差为正约2.48%，显著且叠加英伟达进军CPU的持续竞争叙事，存在相对持续影响。"
+      },
+      {
+        "ticker": "WMT",
+        "add": true,
+        "strength": "low",
+        "reason": "相对误差为负约1.94%，且摘要提及供应商库存资金审查，有一定持续压力但证据有限，强度低。"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 139,
+    "prompt_tokens": 1028,
+    "total_tokens": 1167,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 1028
+  }
+}

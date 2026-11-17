@@ -1,0 +1,82 @@
+{
+  "request_sha256": "76c14ce4f27bba1d87c9194f6d0e80a1e8d3b68a65942e186c5a46b1cb7e8548",
+  "response_id": "c657a2f1-b688-487e-beb4-7830e6c4b616",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "Continued AI endorsement and partner platform launches, tempered by AI debt and yield concerns."
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "Open AI agent identity/payment framework announcement, modest positive."
+      },
+      {
+        "ticker": "META",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "Acquisition mostly symbolic; debate over AI and social connection lacks clear near-term price direction."
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_down",
+        "speed": "slow",
+        "reason": "Burry questioning AI spending and valuation creates mild negative sentiment."
+      },
+      {
+        "ticker": "JPM",
+        "level": "small_down",
+        "speed": "slow",
+        "reason": "Probe into account severance raises political bias concerns, modest negative."
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "Strong AWS backlog and surging cloud margins support positive sentiment."
+      },
+      {
+        "ticker": "AAPL",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "No company-specific catalyst in sample."
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "$8.2B AI acquisition signals strategic growth, though rising yields temper impact."
+      },
+      {
+        "ticker": "WMT",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "Retail expansion and funding news modestly positive amid broader Nasdaq declines."
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "Megacharger pilot positive but CoreWeave weakness and Musk caution weigh."
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 321,
+    "prompt_tokens": 691,
+    "total_tokens": 1012,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 691
+  }
+}

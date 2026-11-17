@@ -1,0 +1,129 @@
+{
+  "request_sha256": "88d96d0ce17f5b39d98b45f83ba89611e3c13b8ba27adff82a684c9ee5ff9cb3",
+  "response_id": "7800c1a1-0246-4e5f-bb4b-69e8976e469e",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "NVDA:9"
+        ],
+        "reason": "Nvidia stocks fall 3.8% as DSX POD targets deployment bottleneck."
+      },
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "NVDA:6"
+        ],
+        "reason": "Chip stocks fall as equipment maker Lam Research cites supply chain constraints."
+      },
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "NVDA:18"
+        ],
+        "reason": "BNP Paribas delivers bullish message for Nvidia stock investors."
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "GOOG:3"
+        ],
+        "reason": "Alphabet stocks slip 2.5% as Vera Rubin Cloud scale nears."
+      },
+      {
+        "ticker": "META",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "META:6"
+        ],
+        "reason": "Meta stock set for worst day in nearly three months on negative cash flows amid raised capex floor."
+      },
+      {
+        "ticker": "META",
+        "level": "small_down",
+        "speed": "medium",
+        "source_ids": [
+          "META:5"
+        ],
+        "reason": "Meta's new nonvoting shares create an overhang."
+      },
+      {
+        "ticker": "MSFT",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "No company-specific directional event."
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "No clear directional impact from Bitcoin forecast."
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "AMZN:1"
+        ],
+        "reason": "Amazon stocks fall 3.83% while Trainium software opens a new adoption test."
+      },
+      {
+        "ticker": "AAPL",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "No clear directional event; comparisons and unrelated investment news."
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "AMD:1"
+        ],
+        "reason": "Chip stocks fall as equipment maker Lam Research cites supply chain constraints."
+      },
+      {
+        "ticker": "WMT",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "No WMT news retrieved."
+      },
+      {
+        "ticker": "TSLA",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "Mixed sentiment with no clear directional catalyst."
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 719,
+    "prompt_tokens": 2317,
+    "total_tokens": 3036,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 2317
+  }
+}

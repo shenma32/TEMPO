@@ -1,0 +1,161 @@
+{
+  "request_sha256": "74287fe933865415db0d082da6f4e557452867db72e9cace07c06c8683806c55",
+  "response_id": "45d43c8a-34d9-49d3-bbb2-f07ee7588b42",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "NVDA:14",
+          "NVDA:30"
+        ],
+        "reason": "芯片股连跌及做空警告带来短期压力"
+      },
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "medium",
+        "source_ids": [
+          "NVDA:24",
+          "NVDA:28"
+        ],
+        "reason": "台积电业绩与增长疑虑影响AI芯片链情绪"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "GOOG:5"
+        ],
+        "reason": "伯克希尔大额持仓披露带来正面关注"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "GOOG:9",
+          "GOOG:10"
+        ],
+        "reason": "Gemini 4 Argon基准表现领先但估值偏高"
+      },
+      {
+        "ticker": "META",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "META:5",
+          "META:6"
+        ],
+        "reason": "Truist与美银看多及新AI模型强化乐观预期"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "MSFT:5"
+        ],
+        "reason": "Maia 300发布但股价走低"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "MSFT:4"
+        ],
+        "reason": "Maia 300能效目标提升长期AI芯片竞争力"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "招聘M&A银行家属常规人事，无明确方向"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "AMZN:7"
+        ],
+        "reason": "3.095亿美元客户诉讼带来短期负面"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [
+          "AMZN:4"
+        ],
+        "reason": "550美元平板新品方向不明确"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_down",
+        "speed": "medium",
+        "source_ids": [
+          "AAPL:9"
+        ],
+        "reason": "寻求推翻57亿美元判决带来法律不确定性"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "AMD:1",
+          "AMD:7",
+          "AMD:8"
+        ],
+        "reason": "芯片板块抛售及AI股走弱拖累股价"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "AMD:9"
+        ],
+        "reason": "分析师称1.9GW预留需求被低估"
+      },
+      {
+        "ticker": "WMT",
+        "level": "small_up",
+        "speed": "fast",
+        "source_ids": [
+          "WMT:1"
+        ],
+        "reason": "通胀数据推动资金流入防御股，沃尔玛涨3%"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [
+          "TSLA:1"
+        ],
+        "reason": "Roadster活动为产品事件，方向不明确"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 619,
+    "prompt_tokens": 3505,
+    "total_tokens": 4124,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 3505
+  }
+}

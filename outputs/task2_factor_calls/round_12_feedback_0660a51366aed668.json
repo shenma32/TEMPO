@@ -1,0 +1,28 @@
+{
+  "request_sha256": "0660a51366aed668b174d84834d4fa7d56115313d13cbcbdda37f4e5eb580f20",
+  "response_id": "fb05f42c-bda1-4d65-8583-95f7098df76a",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "feedback": [
+      {
+        "ticker": "AMD",
+        "add": true,
+        "strength": "low",
+        "reason": "预测小幅为负而实际正收益约2.2%，误差方向为正，但摘要仅提及大盘反弹下的韧性、无公司特定催化剂，缺乏持续影响证据，故仅低强度记录。"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 64,
+    "prompt_tokens": 768,
+    "total_tokens": 832,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 768
+  }
+}

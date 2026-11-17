@@ -1,0 +1,40 @@
+{
+  "request_sha256": "46a756f6c4f9751b9457ea3f16ec7857c0e99e3b339a1f4a1558ee18467182f5",
+  "response_id": "24b6f183-5748-4a4c-a42f-e84e535460e2",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "feedback": [
+      {
+        "ticker": "JPM",
+        "add": false,
+        "strength": "low",
+        "reason": "预测收益几乎为零，实际仅小幅正收益约1.7%，误差接近噪声水平，摘要无持续驱动，不构成持续衰减因子。"
+      },
+      {
+        "ticker": "AMD",
+        "add": false,
+        "strength": "low",
+        "reason": "实际约3.1%正收益对近零预测，虽误差偏大但仍属单轮波动，摘要显示板块情绪驱动，不足以判定持续反馈。"
+      },
+      {
+        "ticker": "WMT",
+        "add": false,
+        "strength": "low",
+        "reason": "实际约-1.3%对近零预测，幅度有限且摘要为一般性新闻，属普通随机波动，不加入反馈。"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 153,
+    "prompt_tokens": 881,
+    "total_tokens": 1034,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 881
+  }
+}

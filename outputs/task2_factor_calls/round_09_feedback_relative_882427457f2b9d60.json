@@ -1,0 +1,30 @@
+{
+  "request_sha256": "882427457f2b9d6019251ce4b83dede0553b8b60b44a031177df981be89f5109",
+  "response_id": "cb40203b-83e4-40f9-9bce-1cd28071b19e",
+  "response_model": "deepseek-flash",
+  "thinking": "disabled",
+  "reasoning_effort": null,
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "feedback": [
+      {
+        "ticker": "WMT",
+        "add": false,
+        "strength": "low",
+        "reason": "相对市场误差约-1.36%，但仅有单轮信号且新闻面偏正面，缺乏持续偏离证据，更可能为普通波动。"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 54,
+    "prompt_tokens": 388,
+    "total_tokens": 442,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 388
+  }
+}

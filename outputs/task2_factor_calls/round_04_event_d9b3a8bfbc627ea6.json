@@ -1,0 +1,82 @@
+{
+  "request_sha256": "d9b3a8bfbc627ea6a714ae9a31317f84d9fd37c912cbcf2d80d60e4dedc449fb",
+  "response_id": "25a33bb8-3b3a-4acf-90a0-892a0871c084",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "AI芯片设计与制造合作及内存价格上涨，正面行业需求信号"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "摘要多为苹果市值及云厂商比较，无明确公司方向性催化"
+      },
+      {
+        "ticker": "META",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "AI举措Muse和Stock缓解投资者对AI支出担忧，加上WhatsApp功能更新"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "分析人士偏好新兴云公司而非微软和Alphabet，无明确方向性事件"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "交易管道强劲但监管报告提及银行服务拒绝，方向互相抵消"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "分析人士强调微软和Alphabet之外的一家云巨头，摘要未点名但主题相关"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "市值重回5万亿美元里程碑，但未来增长讨论中性"
+      },
+      {
+        "ticker": "AMD",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "仅数据中心必要性的宏观评论，无公司特定方向性事件"
+      },
+      {
+        "ticker": "WMT",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "无新闻检索到，无法推断公司特定催化"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "与Sunrun电池向加州电网供电创745MW纪录，储能业务正面"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 340,
+    "prompt_tokens": 756,
+    "total_tokens": 1096,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 756
+  }
+}

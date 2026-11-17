@@ -1,0 +1,82 @@
+{
+  "request_sha256": "b80f4162473a8206cc253a60c8f22cebd7289a5a15b2331f511538c2350e1512",
+  "response_id": "c596f3ab-5d92-49e3-a180-0f17dc26ee0b",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "AI交易波动及前景不一的压力盖过突破熊市陷阱的积极信号"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "Waymo/Google校友融资消息规模较小，摘要未显示明确股价方向"
+      },
+      {
+        "ticker": "META",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "AI相关支出上升及信用风险担忧导致股价下跌"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "摘要提及微软接近短期突破潜力，但整体信号混杂"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "银行股息比较及加密资产表现未提供明确方向性事件"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "与3M深化合作影响有限，摘要无明确价格方向"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_down",
+        "speed": "slow",
+        "reason": "分析称股价可能高估约25%，构成温和负面信号"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "AI驱动抛售及供应担忧令芯片股承压，尽管有看涨观点"
+      },
+      {
+        "ticker": "WMT",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "会员组合提升价值主张与客户忠诚度的正面评价"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "Q3营收不及预期，AI投资拖累利润率，尽管分析师前景积极"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 334,
+    "prompt_tokens": 722,
+    "total_tokens": 1056,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 722
+  }
+}

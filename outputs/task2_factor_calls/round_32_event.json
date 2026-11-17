@@ -1,0 +1,82 @@
+{
+  "request_sha256": "bd2dea9ad113539f4035df1da9eec7dfa985e8b383b993d5f3b879ed54e16345",
+  "response_id": "697bf971-3975-44ed-a3a0-f62b40faf374",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "AI trade concerns and chip stock rout pressure shares despite rebound."
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "Positive view despite market price concerns; major ETF component."
+      },
+      {
+        "ticker": "META",
+        "level": "large_down",
+        "speed": "fast",
+        "reason": "$25B penalty and first cash burn since IPO prompt Wall Street jitters."
+      },
+      {
+        "ticker": "MSFT",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "No distinct directional news; mentioned as ETF component and AI stock."
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "News about China regulatory obstacle for SpaceX-Tesla merger, not direct for JPM."
+      },
+      {
+        "ticker": "AMZN",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "Only ETF portfolio composition news; no clear directional catalyst."
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "iPhone Duo launch amid limited supplies and potential growth phase."
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "Chip stocks face declines from AI trade pressure and supply chain constraints."
+      },
+      {
+        "ticker": "WMT",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "Sam's Club exclusive pay-over-time deal with Affirm enhances customer options."
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "Q3 beat and raised price targets offset by AI trade jitters and oil surge."
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 476,
+    "prompt_tokens": 720,
+    "total_tokens": 1196,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 720
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "request_sha256": "a34e4ff634b040f950c46ef57b099daa0cc197fa70fc29178360bf43df947fef",
+  "response_id": "511119eb-459b-4db6-a58b-0bad0283e17c",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "AI投资增加与芯片股回升提供温和正面支撑"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "云增长与TPU销售强劲，但部分交易限制构成混杂因素"
+      },
+      {
+        "ticker": "META",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "摘要仅为行业趋势，无公司明确方向性催化剂"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "自动化扩展与交易限制混杂，缺乏明确股价方向"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "无公司新闻，无法推断方向"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "数据中心交易与积极Q3趋势显示反弹迹象"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "摘要为分歧观点与领导层评论，无明确方向"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "AI担忧缓解且市场机会预期高于华尔街"
+      },
+      {
+        "ticker": "WMT",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "假期前会员优惠提升，温和正面"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "薪酬估值与合并猜测混杂，缺乏明确股价方向"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 299,
+    "prompt_tokens": 699,
+    "total_tokens": 998,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 699
+  }
+}

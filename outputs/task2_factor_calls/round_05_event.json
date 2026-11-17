@@ -1,0 +1,82 @@
+{
+  "request_sha256": "6c9c6cf76a1bfc9e5e339f113ba271dcaa9f164dfcb06afe6917d0bde2ab430d",
+  "response_id": "0e9249c8-f732-4e13-b3b7-7720cde8c77b",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "芯片股因通胀和AI支出担忧面临抛售压力"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "伯克希尔大额持股及Gemini AI模型领先"
+      },
+      {
+        "ticker": "META",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "分析师看涨并强调新AI模型增长驱动"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_down",
+        "speed": "slow",
+        "reason": "AI芯片推进但股价近期下跌"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "招聘并购顾问，无明确方向性影响"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_down",
+        "speed": "slow",
+        "reason": "客户诉讼及成本削减担忧"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_down",
+        "speed": "slow",
+        "reason": "面临57亿美元法律裁决争议"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "芯片板块担忧拖累股价下跌"
+      },
+      {
+        "ticker": "WMT",
+        "level": "small_up",
+        "speed": "fast",
+        "reason": "通胀数据提振防御股，股价上涨3%"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "仅重新安排Roadster活动，无明确方向"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 282,
+    "prompt_tokens": 685,
+    "total_tokens": 967,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 685
+  }
+}

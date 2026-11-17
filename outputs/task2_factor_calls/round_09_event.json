@@ -1,0 +1,82 @@
+{
+  "request_sha256": "c7c9346f1017567f28bbb1f8d13c4eb7cd20d2fba09eab30a56bbe779c44e16d",
+  "response_id": "856867c6-28e9-4587-8f67-fcb4f5a306b6",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "AI chip demand strong but investor fears and CoreWeave sell-offs drive volatility"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "Efficiency gains from AI investments despite search disruptions"
+      },
+      {
+        "ticker": "META",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "Heavy AI investment with expected returns but broader market pullback"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "Price target increases and expected strong Azure performance ahead of earnings"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "No company-specific catalyst in retrieved headlines"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_down",
+        "speed": "slow",
+        "reason": "Anthropic revenue concerns add to AI sector worries"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "Shares remain strong despite broader AI stock decline"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "AI-related stocks plunged despite TSMC record AI demand"
+      },
+      {
+        "ticker": "WMT",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "Holiday sales expected to accelerate on resilient shoppers"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_down",
+        "speed": "slow",
+        "reason": "AI stock declines weigh despite TSMC record profits"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 295,
+    "prompt_tokens": 703,
+    "total_tokens": 998,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 703
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "request_sha256": "e03edd43cdc60408f43d3bf841e3a9b6d68c52b960aa6fdf786ca6a269dd2236",
+  "response_id": "3615e06f-1b10-455e-897a-8f2779500413",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "feedback": [
+      {
+        "ticker": "GOOG",
+        "add": true,
+        "strength": "low",
+        "reason": "实际收益约-1.74%低于预测近零收益，误差约-1.74%，但幅度较温和，且摘要显示估值与AI投资情绪的持续讨论，仅记为低强度持续误差因子。"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 68,
+    "prompt_tokens": 782,
+    "total_tokens": 850,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 782
+  }
+}

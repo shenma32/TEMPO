@@ -1,0 +1,82 @@
+{
+  "request_sha256": "1a894023605c8b77c4b1dbb5f4ad62204f21c1d18d2005c6f783d9cee4c7ec29",
+  "response_id": "905bd70c-57bf-49d7-9463-79ad41c49472",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "No fresh directional catalyst; mixed sentiment offset by long-term bullish analyst views."
+      },
+      {
+        "ticker": "GOOG",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "Mentioned only in context of Apple/Nvidia shift and upcoming earnings; no specific news."
+      },
+      {
+        "ticker": "META",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "Investor interest in AI monetization potential, though amid cautious market."
+      },
+      {
+        "ticker": "MSFT",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "Upcoming earnings focus but no new directional catalyst."
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "Analyst commentary on ASML competition; not a direct JPM catalyst."
+      },
+      {
+        "ticker": "AMZN",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "Only mentioned in earnings context; no company-specific news."
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "Reclaimed Wall Street top spot from Nvidia, positive market presence signal."
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "Highlighted as strong AI chip investment with growth potential."
+      },
+      {
+        "ticker": "WMT",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "No company-specific news retrieved."
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "Significant surge in European sales indicates strong regional demand."
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 311,
+    "prompt_tokens": 723,
+    "total_tokens": 1034,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 723
+  }
+}

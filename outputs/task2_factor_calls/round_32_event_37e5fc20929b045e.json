@@ -1,0 +1,183 @@
+{
+  "request_sha256": "37e5fc20929b045e916369212f1909f58390d5549b94814eb54bcfd8f7f25bd8",
+  "response_id": "aec69270-1f5e-4572-ade8-6cc855a8338c",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "NVDA:3",
+          "NVDA:4"
+        ],
+        "reason": "AI交易承压，芯片股与Meta同步下跌"
+      },
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "medium",
+        "source_ids": [
+          "NVDA:7"
+        ],
+        "reason": "Lam Research提及供应链限制，芯片股走弱"
+      },
+      {
+        "ticker": "NVDA",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "NVDA:6"
+        ],
+        "reason": "芯片股在2.6万亿美元大跌后突破空头陷阱"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "GOOG:1"
+        ],
+        "reason": "估值与价格对比显示基本面偏正面"
+      },
+      {
+        "ticker": "META",
+        "level": "large_down",
+        "speed": "fast",
+        "source_ids": [
+          "META:7"
+        ],
+        "reason": "新墨西哥州法官处以250亿美元罚款"
+      },
+      {
+        "ticker": "META",
+        "level": "large_down",
+        "speed": "fast",
+        "source_ids": [
+          "META:2",
+          "META:5"
+        ],
+        "reason": "上市以来首次现金消耗，股价跌破关键位"
+      },
+      {
+        "ticker": "META",
+        "level": "small_down",
+        "speed": "medium",
+        "source_ids": [
+          "META:10",
+          "META:3"
+        ],
+        "reason": "AI交易承压及AI支出担忧拖累"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "无明确方向性事件"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "仅评论SpaceX-Tesla合并障碍，对自身无直接影响"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "仅ETF权重相关表述，无明确方向性事件"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "AAPL:3"
+        ],
+        "reason": "报道称苹果可能迎来新一轮重要增长期"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "AAPL:5"
+        ],
+        "reason": "1999美元iPhone Duo上市，供应有限"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "AMD:1",
+          "AMD:3"
+        ],
+        "reason": "AI交易承压及Lam Research供应链限制拖累芯片股"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "AMD:2"
+        ],
+        "reason": "芯片股在深度回调后突破空头陷阱"
+      },
+      {
+        "ticker": "WMT",
+        "level": "unchanged",
+        "speed": "medium",
+        "source_ids": [],
+        "reason": "Sam's Club与Affirm合作，对沃尔玛无明确方向性影响"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_down",
+        "speed": "fast",
+        "source_ids": [
+          "TSLA:16",
+          "TSLA:2"
+        ],
+        "reason": "Q3盈利超预期但股价仍下滑，AI交易担忧与油价上涨拖累"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_up",
+        "speed": "medium",
+        "source_ids": [
+          "TSLA:21",
+          "TSLA:17"
+        ],
+        "reason": "分析师上调目标价，看好AI与合并前景"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_up",
+        "speed": "slow",
+        "source_ids": [
+          "TSLA:15",
+          "TSLA:13"
+        ],
+        "reason": "SpaceX与特斯拉合并预期升温"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 731,
+    "prompt_tokens": 3288,
+    "total_tokens": 4019,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 3288
+  }
+}

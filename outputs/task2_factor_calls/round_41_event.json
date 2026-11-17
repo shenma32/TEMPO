@@ -1,0 +1,82 @@
+{
+  "request_sha256": "4fc074f3a67ec068ee5a2d0d20747830cb2b41026ee8c968a12063a74226f1e7",
+  "response_id": "ba4c1290-194c-4080-8f15-5e46b8424c3f",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "分析师对AI数据中心产能不足和工厂停工的担忧构成负面压力"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "云业务增长强劲但财报前市场波动，方向不明"
+      },
+      {
+        "ticker": "META",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "发行无投票权股份融资AI扩张，影响中性且市场波动"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "Azure增长强劲但云利润率受审视，信号混合"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "slow",
+        "reason": "摘要主要涉及XRP与Amex裁员，与摩根大通无明确方向关联"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "摘要提及AI数据中心产能担忧及Meta成本上升，间接负面情绪"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "折叠iPhone发布引发波动但华尔街信号混合"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "科技股大幅抛售拖累半导体板块"
+      },
+      {
+        "ticker": "WMT",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "推出AI购物工具以提升交易量，属温和正面"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "Cybertruck退出澳新市场及科技板块波动导致股价下跌"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 321,
+    "prompt_tokens": 695,
+    "total_tokens": 1016,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 695
+  }
+}

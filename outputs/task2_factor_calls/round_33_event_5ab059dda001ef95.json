@@ -1,0 +1,82 @@
+{
+  "request_sha256": "5ab059dda001ef95bbf5538a97ca389f90de35074b296fe949d4975b3b2dc9b5",
+  "response_id": "8e64a850-cdc2-4757-a5c8-537894cc020a",
+  "response_model": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "parsed": {
+    "events": [
+      {
+        "ticker": "NVDA",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "AI芯片股承压且资金轮动流出科技基金"
+      },
+      {
+        "ticker": "GOOG",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "云服务整合OpenAI模型并达成核能协议"
+      },
+      {
+        "ticker": "META",
+        "level": "small_down",
+        "speed": "fast",
+        "reason": "Q3业绩超预期但股价因AI支出担忧下跌6%"
+      },
+      {
+        "ticker": "MSFT",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "AI TRiSM市场增长预测，无明确方向性事件"
+      },
+      {
+        "ticker": "JPM",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "与美银的财务股比较，无明确方向性事件"
+      },
+      {
+        "ticker": "AMZN",
+        "level": "unchanged",
+        "speed": "medium",
+        "reason": "AV2采用及投资潜力讨论，无明确方向性事件"
+      },
+      {
+        "ticker": "AAPL",
+        "level": "small_up",
+        "speed": "medium",
+        "reason": "iPhone Duo预购需求强劲导致缺货至2027年"
+      },
+      {
+        "ticker": "AMD",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "AI板块压力下AMD股价下跌"
+      },
+      {
+        "ticker": "WMT",
+        "level": "small_up",
+        "speed": "slow",
+        "reason": "推出联合会员套餐，假日购物成本上升"
+      },
+      {
+        "ticker": "TSLA",
+        "level": "small_down",
+        "speed": "medium",
+        "reason": "Q3利润下滑43%且运营成本上升"
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 309,
+    "prompt_tokens": 754,
+    "total_tokens": 1063,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 754
+  }
+}
