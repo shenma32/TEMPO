@@ -81,7 +81,7 @@ For numerical calibration, we use cached Yahoo Finance hourly-bar opens on 709 c
 The replay verifies release identifiers, timestamps, publication deadlines, and available file hashes. The historical calibration ends before the first competition release, and feedback uses only outcomes released by the current decision time.
 
 \section{TEMPO Architecture}
-At each release, TEMPO evaluates newly settled forecasts and appends any accepted feedback factors. It then creates relationship and event factors from the released prices and news. These factors encode temporal evidence and produce forecasts for the scheduled holding interval. The decision module combines the forecasts with relative price momentum to choose a pair or abstain. Figure~\ref{fig:architecture} shows the information flow.
+At each release, TEMPO evaluates newly settled forecasts and appends any accepted feedback factors. It then creates relationship and event factors from the released prices and news. These factors encode temporal evidence and produce forecasts for the scheduled holding interval. The decision module combines the forecasts with relative price momentum to choose a pair or abstain. Fig.~\ref{fig:architecture} shows the information flow.
 
 \begin{figure*}[t]
 \centering
@@ -125,7 +125,7 @@ The factor's predicted return contribution is
                     -S_{z_k}(x_t-p_k;\tau_k)\right].
  \label{eq:interval}
 \end{equation}
-The time differences in (\ref{eq:interval}) are expressed in hours. Each survival function decreases, so an individual contribution retains its original sign. Equation~\ref{eq:interval} measures the remaining response between entry and exit, and wall-clock aging continues overnight. Figure~\ref{fig:factor_decay} illustrates the factor-to-forecast calculation.
+The time differences in \eqref{eq:interval} are expressed in hours. Each survival function decreases, so an individual contribution retains its original sign. Eq.~\eqref{eq:interval} measures the remaining response between entry and exit, and wall-clock aging continues overnight. Fig.~\ref{fig:factor_decay} illustrates the factor-to-forecast calculation.
 
 The three decay families express different persistence assumptions. The stretched exponential gives an event a sharp early response and a slower later tail; the exponential assigns a single characteristic scale to a relationship deviation; the power law allows feedback from a settled forecast error to persist longer. These functional forms and their exponents are modeling choices, not estimates identified by the 37-round sample. Their half-lives are $\tau(\ln 2)^{4/3}$, $\tau\ln 2$, and $\tau(2^{2/3}-1)$, respectively. We use elapsed wall-clock time because the next entry and exit times are fixed by the protocol.
 
