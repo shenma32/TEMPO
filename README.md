@@ -1,6 +1,6 @@
 # TEMPO reproducibility materials
 
-This repository contains the implementation, exact released inputs, model prompts, cached model responses, and reports for **TEMPO: Temporal Evidence and Momentum for Market-Neutral Hedging** (FinReason Cup 2026, Task 2). The English and Chinese manuscripts are in `Docs/task2_working_note/`.
+This repository contains the implementation, exact released inputs, model prompts, cached model responses, and reports for **TEMPO: Temporal Evidence and Momentum for Market-Neutral Hedging** (FinReason Cup 2026, Task 2). The English manuscript is in `Docs/task2_working_note/`.
 
 ## Contents
 
@@ -37,4 +37,4 @@ python -m pytest tests -q
 
 The historical replay contains 41 releases and 37 evaluable rounds. The live replay appends six independent rounds; the official live return is reported in the manuscript and is separate from the historical cumulative return. `task2_market_beta.py` fits stock betas on 3,490 matched historical intraday intervals, then computes each equal-dollar long–short pair's estimated beta as half the long-stock beta minus half the short-stock beta.
 
-The manuscript source uses IEEEtran and BibTeX. Build the English PDF with `latexmk -pdf working_note.tex` and the Chinese PDF with `latexmk -xelatex working_note_zh.tex` from `Docs/task2_working_note/`.
+The manuscript source uses IEEEtran and BibTeX. Build the PDF with `latexmk -pdf working_note.tex` from `Docs/task2_working_note/`.
